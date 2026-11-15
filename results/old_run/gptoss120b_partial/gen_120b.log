@@ -1,0 +1,17 @@
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 25/199 [00:00<00:00, 234.12it/s]Loading weights:  25%|██▍       | 49/199 [00:00<00:00, 168.89it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 616.47it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+A-dense          A14 refused=False cost=$0.0005 gen=1.5s wait=0s
+A-dense          A15 refused=False cost=$0.0005 gen=1.2s wait=229s
+A-dense          A16 refused=False cost=$0.0005 gen=1.0s wait=1265s
+A-dense          A17 refused=False cost=$0.0005 gen=1.0s wait=1238s
+A-dense          A18 refused=False cost=$0.0005 gen=1.4s wait=1248s
+A-dense          A19 refused=False cost=$0.0005 gen=1.0s wait=1195s
+A-dense          A20 refused=False cost=$0.0005 gen=1.1s wait=1284s
+A-dense          A21 refused=False cost=$0.0005 gen=1.0s wait=1122s
+A-dense          A22 refused=False cost=$0.0005 gen=1.2s wait=1308s
+A-dense          A23 refused=False cost=$0.0005 gen=0.9s wait=1242s
+A-dense          A24 refused=False cost=$0.0005 gen=0.9s wait=1251s
+A-dense          A25 refused=False cost=$0.0005 gen=1.1s wait=1266s
+A-dense          A26 refused=False cost=$0.0005 gen=1.3s wait=1304s
+A-dense          A27 refused=False cost=$0.0005 gen=1.2s wait=1281s
+A-dense          A28 refused=False cost=$0.0005 gen=1.2s wait=1301s

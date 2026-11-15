@@ -1,0 +1,98 @@
+{
+  "D01_dl_guidelines_2022": {
+    "file": "D01_dl_guidelines_2022.html",
+    "route": "html (already present)",
+    "bytes": 135988,
+    "download_date": "2026-11-13"
+  },
+  "D02_dlg_guidelines_2023": {
+    "file": "D02_dlg_guidelines_2023.html",
+    "route": "html (already present)",
+    "bytes": 126468,
+    "download_date": "2026-11-13"
+  },
+  "D03_dl_directions_2025": {
+    "file": "D03_dl_directions_2025.html",
+    "route": "html (already present)",
+    "bytes": 168737,
+    "download_date": "2026-11-13"
+  },
+  "D04_dl_faq": {
+    "file": "D04_dl_faq.html",
+    "route": "html (already present)",
+    "bytes": 63330,
+    "download_date": "2026-11-13"
+  },
+  "D05_pa_guidelines_2020": {
+    "file": "D05_pa_guidelines_2020.html",
+    "route": "html (already present)",
+    "bytes": 146341,
+    "download_date": "2026-11-13"
+  },
+  "D06_pa_directions_2025": {
+    "file": "D06_pa_directions_2025.html",
+    "route": "html (already present)",
+    "bytes": 164784,
+    "download_date": "2026-11-13"
+  },
+  "D07_emandate_2022": {
+    "file": "D07_emandate_2022.html",
+    "route": "html (already present)",
+    "bytes": 111701,
+    "download_date": "2026-11-13"
+  },
+  "D08_emandate_2023": {
+    "file": "D08_emandate_2023.html",
+    "route": "html (already present)",
+    "bytes": 112996,
+    "download_date": "2026-11-13"
+  },
+  "D09_emandate_framework_2026": {
+    "file": "D09_emandate_framework_2026.html",
+    "route": "html (already present)",
+    "bytes": 122171,
+    "download_date": "2026-11-13"
+  },
+  "D10_authentication_2025": {
+    "file": "D10_authentication_2025.html",
+    "route": "html (already present)",
+    "bytes": 128800,
+    "download_date": "2026-11-13"
+  },
+  "D11_ppi_md_2021": {
+    "file": "D11_ppi_md_2021.html",
+    "route": "html (already present)",
+    "bytes": 225702,
+    "download_date": "2026-11-13"
+  },
+  "D12_kyc_md_2016": {
+    "file": "D12_kyc_md_2016.html",
+    "route": "html (already present)",
+    "bytes": 481071,
+    "download_date": "2026-11-13"
+  },
+  "D13_aa_directions_2025": {
+    "file": "D13_aa_directions_2025.html",
+    "route": "html (already present)",
+    "bytes": 152708,
+    "download_date": "2026-11-13"
+  },
+  "D14_payments_vision_2025": {
+    "file": "D14_payments_vision_2025.html",
+    "route": "html (already present)",
+    "bytes": 170041,
+    "download_date": "2026-11-13"
+  },
+  "D15_dpdp_rules_2025": {
+    "file": "D15_dpdp_rules_2025.pdf",
+    "route": "pdf (already present)",
+    "bytes": 2492944,
+    "download_date": "2026-11-13"
+  },
+  "D16_nbfc_credit_facilities_2025": {
+    "file": "D16_nbfc_credit_facilities_2025.html",
+    "route": "html (notification web page)",
+    "bytes": 216630,
+    "download_date": "2026-11-13"
+  }
+}

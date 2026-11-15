@@ -1,0 +1,1745 @@
+{
+ "doc_id": "D03_dl_directions_2025",
+ "source_file": "D03_dl_directions_2025.html",
+ "n_pages_pdf": null,
+ "words": 6216,
+ "est_pages": 13.8,
+ "n_blocks": 192,
+ "n_headings": 41,
+ "issues": [
+  "11 table rows serialised as 'cell | cell'",
+  "page carries a 'Withdrawn04122025' watermark (document withdrawn/superseded)",
+  "HTML source: no page numbers; RBI site navigation and index (TOC) tables removed"
+ ],
+ "blocks": [
+  {
+   "text": "RBI/2025-26/36 DOR.STR.REC.19/21.07.001/2025-26",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 0,
+   "char_end": 47
+  },
+  {
+   "text": "May 8, 2025",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 49,
+   "char_end": 60
+  },
+  {
+   "text": "Reserve Bank of India (Digital Lending) Directions, 2025",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 62,
+   "char_end": 118
+  },
+  {
+   "text": "Chapter I: Preliminary",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 120,
+   "char_end": 142
+  },
+  {
+   "text": "1. Preamble",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 144,
+   "char_end": 155
+  },
+  {
+   "text": "Reserve Bank is statutorily mandated to operate the credit system of the country to its advantage. In this endeavour, Reserve Bank encourages innovation in the financial systems, products and credit delivery methods while ensuring orderly growth, financial stability and protection of depositors’ and borrowers’ interest. Certain concerns had emerged around the methods of designing, delivering and servicing digital credit products, which if not mitigated, may impact the borrower’s confidence in the digital lending ecosystem. The concerns primarily relate to unbridled engagement of third parties, mis-selling, breach of data privacy, unfair business conduct, charging of exorbitant interest rates, and unethical recovery practices. To address these concerns, pursuant to the recommendations made by the “Working Group on Digital Lending”, the Reserve Bank has, from time to time, issued guidelines to its regulated entities on digital lending. These Directions consolidate the earlier instructions along with certain new measures for arrangements involving Lending Service Providers partnering with multiple regulated entities as mentioned under para 6, and for creation of a directory of digital lending apps as mentioned under para 17 of these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 157,
+   "char_end": 1418
+  },
+  {
+   "text": "Accordingly, in exercise of powers conferred by sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, sections 30A and 32 of the National Housing Bank Act, 1987, section 6 of the Factoring Regulation Act, 2011 and section 11 of the Credit Information Companies (Regulation) Act, 2005, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby issues these Directions hereinafter specified.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1420,
+   "char_end": 1942
+  },
+  {
+   "text": "2. Short title and commencement",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 1944,
+   "char_end": 1975
+  },
+  {
+   "text": "i. These Directions shall be called the Reserve Bank of India (Digital Lending) Directions, 2025.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1977,
+   "char_end": 2074
+  },
+  {
+   "text": "ii. These Directions shall come into force immediately except for para 6, which shall come into effect from November 1, 2025, and para 17, which shall come into effect from June 15, 2025.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2076,
+   "char_end": 2263
+  },
+  {
+   "text": "3. Applicability",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2265,
+   "char_end": 2281
+  },
+  {
+   "text": "These Directions shall be applicable to all digital lending activities of the following entities, hereinafter referred to as a Regulated Entity (RE) and collectively as Regulated Entities (REs), as the context may require:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2283,
+   "char_end": 2505
+  },
+  {
+   "text": "i. All Commercial Banks,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2507,
+   "char_end": 2531
+  },
+  {
+   "text": "ii. All Primary (Urban) Co-operative Banks, State Co-operative Banks, Central Co-operative Banks,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2533,
+   "char_end": 2630
+  },
+  {
+   "text": "iii. All Non-Banking Financial Companies (including Housing Finance Companies), and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2632,
+   "char_end": 2715
+  },
+  {
+   "text": "iv. All All-India Financial Institutions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2717,
+   "char_end": 2758
+  },
+  {
+   "text": "4. Definitions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2760,
+   "char_end": 2774
+  },
+  {
+   "text": "For the purpose of these Directions, unless the context otherwise requires, the terms herein shall bear the meaning assigned to them below:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2776,
+   "char_end": 2915
+  },
+  {
+   "text": "i. Annual Percentage Rate (APR): APR as defined under Circular No. DOR.STR.REC.13/13.03.00/2024-25 on ‘Key Facts Statement (KFS) for Loans & Advances’ dated April 15, 2024 , as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2917,
+   "char_end": 3120
+  },
+  {
+   "text": "ii. Default Loss Guarantee (DLG): A contractual arrangement, called by whatever name, between the RE and another entity, under which the latter guarantees to compensate the RE, for the loss due to default up to a certain percentage of the loan portfolio of the RE, specified upfront. Any other implicit guarantee of similar nature, linked to the performance of the loan portfolio of the RE and specified upfront, shall also be covered under the definition of DLG.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3122,
+   "char_end": 3585
+  },
+  {
+   "text": "iii. Digital Lending: A remote and automated lending process, largely by use of seamless digital technologies for customer acquisition, credit assessment, loan approval, disbursement, recovery, and associated customer service.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3587,
+   "char_end": 3813
+  },
+  {
+   "text": "iv. Digital Lending Apps/ Platforms (DLAs): Mobile and/or web-based applications, on a standalone basis or as a part of suite of functions of an application with user interface that facilitate digital lending services. DLAs shall include applications of the RE as well as those operated by Lending Service Provider (LSP) engaged by RE for extending any credit facilitation services in conformity with extant outsourcing guidelines issued by the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3815,
+   "char_end": 4273
+  },
+  {
+   "text": "v. Lending Service Provider (LSP): An agent of a RE (including another RE) who carries out one or more of RE’s digital lending functions, or part thereof, in customer acquisition, services incidental to underwriting and pricing, servicing, monitoring, recovery of specific loan or loan portfolio on behalf of RE in conformity with extant outsourcing guidelines issued by the Reserve Bank. 1",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4275,
+   "char_end": 4665
+  },
+  {
+   "text": "Chapter II: General Requirements for RE-LSP Arrangements",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 4667,
+   "char_end": 4723
+  },
+  {
+   "text": "5. Due diligence requirements with respect to LSPs",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 4725,
+   "char_end": 4775
+  },
+  {
+   "text": "i. Digital lending by a RE involving a LSP, shall be carried out under a contractual agreement between the RE and the LSP, which clearly defines the respective roles, rights, and obligations of each party thereto.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4777,
+   "char_end": 4990
+  },
+  {
+   "text": "ii. RE shall conduct enhanced due diligence before they enter into an agreement with a LSP for digital lending, taking into account LSP’s technical capabilities, robustness of data privacy policies and storage systems, fairness in conduct with borrowers, past records of conduct and ability to comply with all applicable regulations and statutes.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4992,
+   "char_end": 5338
+  },
+  {
+   "text": "iii. RE shall carry out periodic review of the conduct of the LSP vis-à-vis the terms of the contractual agreement and shall take appropriate action in the event of any deviation therefrom.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5340,
+   "char_end": 5529
+  },
+  {
+   "text": "iv. RE shall lay down, as part of its policy, suitable monitoring mechanisms for the loan portfolios originated with the support of LSPs.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5531,
+   "char_end": 5668
+  },
+  {
+   "text": "v. RE shall impart necessary guidance to LSP acting as a recovery agent, to discharge their duties responsibly and ensure that LSP complies with the applicable instructions 2 in this regard.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5670,
+   "char_end": 5860
+  },
+  {
+   "text": "vi. RE shall continue to conform to the extant guidelines on outsourcing 3 and shall ensure that the LSPs engaged by them and the DLAs (either of the RE or of the LSPs engaged by the RE) comply with these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5862,
+   "char_end": 6078
+  },
+  {
+   "text": "vii. As an overarching principle, any outsourcing agreement entered into by the RE with an LSP shall in no manner dilute or absolve the RE of its obligations under any statutory or regulatory provision, and the RE shall remain fully responsible and liable for all acts and omissions of the LSP.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6080,
+   "char_end": 6374
+  },
+  {
+   "text": "6. RE-LSP arrangements involving multiple lenders",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 6376,
+   "char_end": 6425
+  },
+  {
+   "text": "In cases where a LSP has agreements with multiple REs for digital lending, each RE shall ensure the following:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6427,
+   "char_end": 6537
+  },
+  {
+   "text": "i. LSP shall provide a digital view of all the loan offers matching the borrower’s request on the DLA which meets the requirement of the borrower. The name of the unmatched lenders shall also be disclosed in the digital view.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6539,
+   "char_end": 6764
+  },
+  {
+   "text": "ii. While the LSP may adopt any mechanism to match the request of borrowers with the lender (s) to offer a loan, it shall follow a consistent approach for similarly placed borrowers and products. The mechanism adopted by the LSP and any subsequent changes to this mechanism shall be properly documented.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6766,
+   "char_end": 7069
+  },
+  {
+   "text": "iii. The digital view of loan offers from matching lenders shall include the name (s) of the RE (s) extending the loan offer, amount and tenor of loan, APR, monthly repayment obligation and penal charges (if applicable), in a way which enables the borrower to make a fair comparison between various offers. A link to the KFS shall also be provided in respect of each of the RE.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7071,
+   "char_end": 7448
+  },
+  {
+   "text": "iv. The content displayed by the LSP shall be unbiased, objective and shall not directly/ indirectly promote or push a product of a particular RE, including the use of dark patterns/deceptive patterns 4 designed to mislead borrowers into choosing a particular loan offer. However, ranking of loan offers based on a publicly pre-disclosed metric for such ranking shall not be construed as promoting a particular product.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7450,
+   "char_end": 7869
+  },
+  {
+   "text": "Chapter III: Conduct and Customer Protection Requirements",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 7871,
+   "char_end": 7928
+  },
+  {
+   "text": "7. Assessing the borrower’s creditworthiness",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 7930,
+   "char_end": 7974
+  },
+  {
+   "text": "i. RE shall obtain the necessary information relating to economic profile of the borrower with a view to assessing the borrower’s creditworthiness before extending any loan, including, at a minimum, age, occupation and income details. The same shall be kept on record for audit purposes.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7976,
+   "char_end": 8263
+  },
+  {
+   "text": "ii. RE shall ensure that there is no automatic increase in credit limit unless an explicit request is received, evaluated and kept on record from the borrower for such increase.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8265,
+   "char_end": 8442
+  },
+  {
+   "text": "8. Disclosures to borrowers",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 8444,
+   "char_end": 8471
+  },
+  {
+   "text": "i. RE shall provide a Key Fact Statement (KFS), as per instructions contained in circular no. DOR.STR.REC.13/13.03.00/2024-25 on ‘Key Facts Statement (KFS) for Loans & Advances’ dated April 15, 2024 , as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8473,
+   "char_end": 8703
+  },
+  {
+   "text": "ii. As regards penal charges, RE shall be guided by circular no. DoR.MCS.REC.28/01.01.001/2023-24 on ‘Fair Lending Practice - Penal Charges in Loan Accounts’ dated August 18, 2023 , as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8705,
+   "char_end": 8916
+  },
+  {
+   "text": "iii. RE shall ensure that digitally signed documents 5 (on the letter head of the RE) viz., KFS, summary of loan product, sanction letter, terms and conditions, account statements, privacy policies of the RE / LSP with respect to storage and usage of borrowers’ data, etc. shall automatically flow to the borrower on the registered and verified email/ SMS upon execution of the loan contract/ transactions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8918,
+   "char_end": 9324
+  },
+  {
+   "text": "iv. RE shall maintain a website of their own in public domain, which shall be kept up to date, inter-alia, with the following details at a prominent single place on the website for ease of accessibility:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9326,
+   "char_end": 9529
+  },
+  {
+   "text": "Details of all of its digital lending products and its DLAs;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9531,
+   "char_end": 9591
+  },
+  {
+   "text": "Details of LSPs and the DLAs of the LSPs along with the details of the activities for which they have been engaged for;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9593,
+   "char_end": 9712
+  },
+  {
+   "text": "Particulars of RE’s customer care and internal grievance redressal mechanism;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9714,
+   "char_end": 9791
+  },
+  {
+   "text": "Link to RBI’s Complaint Management System (CMS) and Sachet Portal;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9793,
+   "char_end": 9859
+  },
+  {
+   "text": "Privacy policies and other details as required under extant guidelines of the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9861,
+   "char_end": 9952
+  },
+  {
+   "text": "RE shall ensure that DLAs / LSPs have links to the above website of the RE.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9954,
+   "char_end": 10029
+  },
+  {
+   "text": "v. In case of a loan default, when a recovery agent is assigned for recovery or there is a change in the recovery agent already assigned, the particulars of such recovery agent authorised to approach the borrower for recovery shall be communicated to the borrower through email/ SMS before the recovery agent contacts the borrower for recovery.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10031,
+   "char_end": 10375
+  },
+  {
+   "text": "9. Loan disbursal, servicing and repayment",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 10377,
+   "char_end": 10419
+  },
+  {
+   "text": "i. Disbursement of loan by the RE shall always be made into the bank account of the borrower except for disbursals covered exclusively under statutory or regulatory mandate (of RBI or of any other regulator), flow of money between REs for co-lending transactions 6 and disbursals for specific end use, provided the loan is disbursed directly into the bank account of the end-beneficiary 7 . RE shall ensure that in no case, disbursal is made to a third-party account, including the accounts of LSP, except as provided for in these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10421,
+   "char_end": 10963
+  },
+  {
+   "text": "ii. RE shall ensure that all loan servicing, repayment, etc. is executed by the borrower directly in the RE’s bank account without any pass-through account/ pool account of any third party, including the accounts of LSP.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10965,
+   "char_end": 11185
+  },
+  {
+   "text": "iii. The flow of funds between the bank accounts of the borrower and the RE shall not be controlled either directly or indirectly by a third-party, including the LSP.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11187,
+   "char_end": 11353
+  },
+  {
+   "text": "iv. RE shall ensure that any fees, charges, reimbursements, etc. payable to LSP are paid directly by the RE and are not charged to or collected from the borrowers separately by LSP.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11355,
+   "char_end": 11536
+  },
+  {
+   "text": "v. In case of delinquent loans, RE may deploy physical interface to recover loans in cash, wherever necessary. In order to afford operational flexibility to RE, such transactions are exempted from the requirement of direct repayment of loan in the RE’s bank account. However, any recovery by cash shall be duly reflected in full in the borrower’s account on the same day and RE shall ensure that any fees, charges, etc., payable to LSPs for such recovery are paid directly by the RE and are not charged by LSP to the borrower either directly or indirectly from the recovery proceeds.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11538,
+   "char_end": 12121
+  },
+  {
+   "text": "10. Cooling-off period",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 12123,
+   "char_end": 12145
+  },
+  {
+   "text": "i. The borrower shall be given an explicit option to exit a digital loan by paying the principal and the proportionate APR without any penalty during an initial “cooling-off period”. The cooling off period shall be determined by the Board of the RE as laid down in their loan policy, subject to the period so determined not being less than one day. For borrower continuing with the loan even after cooling-off period, pre-payment shall continue to be allowed as per applicable RBI guidelines 8 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12147,
+   "char_end": 12642
+  },
+  {
+   "text": "ii. RE may retain a reasonable one-time processing fee, if the customer exits the loan during the cooling-off period. This, if applicable, shall be disclosed to the customer upfront in KFS.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12644,
+   "char_end": 12833
+  },
+  {
+   "text": "11. Grievance redressal",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 12835,
+   "char_end": 12858
+  },
+  {
+   "text": "i. The RE, and the LSP which has an interface with the borrower, shall designate nodal grievance redressal officers to deal with digital lending related complaints/ issues raised by the borrower.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12860,
+   "char_end": 13055
+  },
+  {
+   "text": "ii. Contact details of the nodal grievance redressal officers shall be prominently displayed on the websites of the RE, its LSP and on the DLA, as well as in the KFS provided to the borrower.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13057,
+   "char_end": 13248
+  },
+  {
+   "text": "iii. The facility of lodging complaint shall also be made available on the DLA and on the website as stated above. It is reiterated that responsibility of grievance redressal shall continue to remain with the RE.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13250,
+   "char_end": 13462
+  },
+  {
+   "text": "iv. If any complaint lodged by the borrower against the RE or the LSP engaged by the RE is rejected wholly or partly by the RE, or the borrower is not satisfied with the reply; or the borrower has not received any reply within 30 days of receipt of complaint by the RE, the said borrower can lodge a complaint over the Complaint Management System (CMS) 9 portal under the Reserve Bank-Integrated Ombudsman Scheme (RB-IOS) 10 or send a physical complaint to “Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector-17, Central Vista, Chandigarh - 160017” as per the grievance redressal mechanism prescribed by the Reserve Bank. This information shall be suitably conveyed to the borrower.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13464,
+   "char_end": 14179
+  },
+  {
+   "text": "Chapter IV: Technology and Data Requirement",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 14181,
+   "char_end": 14224
+  },
+  {
+   "text": "12. Collection, usage and sharing of data with third parties",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 14226,
+   "char_end": 14286
+  },
+  {
+   "text": "i. RE shall ensure that any collection of data by their DLA and DLA of their LSP is need-based and with prior and explicit consent of the borrower having audit trail. In any case, RE shall also ensure that DLA of RE/LSP desist from accessing mobile phone resources like file and media, contact list, call logs, telephony functions, etc. A one-time access can be taken for camera, microphone, location or any other facility necessary for the purpose of on-boarding/ KYC requirements only, with the explicit consent of the borrower.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14288,
+   "char_end": 14818
+  },
+  {
+   "text": "ii. The borrower shall be provided with an option to give or deny consent for use of specific data, restrict disclosure to third parties, data retention, revoke consent already granted to collect personal data and if required, make the RE/LSP delete/ forget the data.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14820,
+   "char_end": 15087
+  },
+  {
+   "text": "iii. The purpose of obtaining borrowers’ consent needs to be disclosed at each stage of interface with the borrowers.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15089,
+   "char_end": 15206
+  },
+  {
+   "text": "iv. Explicit consent of the borrower shall be taken before sharing personal information with any third party, except for cases where such sharing is required as per statutory or regulatory requirement.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15208,
+   "char_end": 15409
+  },
+  {
+   "text": "13. Storage of data",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 15411,
+   "char_end": 15430
+  },
+  {
+   "text": "i. RE shall ensure that LSP engaged by them do not store personal information of borrower except some basic minimal data (viz., name, address, contact details of the customer, etc.) that may be required to carry out their operations or service within the scope of the RE-LSP agreement. Responsibility regarding data privacy and security of the customer’s personal information on an ongoing basis shall be that of the RE.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15432,
+   "char_end": 15852
+  },
+  {
+   "text": "ii. RE shall ensure that clear policy guidelines regarding the storage of customer data including the type of data that can be stored, the length of time for which data can be stored, restrictions on the use of data, data destruction protocol, standards for handling security breach, etc., are put in place and also disclosed by the RE and the LSP engaged by the RE prominently on their website and DLA at all times.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15854,
+   "char_end": 16270
+  },
+  {
+   "text": "iii. RE shall ensure that no biometric data is stored/ collected by the RE and LSP, unless allowed under extant statutory guidelines.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16272,
+   "char_end": 16405
+  },
+  {
+   "text": "iv. RE shall ensure that all data is stored only in servers located within India, while ensuring compliance with statutory obligations/ regulatory instructions. Further, in case the data is processed outside India, the same shall be deleted from servers outside India and brought back to India within 24 hours of processing.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16407,
+   "char_end": 16731
+  },
+  {
+   "text": "14. Comprehensive privacy policy",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 16733,
+   "char_end": 16765
+  },
+  {
+   "text": "i. RE and LSPs engaged by RE shall have a comprehensive privacy policy compliant with applicable laws, associated regulations and RBI guidelines which shall be made available publicly on the website of RE and LSP, as the case may be.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16767,
+   "char_end": 17000
+  },
+  {
+   "text": "ii. Details of third parties (where applicable) allowed to collect personal information through the DLA shall also be disclosed in the privacy policy.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17002,
+   "char_end": 17152
+  },
+  {
+   "text": "15. Technology standards",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 17154,
+   "char_end": 17178
+  },
+  {
+   "text": "i. RE shall ensure that they and the LSPs engaged by them comply with various technology standards/ requirements on cybersecurity stipulated by RBI and other relevant agencies, or as may be specified from time to time, for undertaking digital lending.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17180,
+   "char_end": 17431
+  },
+  {
+   "text": "Chapter V: Reporting of Credit Information and DLAs",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 17433,
+   "char_end": 17484
+  },
+  {
+   "text": "16. Reporting to Credit Information Companies (CICs)",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 17486,
+   "char_end": 17538
+  },
+  {
+   "text": "i. As per the provisions of the Credit Information Companies (CIC) (Regulation) Act, 2005; CIC Rules, 2006; CIC Regulations, 2006 and related guidelines issued by RBI from time to time, RE shall ensure that any lending done through their DLAs and/ or DLAs of LSPs is reported by them to CICs irrespective of its nature/ tenor.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17540,
+   "char_end": 17866
+  },
+  {
+   "text": "ii. Extension of structured digital lending products by RE and/or LSPs engaged by RE over a merchant platform involving short term, unsecured/ secured credits or deferred payments, need to be reported to CICs by the RE. RE shall ensure that LSPs, if any, associated with such deferred payment credit products shall abide by the extant outsourcing guidelines issued by the Reserve Bank and be guided by these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17868,
+   "char_end": 18287
+  },
+  {
+   "text": "17. Reporting of DLAs to RBI",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 18289,
+   "char_end": 18317
+  },
+  {
+   "text": "i. RE shall report all DLAs deployed/ joined by them, whether their own or those of the LSPs, either exclusively or as a platform participant, on the Centralised Information Management System (CIMS) portal of RBI in the requisite format as given in the Annex-I to these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18319,
+   "char_end": 18600
+  },
+  {
+   "text": "ii. RE shall update the aforesaid list as and when additional DLA (s) are deployed or the engagement with the existing DLA (s) ceases to exist by filing the updated data in the CIMS portal.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18602,
+   "char_end": 18791
+  },
+  {
+   "text": "iii. The Chief Compliance Officer of the RE or any other official designated by the Board of the RE for the purpose shall certify that the data on DLAs submitted by them on the CIMS portal is correct and the DLAs are compliant with all the extant regulatory instructions, including the provisions of these Directions, as updated from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18793,
+   "char_end": 19140
+  },
+  {
+   "text": "iv. Without prejudice to the generality of the above, the Chief Compliance Officer/ other official designated by the Board of the RE shall certify the following aspects:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19142,
+   "char_end": 19311
+  },
+  {
+   "text": "DLAs have link to RE’s website where further information about the loan products, the lender, the LSP, particulars of customer care, link to Sachet Portal, privacy policies, etc. can be accessed by the borrower.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19313,
+   "char_end": 19524
+  },
+  {
+   "text": "DLAs (in case owned by LSP), have appointed a suitable nodal grievance redressal officer to deal with digital lending related complaints/ issues raised by the borrower, details of which are prominently available on the respective DLA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19526,
+   "char_end": 19760
+  },
+  {
+   "text": "Data collection and storage by DLAs is in compliance with para 12 and 13 of these Directions and other statutory and regulatory requirements, as applicable from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19762,
+   "char_end": 19936
+  },
+  {
+   "text": "The DLA’s particulars submitted by the RE are also suitably disclosed on the RE’s website as required under para 8(iv) of these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19938,
+   "char_end": 20077
+  },
+  {
+   "text": "v. RE shall ensure the correctness and timeliness of information regarding DLAs, as the data, as submitted by the RE on CIMS, shall be published on the website of RBI in an automated manner and RBI shall not verify/ validate the data submitted on CIMS. All issues and grievances of customers concerning DLAs shall be addressed and dealt with by the RE directly.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20079,
+   "char_end": 20440
+  },
+  {
+   "text": "vi. RE shall ensure that the inclusion of any third party DLAs deployed by them as part of above reporting, shall not be construed by the DLAs or any associated entity as conferring any form of registration, authorization, or endorsement by the Reserve Bank. RE shall also ensure that such inclusion is not misrepresented in any marketing, promotional, or other materials issued by or on behalf of the DLAs.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20442,
+   "char_end": 20849
+  },
+  {
+   "text": "vii. RE shall ensure that the reporting in respect of all DLAs on the CIMS portal is completed by June 15, 2025.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20851,
+   "char_end": 20963
+  },
+  {
+   "text": "Chapter VI: Loss sharing arrangement in case of default",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 20965,
+   "char_end": 21020
+  },
+  {
+   "text": "18. Eligibility as DLG provider",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 21022,
+   "char_end": 21053
+  },
+  {
+   "text": "i. RE may enter into DLG arrangements only with a LSP/ other RE engaged as a LSP. Further, the LSP providing DLG shall be incorporated as a company under the Companies Act, 2013.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21055,
+   "char_end": 21233
+  },
+  {
+   "text": "19. Due diligence and other requirements with respect to DLG provider",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 21235,
+   "char_end": 21304
+  },
+  {
+   "text": "i. RE, including a RE acting as DLG provider, shall put in place a Board approved policy before entering into any DLG arrangement. Such policy shall include, at a minimum, the eligibility criteria for DLG provider, nature and extent of DLG cover, process of monitoring and reviewing the DLG arrangement, and the details of the fees, if any, payable to/ received by the DLG provider, as the case may be.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21306,
+   "char_end": 21708
+  },
+  {
+   "text": "ii. RE shall ensure that any DLG arrangement does not act as a substitute for credit appraisal requirements and robust credit underwriting standards need to be put in place irrespective of the DLG cover.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21710,
+   "char_end": 21913
+  },
+  {
+   "text": "iii. Every time a RE enters into or renews a DLG arrangement, it shall obtain adequate information to satisfy itself that the entity extending DLG would be able to honour it. Such information shall, at a minimum, include a declaration from the DLG provider, certified by the statutory auditor of the DLG provider, on the aggregate DLG amount outstanding, the number of RE and the respective number of portfolios against which DLG has been provided. The declaration shall also contain past default rates on similar portfolios.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21915,
+   "char_end": 22440
+  },
+  {
+   "text": "iv. It is clarified that the due-diligence requirements specified herein are in addition to the general requirements applicable to RE-LSP arrangements as set out in para 5 of these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22442,
+   "char_end": 22634
+  },
+  {
+   "text": "20. Restrictions on entering into DLG arrangements",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 22636,
+   "char_end": 22686
+  },
+  {
+   "text": "i. RE shall not enter into DLG arrangements for revolving credit facilities offered through digital lending channel and credit cards as defined under Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022 dated April 21, 2022 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22688,
+   "char_end": 22946
+  },
+  {
+   "text": "ii. RE shall not enter into DLG arrangements on the loans which are covered by the credit guarantee schemes administered by trust funds as specified under para 2 of Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit Guarantee Schemes (CGS) dated September 07, 2022 , as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22948,
+   "char_end": 23270
+  },
+  {
+   "text": "iii. NBFC – P2P shall not enter into DLG arrangements for the loans facilitated over its platform and be guided by para 6(1)(iv) of Master Direction - Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017 dated October 04, 2017 , as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23272,
+   "char_end": 23571
+  },
+  {
+   "text": "21. Structure of DLG arrangements",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 23573,
+   "char_end": 23606
+  },
+  {
+   "text": "i. DLG arrangements shall be backed by an explicit and legally enforceable contract between the RE and the DLG provider. Such contract, among other things, shall contain the following details:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23608,
+   "char_end": 23800
+  },
+  {
+   "text": "Extent of DLG cover;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23802,
+   "char_end": 23822
+  },
+  {
+   "text": "Form in which DLG cover is to be maintained with the RE;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23824,
+   "char_end": 23880
+  },
+  {
+   "text": "Timeline for DLG invocation;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23882,
+   "char_end": 23910
+  },
+  {
+   "text": "Disclosure requirements as under para 27 of these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23912,
+   "char_end": 23973
+  },
+  {
+   "text": "22. Forms of DLG",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 23975,
+   "char_end": 23991
+  },
+  {
+   "text": "i. RE shall accept DLG only in one or more of the following forms:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23993,
+   "char_end": 24059
+  },
+  {
+   "text": "Cash deposited with the RE;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24061,
+   "char_end": 24088
+  },
+  {
+   "text": "Fixed Deposit maintained with a Scheduled Commercial Bank with a lien marked in favour of the RE;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24090,
+   "char_end": 24187
+  },
+  {
+   "text": "Bank Guarantee in favour of the RE.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24189,
+   "char_end": 24224
+  },
+  {
+   "text": "23. Cap on DLG",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 24226,
+   "char_end": 24240
+  },
+  {
+   "text": "i. RE shall ensure that the total amount of DLG cover on any outstanding portfolio which is specified upfront shall not exceed five per cent of the total amount disbursed out of that loan portfolio at any given time. In case of implicit guarantee arrangements, the DLG Provider shall not bear performance risk of more than the equivalent amount of five per cent of the underlying loan portfolio.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24242,
+   "char_end": 24637
+  },
+  {
+   "text": "ii. The portfolio over which DLG can be offered shall consist of identifiable and measurable loan assets which have been sanctioned (the ‘DLG set’). This portfolio shall remain fixed for the purpose of DLG cover and is not meant to be dynamic. Refer to Illustrations given in Annex – II .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24639,
+   "char_end": 24927
+  },
+  {
+   "text": "24. Recognition of NPA",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 24929,
+   "char_end": 24951
+  },
+  {
+   "text": "i. Recognition of individual loan assets in the portfolio as Non-Performing Asset (NPA) and consequent provisioning shall be the responsibility of the RE as per the extant asset classification and provisioning norms irrespective of any DLG cover available at the portfolio level.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24953,
+   "char_end": 25232
+  },
+  {
+   "text": "ii. The amount of DLG invoked shall not be set off against the underlying individual loans, i.e. the liability of the borrowers in respect of the underlying loan shall remain unaffected.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 25234,
+   "char_end": 25420
+  },
+  {
+   "text": "iii. Recovery by the RE, if any, from the loans on which DLG has been invoked and realised, can be shared with the DLG provider in terms of the contractual arrangement.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 25422,
+   "char_end": 25590
+  },
+  {
+   "text": "iv. DLG amount once invoked by the RE shall not be reinstated, including through loan recovery.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 25592,
+   "char_end": 25687
+  },
+  {
+   "text": "25. Treatment of DLG for regulatory capital",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 25689,
+   "char_end": 25732
+  },
+  {
+   "text": "i. Capital computation, i.e., computation of exposure and application of Credit Risk Mitigation benefits on individual loan assets in the portfolio shall continue to be governed by the extant norms 11 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 25734,
+   "char_end": 25936
+  },
+  {
+   "text": "ii. In case, DLG provider is an RE, it shall deduct full amount of the DLG which is outstanding from its capital.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 25938,
+   "char_end": 26051
+  },
+  {
+   "text": "26. Invocation and tenor of DLG",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26053,
+   "char_end": 26084
+  },
+  {
+   "text": "i. RE shall invoke DLG within a maximum overdue period of 120 days, unless the loan dues are made good by the borrower before that.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26086,
+   "char_end": 26217
+  },
+  {
+   "text": "ii. The period for which the DLG agreement remains in force shall not be less than the longest tenor of the loan in the underlying loan portfolio.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26219,
+   "char_end": 26365
+  },
+  {
+   "text": "27. Disclosure requirements",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26367,
+   "char_end": 26394
+  },
+  {
+   "text": "i. RE shall put in place a mechanism to ensure that LSPs with whom they have a DLG arrangement shall publish on their website the total number of portfolios and the respective amount of each portfolio on which DLG has been offered. The name of the RE may or may not be disclosed as part of disclosure under this provision.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26396,
+   "char_end": 26718
+  },
+  {
+   "text": "ii. Disclosure under para (i) above shall be made on a monthly basis, with the disclosure for any given month to be provided no later than seven (7) working days following the conclusion of that month.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26720,
+   "char_end": 26921
+  },
+  {
+   "text": "28. Exceptions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26923,
+   "char_end": 26937
+  },
+  {
+   "text": "Guarantees covered under the following schemes/ entities shall not be covered within the definition of DLG:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26939,
+   "char_end": 27046
+  },
+  {
+   "text": "i. Guarantee schemes of Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) and individual schemes under National Credit Guarantee Trustee Company Ltd (NCGTC).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27048,
+   "char_end": 27292
+  },
+  {
+   "text": "ii. Credit guarantee provided by Bank for International Settlements (BIS), International Monetary Fund (IMF) as well as Multilateral Development Banks as referred to in para 5.5 of RBI Master Circular on Basel III Capital Regulation dated April 01, 2025 , as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27294,
+   "char_end": 27579
+  },
+  {
+   "text": "Chapter VII: General and Repeal Provisions",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 27581,
+   "char_end": 27623
+  },
+  {
+   "text": "29. General provisions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 27625,
+   "char_end": 27647
+  },
+  {
+   "text": "i. EMI programmes on Credit Card are governed specifically by Para 6(b)(iii) 12 of the Master Direction on Credit Card and Debit Card – Issuance and Conduct, 2022 dated April 21, 2022 . Such transactions shall not be covered under these Directions. However other loan products offered on Credit Cards which are not covered/ envisaged under the aforesaid para of the Master Direction shall be governed by the stipulations laid down under these Directions. Further, these Directions shall also be applicable to all loans offered on Debit Card, including EMI programmes.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27649,
+   "char_end": 28216
+  },
+  {
+   "text": "ii. DLG arrangements entered between RE and LSP conforming to the instructions laid down in Chapter VI of these Directions shall not be treated as synthetic securitisation as defined under para 6(c) of Master Direction – Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021 dated September 24, 2021 and shall also not attract the provisions of ‘loan participation’ as defined under Para 9(e) of the Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021 dated September 24, 2021 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28218,
+   "char_end": 28733
+  },
+  {
+   "text": "iii. These Directions are without prejudice to any other extant regulatory norms or statutory provisions as applicable to the RE's activities, from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28735,
+   "char_end": 28896
+  },
+  {
+   "text": "30. Repeal provisions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 28898,
+   "char_end": 28919
+  },
+  {
+   "text": "i. With the issuance of these Directions, the instructions/guidelines contained in the circulars mentioned in the Annex - III issued by RBI stand repealed.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28921,
+   "char_end": 29076
+  },
+  {
+   "text": "ii. Notwithstanding the repeal under sub-para (i), anything done or any action taken or purported to have been done or taken, or any direction given or any proceeding taken or any penalty or fine imposed under the repealed enactments shall, insofar as it is not inconsistent with the provisions of these Directions, be deemed to have been done or taken under the corresponding provisions of these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29078,
+   "char_end": 29486
+  },
+  {
+   "text": "Annex I: Data to be submitted on the CIMS portal",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 29488,
+   "char_end": 29536
+  },
+  {
+   "text": "Sl. No. | Name of the DLA | Name of the owner of DLA (Self-owned/ name of LSP in case DLA is of LSP) | Available on (Website/ Name of app store) | Link to DLA# | Name of Grievance Redressal Officer | Email id of Grievance Redressal Officer | Telephone number of Grievance Redressal Officer | Mobile number of Grievance Redressal Officer | Website of RE",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 29538,
+   "char_end": 29890
+  },
+  {
+   "text": "*Each DLA to be reported as a separate line item. In case any DLA is available on multiple app stores, each entry is required to be reported separately with specific links to the DLA on the app store # In case DLA is a website, provide link to the website, or in case DLA is an app hosted on one of the app-stores, provide the link of the DLA on the app-store",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29892,
+   "char_end": 30251
+  },
+  {
+   "text": "Annex II: Illustrations",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 30253,
+   "char_end": 30276
+  },
+  {
+   "text": "Note: Illustrations are provided for ease of understanding and are merely indicative and not exhaustive.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30278,
+   "char_end": 30382
+  },
+  {
+   "text": "Illustration 1",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30384,
+   "char_end": 30398
+  },
+  {
+   "text": "Assume that as on April 1, 2024 the RE earmarks a portfolio of ₹40 crore (out of the total sanctioned loans) under a DLG arrangement (DLG set). This portfolio shall remain \"frozen\" for the purpose of the specific DLG arrangement - meaning that no loan assets can be added or removed from it, except through loan repayment/ write-off. The RE can have such multiple DLG sets.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30400,
+   "char_end": 30773
+  },
+  {
+   "text": "The ceiling for DLG cover on such portfolio shall be fixed at ₹2 crore (5% of ₹40 crore), which shall get activated proportionately as and when the loans are disbursed .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30775,
+   "char_end": 30944
+  },
+  {
+   "text": "Illustration 2",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30946,
+   "char_end": 30960
+  },
+  {
+   "text": "Assume that out of the above DLG set, loans amounting to ₹10 crore are disbursed immediately. Then as on April 1, 2024, the DLG cover available for the portfolio shall be ₹0.5 crore (5% of disbursed).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30962,
+   "char_end": 31162
+  },
+  {
+   "text": "Subsequently, if loans of ₹10 crore are further disbursed on April 15, 2024, the DLG cover shall proportionately increase to ₹1 crore effective April 15, 2024.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31164,
+   "char_end": 31323
+  },
+  {
+   "text": "(Refer table below also for summary of each case)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31325,
+   "char_end": 31374
+  },
+  {
+   "text": "Case 1: As on June 30, 2024, loans worth ₹5 crore mature without any default. In this case, the outstanding portfolio in the books of the RE would be ₹15 crore and the DLG cover shall remain at ₹1 crore.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31376,
+   "char_end": 31579
+  },
+  {
+   "text": "Case 2: Subsequently, there is a default of ₹2 crore during Q2-2024 and consequently the RE invokes the entire DLG (₹1 crore 13 ). In this case, as of Sept 30, 2024 the outstanding portfolio in the books of the RE shall be ₹15 crore (₹20 crore original portfolio less ₹5 crore loans matured without default) but no headroom for DLG will be available as the maximum permissible DLG cover of ₹1 crore (5% of disbursed) has been exhausted.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31581,
+   "char_end": 32017
+  },
+  {
+   "text": "Case 3: Going further, let’s assume that recovery worth ₹1 crore is made by the RE during October 2024 on the defaulted loans of ₹2 crore. In such a case, the amount of the outstanding portfolio in the books of the RE as on October 31, 2024 shall come down to ₹14 crore (₹20 crore original portfolio less ₹5 crore loans matured without any default less ₹1 crore loans which were in default and recovered). However, the recovery amount of ₹1 crore cannot be added to reinstate the DLG cover.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 32019,
+   "char_end": 32509
+  },
+  {
+   "text": "(figures in ₹ crore)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 32511,
+   "char_end": 32531
+  },
+  {
+   "text": "Period | Disbursed | Loan maturing without default | Default Amount | DLG Invoked | Recovery/ Write-off | Outstanding Portfolio | Available DLG Cover",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 32533,
+   "char_end": 32682
+  },
+  {
+   "text": "Initial Position | 10 | - | - | - | - | 10 | 0.5",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 32684,
+   "char_end": 32732
+  },
+  {
+   "text": "Further disbursement | 10 | - | - | - | - | 20 | 1",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 32734,
+   "char_end": 32784
+  },
+  {
+   "text": "Case 1 | 20 | 5 | - | - | - | 15 | 1",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 32786,
+   "char_end": 32822
+  },
+  {
+   "text": "Case 2 | 20 | 5 | 2 | 1 | - | 15 | 0",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 32824,
+   "char_end": 32860
+  },
+  {
+   "text": "Case 3 | 20 | 5 | 2 | 1 | 1 | 14 | 0",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 32862,
+   "char_end": 32898
+  },
+  {
+   "text": "Annex III: List of circulars to be repealed with the issuance of these Directions",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 32900,
+   "char_end": 32981
+  },
+  {
+   "text": "S.No. | Circular No. | Date | Subject",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 32983,
+   "char_end": 33020
+  },
+  {
+   "text": "1. | RBI/2019-20/258 DOR(NBFC)(PD) CC.No.112/03.10.001/2019-20 | 24.06.2020 | Loans Sourced by Banks and NBFCs over Digital Lending Platforms: Adherence to Fair Practices Code and Outsourcing Guidelines",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 33022,
+   "char_end": 33224
+  },
+  {
+   "text": "2. | RBI/2022-23/111 DOR.CRE.REC .66/21.07.001/2022-23 | 02.09.2022 | Guidelines on Digital Lending",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 33226,
+   "char_end": 33325
+  },
+  {
+   "text": "3. | RBI/2023-24/41 DOR.CRE.REC .21/21.07.001/2023-24 | 08.06.2023 | Guidelines on Default Loss Guarantee (DLG) in Digital Lending",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 33327,
+   "char_end": 33457
+  },
+  {
+   "text": "1 While entities offering only Payment Aggregator (PA) services in terms of the extant instructions issued by RBI shall remain out of the ambit of these Directions, any PA also performing the role of an LSP shall comply with these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33459,
+   "char_end": 33701
+  },
+  {
+   "text": "2 Circular DOR.ORG.REC.65/21.04.158/2022-23 on ‘Outsourcing of Financial Services - Responsibilities of regulated entities employing Recovery Agents’ dated August 12, 2022 , and other relevant instructions as issued from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33703,
+   "char_end": 33937
+  },
+  {
+   "text": "3 Para 2.6 of the Master Circular on “Loans and Advances – Statutory and Other restrictions” dated July 01, 2015 ; Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks issued vide Circular dated November 03, 2006 as amended from time to time; Para 48 of Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023 dated October 19, 2023 , as amended from time to time; ‘Guidelines for Managing Risk in Outsourcing of Financial Services by Co-operative Banks’, dated June 28, 2021 ; Circular on ‘Outsourcing of Financial Services - Responsibilities of regulated entities employing Recovery Agents’ dated August 12, 2022 , and other related instructions issued by the Reserve Bank from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33939,
+   "char_end": 34733
+  },
+  {
+   "text": "4 As defined under section 2(e) of the ‘Guidelines for Prevention and Regulation of Dark Patterns, 2023’ dated November 30, 2023, issued by Central Consumer Protection Authority, as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34735,
+   "char_end": 34943
+  },
+  {
+   "text": "5 As per the provisions of the Information Technology Act, 2000, as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34945,
+   "char_end": 35039
+  },
+  {
+   "text": "6 Co-lending arrangements shall be governed by the extant instructions, as amended from time to time. This shall also cover co-lending arrangements between REs for non-PSL loans subject to the condition that no third party other than the REs in a co-lending transaction shall have direct or indirect control over the flow of funds at any point of time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 35041,
+   "char_end": 35393
+  },
+  {
+   "text": "7 Advances against salary, where the loan is disbursed directly to the bank account of the borrower but the repayment is from the corporate employer, can be allowed subject to the condition that the loan is repaid by the corporate employer by deducting the amount from the borrower’s salary. It must, however, be ensured that LSPs do not have any control over the flow of funds directly or indirectly in such transactions and that repayment is directly from the bank account of the employer to the RE.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 35395,
+   "char_end": 35896
+  },
+  {
+   "text": "8 In terms of Circular DBR.Dir.BC.No.08/13.03.00/2019-20 “Levy of Foreclosure Charges /Pre-payment Penalty on Floating Rate Term Loans” dated August 02, 2019 for banks and Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023 dated October 19, 2023 for NBFCs, as amended from time to time, and other relevant instructions as issued from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 35898,
+   "char_end": 36309
+  },
+  {
+   "text": "9 https://cms.rbi.org.in/",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 36311,
+   "char_end": 36336
+  },
+  {
+   "text": "10 Issued vide Notification CEPD. PRD. No.S873/13.01.001/2021-22 dated November 12, 2021",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 36338,
+   "char_end": 36426
+  },
+  {
+   "text": "11 Para 7 of the ‘Master Circular on Basel III Capital Regulations’ dated April 01, 2025 , as amended from time to time, Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023 dated October 19, 2023 (as updated from time to time), Master Circular on ‘Prudential Norms on Capital Adequacy - Primary (Urban) Co-operative Banks (UCBs)’ dated April 01, 2025 as amended from time to time, Circular on ‘ Operating Guidelines for Small Finance Banks’ dated October 06, 2016 and Master Direction - Reserve Bank of India (Prudential Regulations on Basel III Capital Framework, Exposure Norms, Significant Investments, Classification, Valuation and Operation of Investment Portfolio Norms and Resource Raising Norms for All India Financial Institutions) Directions, 2023 dated September 21, 2023 (as amended from time to time).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 36428,
+   "char_end": 37305
+  },
+  {
+   "text": "12 Card-issuers shall ensure complete transparency in the conversion of credit card transactions to Equated Monthly Instalments (EMIs) by clearly indicating the principal, interest and upfront discount provided by the merchant/card-issuer (to make it no cost), prior to the conversion. The same shall also be separately indicated in the credit card bill/statement. EMI conversion with interest component shall not be camouflaged as zero-interest/no-cost EMI.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 37307,
+   "char_end": 37765
+  },
+  {
+   "text": "13 It has been assumed that till date zero principal/interest have been received towards these loans.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 37767,
+   "char_end": 37868
+  }
+ ],
+ "text": "RBI/2025-26/36 DOR.STR.REC.19/21.07.001/2025-26\n\nMay 8, 2025\n\nReserve Bank of India (Digital Lending) Directions, 2025\n\nChapter I: Preliminary\n\n1. Preamble\n\nReserve Bank is statutorily mandated to operate the credit system of the country to its advantage. In this endeavour, Reserve Bank encourages innovation in the financial systems, products and credit delivery methods while ensuring orderly growth, financial stability and protection of depositors’ and borrowers’ interest. Certain concerns had emerged around the methods of designing, delivering and servicing digital credit products, which if not mitigated, may impact the borrower’s confidence in the digital lending ecosystem. The concerns primarily relate to unbridled engagement of third parties, mis-selling, breach of data privacy, unfair business conduct, charging of exorbitant interest rates, and unethical recovery practices. To address these concerns, pursuant to the recommendations made by the “Working Group on Digital Lending”, the Reserve Bank has, from time to time, issued guidelines to its regulated entities on digital lending. These Directions consolidate the earlier instructions along with certain new measures for arrangements involving Lending Service Providers partnering with multiple regulated entities as mentioned under para 6, and for creation of a directory of digital lending apps as mentioned under para 17 of these Directions.\n\nAccordingly, in exercise of powers conferred by sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, sections 30A and 32 of the National Housing Bank Act, 1987, section 6 of the Factoring Regulation Act, 2011 and section 11 of the Credit Information Companies (Regulation) Act, 2005, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby issues these Directions hereinafter specified.\n\n2. Short title and commencement\n\ni. These Directions shall be called the Reserve Bank of India (Digital Lending) Directions, 2025.\n\nii. These Directions shall come into force immediately except for para 6, which shall come into effect from November 1, 2025, and para 17, which shall come into effect from June 15, 2025.\n\n3. Applicability\n\nThese Directions shall be applicable to all digital lending activities of the following entities, hereinafter referred to as a Regulated Entity (RE) and collectively as Regulated Entities (REs), as the context may require:\n\ni. All Commercial Banks,\n\nii. All Primary (Urban) Co-operative Banks, State Co-operative Banks, Central Co-operative Banks,\n\niii. All Non-Banking Financial Companies (including Housing Finance Companies), and\n\niv. All All-India Financial Institutions.\n\n4. Definitions\n\nFor the purpose of these Directions, unless the context otherwise requires, the terms herein shall bear the meaning assigned to them below:\n\ni. Annual Percentage Rate (APR): APR as defined under Circular No. DOR.STR.REC.13/13.03.00/2024-25 on ‘Key Facts Statement (KFS) for Loans & Advances’ dated April 15, 2024 , as amended from time to time.\n\nii. Default Loss Guarantee (DLG): A contractual arrangement, called by whatever name, between the RE and another entity, under which the latter guarantees to compensate the RE, for the loss due to default up to a certain percentage of the loan portfolio of the RE, specified upfront. Any other implicit guarantee of similar nature, linked to the performance of the loan portfolio of the RE and specified upfront, shall also be covered under the definition of DLG.\n\niii. Digital Lending: A remote and automated lending process, largely by use of seamless digital technologies for customer acquisition, credit assessment, loan approval, disbursement, recovery, and associated customer service.\n\niv. Digital Lending Apps/ Platforms (DLAs): Mobile and/or web-based applications, on a standalone basis or as a part of suite of functions of an application with user interface that facilitate digital lending services. DLAs shall include applications of the RE as well as those operated by Lending Service Provider (LSP) engaged by RE for extending any credit facilitation services in conformity with extant outsourcing guidelines issued by the Reserve Bank.\n\nv. Lending Service Provider (LSP): An agent of a RE (including another RE) who carries out one or more of RE’s digital lending functions, or part thereof, in customer acquisition, services incidental to underwriting and pricing, servicing, monitoring, recovery of specific loan or loan portfolio on behalf of RE in conformity with extant outsourcing guidelines issued by the Reserve Bank. 1\n\nChapter II: General Requirements for RE-LSP Arrangements\n\n5. Due diligence requirements with respect to LSPs\n\ni. Digital lending by a RE involving a LSP, shall be carried out under a contractual agreement between the RE and the LSP, which clearly defines the respective roles, rights, and obligations of each party thereto.\n\nii. RE shall conduct enhanced due diligence before they enter into an agreement with a LSP for digital lending, taking into account LSP’s technical capabilities, robustness of data privacy policies and storage systems, fairness in conduct with borrowers, past records of conduct and ability to comply with all applicable regulations and statutes.\n\niii. RE shall carry out periodic review of the conduct of the LSP vis-à-vis the terms of the contractual agreement and shall take appropriate action in the event of any deviation therefrom.\n\niv. RE shall lay down, as part of its policy, suitable monitoring mechanisms for the loan portfolios originated with the support of LSPs.\n\nv. RE shall impart necessary guidance to LSP acting as a recovery agent, to discharge their duties responsibly and ensure that LSP complies with the applicable instructions 2 in this regard.\n\nvi. RE shall continue to conform to the extant guidelines on outsourcing 3 and shall ensure that the LSPs engaged by them and the DLAs (either of the RE or of the LSPs engaged by the RE) comply with these Directions.\n\nvii. As an overarching principle, any outsourcing agreement entered into by the RE with an LSP shall in no manner dilute or absolve the RE of its obligations under any statutory or regulatory provision, and the RE shall remain fully responsible and liable for all acts and omissions of the LSP.\n\n6. RE-LSP arrangements involving multiple lenders\n\nIn cases where a LSP has agreements with multiple REs for digital lending, each RE shall ensure the following:\n\ni. LSP shall provide a digital view of all the loan offers matching the borrower’s request on the DLA which meets the requirement of the borrower. The name of the unmatched lenders shall also be disclosed in the digital view.\n\nii. While the LSP may adopt any mechanism to match the request of borrowers with the lender (s) to offer a loan, it shall follow a consistent approach for similarly placed borrowers and products. The mechanism adopted by the LSP and any subsequent changes to this mechanism shall be properly documented.\n\niii. The digital view of loan offers from matching lenders shall include the name (s) of the RE (s) extending the loan offer, amount and tenor of loan, APR, monthly repayment obligation and penal charges (if applicable), in a way which enables the borrower to make a fair comparison between various offers. A link to the KFS shall also be provided in respect of each of the RE.\n\niv. The content displayed by the LSP shall be unbiased, objective and shall not directly/ indirectly promote or push a product of a particular RE, including the use of dark patterns/deceptive patterns 4 designed to mislead borrowers into choosing a particular loan offer. However, ranking of loan offers based on a publicly pre-disclosed metric for such ranking shall not be construed as promoting a particular product.\n\nChapter III: Conduct and Customer Protection Requirements\n\n7. Assessing the borrower’s creditworthiness\n\ni. RE shall obtain the necessary information relating to economic profile of the borrower with a view to assessing the borrower’s creditworthiness before extending any loan, including, at a minimum, age, occupation and income details. The same shall be kept on record for audit purposes.\n\nii. RE shall ensure that there is no automatic increase in credit limit unless an explicit request is received, evaluated and kept on record from the borrower for such increase.\n\n8. Disclosures to borrowers\n\ni. RE shall provide a Key Fact Statement (KFS), as per instructions contained in circular no. DOR.STR.REC.13/13.03.00/2024-25 on ‘Key Facts Statement (KFS) for Loans & Advances’ dated April 15, 2024 , as amended from time to time.\n\nii. As regards penal charges, RE shall be guided by circular no. DoR.MCS.REC.28/01.01.001/2023-24 on ‘Fair Lending Practice - Penal Charges in Loan Accounts’ dated August 18, 2023 , as amended from time to time.\n\niii. RE shall ensure that digitally signed documents 5 (on the letter head of the RE) viz., KFS, summary of loan product, sanction letter, terms and conditions, account statements, privacy policies of the RE / LSP with respect to storage and usage of borrowers’ data, etc. shall automatically flow to the borrower on the registered and verified email/ SMS upon execution of the loan contract/ transactions.\n\niv. RE shall maintain a website of their own in public domain, which shall be kept up to date, inter-alia, with the following details at a prominent single place on the website for ease of accessibility:\n\nDetails of all of its digital lending products and its DLAs;\n\nDetails of LSPs and the DLAs of the LSPs along with the details of the activities for which they have been engaged for;\n\nParticulars of RE’s customer care and internal grievance redressal mechanism;\n\nLink to RBI’s Complaint Management System (CMS) and Sachet Portal;\n\nPrivacy policies and other details as required under extant guidelines of the Reserve Bank.\n\nRE shall ensure that DLAs / LSPs have links to the above website of the RE.\n\nv. In case of a loan default, when a recovery agent is assigned for recovery or there is a change in the recovery agent already assigned, the particulars of such recovery agent authorised to approach the borrower for recovery shall be communicated to the borrower through email/ SMS before the recovery agent contacts the borrower for recovery.\n\n9. Loan disbursal, servicing and repayment\n\ni. Disbursement of loan by the RE shall always be made into the bank account of the borrower except for disbursals covered exclusively under statutory or regulatory mandate (of RBI or of any other regulator), flow of money between REs for co-lending transactions 6 and disbursals for specific end use, provided the loan is disbursed directly into the bank account of the end-beneficiary 7 . RE shall ensure that in no case, disbursal is made to a third-party account, including the accounts of LSP, except as provided for in these Directions.\n\nii. RE shall ensure that all loan servicing, repayment, etc. is executed by the borrower directly in the RE’s bank account without any pass-through account/ pool account of any third party, including the accounts of LSP.\n\niii. The flow of funds between the bank accounts of the borrower and the RE shall not be controlled either directly or indirectly by a third-party, including the LSP.\n\niv. RE shall ensure that any fees, charges, reimbursements, etc. payable to LSP are paid directly by the RE and are not charged to or collected from the borrowers separately by LSP.\n\nv. In case of delinquent loans, RE may deploy physical interface to recover loans in cash, wherever necessary. In order to afford operational flexibility to RE, such transactions are exempted from the requirement of direct repayment of loan in the RE’s bank account. However, any recovery by cash shall be duly reflected in full in the borrower’s account on the same day and RE shall ensure that any fees, charges, etc., payable to LSPs for such recovery are paid directly by the RE and are not charged by LSP to the borrower either directly or indirectly from the recovery proceeds.\n\n10. Cooling-off period\n\ni. The borrower shall be given an explicit option to exit a digital loan by paying the principal and the proportionate APR without any penalty during an initial “cooling-off period”. The cooling off period shall be determined by the Board of the RE as laid down in their loan policy, subject to the period so determined not being less than one day. For borrower continuing with the loan even after cooling-off period, pre-payment shall continue to be allowed as per applicable RBI guidelines 8 .\n\nii. RE may retain a reasonable one-time processing fee, if the customer exits the loan during the cooling-off period. This, if applicable, shall be disclosed to the customer upfront in KFS.\n\n11. Grievance redressal\n\ni. The RE, and the LSP which has an interface with the borrower, shall designate nodal grievance redressal officers to deal with digital lending related complaints/ issues raised by the borrower.\n\nii. Contact details of the nodal grievance redressal officers shall be prominently displayed on the websites of the RE, its LSP and on the DLA, as well as in the KFS provided to the borrower.\n\niii. The facility of lodging complaint shall also be made available on the DLA and on the website as stated above. It is reiterated that responsibility of grievance redressal shall continue to remain with the RE.\n\niv. If any complaint lodged by the borrower against the RE or the LSP engaged by the RE is rejected wholly or partly by the RE, or the borrower is not satisfied with the reply; or the borrower has not received any reply within 30 days of receipt of complaint by the RE, the said borrower can lodge a complaint over the Complaint Management System (CMS) 9 portal under the Reserve Bank-Integrated Ombudsman Scheme (RB-IOS) 10 or send a physical complaint to “Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector-17, Central Vista, Chandigarh - 160017” as per the grievance redressal mechanism prescribed by the Reserve Bank. This information shall be suitably conveyed to the borrower.\n\nChapter IV: Technology and Data Requirement\n\n12. Collection, usage and sharing of data with third parties\n\ni. RE shall ensure that any collection of data by their DLA and DLA of their LSP is need-based and with prior and explicit consent of the borrower having audit trail. In any case, RE shall also ensure that DLA of RE/LSP desist from accessing mobile phone resources like file and media, contact list, call logs, telephony functions, etc. A one-time access can be taken for camera, microphone, location or any other facility necessary for the purpose of on-boarding/ KYC requirements only, with the explicit consent of the borrower.\n\nii. The borrower shall be provided with an option to give or deny consent for use of specific data, restrict disclosure to third parties, data retention, revoke consent already granted to collect personal data and if required, make the RE/LSP delete/ forget the data.\n\niii. The purpose of obtaining borrowers’ consent needs to be disclosed at each stage of interface with the borrowers.\n\niv. Explicit consent of the borrower shall be taken before sharing personal information with any third party, except for cases where such sharing is required as per statutory or regulatory requirement.\n\n13. Storage of data\n\ni. RE shall ensure that LSP engaged by them do not store personal information of borrower except some basic minimal data (viz., name, address, contact details of the customer, etc.) that may be required to carry out their operations or service within the scope of the RE-LSP agreement. Responsibility regarding data privacy and security of the customer’s personal information on an ongoing basis shall be that of the RE.\n\nii. RE shall ensure that clear policy guidelines regarding the storage of customer data including the type of data that can be stored, the length of time for which data can be stored, restrictions on the use of data, data destruction protocol, standards for handling security breach, etc., are put in place and also disclosed by the RE and the LSP engaged by the RE prominently on their website and DLA at all times.\n\niii. RE shall ensure that no biometric data is stored/ collected by the RE and LSP, unless allowed under extant statutory guidelines.\n\niv. RE shall ensure that all data is stored only in servers located within India, while ensuring compliance with statutory obligations/ regulatory instructions. Further, in case the data is processed outside India, the same shall be deleted from servers outside India and brought back to India within 24 hours of processing.\n\n14. Comprehensive privacy policy\n\ni. RE and LSPs engaged by RE shall have a comprehensive privacy policy compliant with applicable laws, associated regulations and RBI guidelines which shall be made available publicly on the website of RE and LSP, as the case may be.\n\nii. Details of third parties (where applicable) allowed to collect personal information through the DLA shall also be disclosed in the privacy policy.\n\n15. Technology standards\n\ni. RE shall ensure that they and the LSPs engaged by them comply with various technology standards/ requirements on cybersecurity stipulated by RBI and other relevant agencies, or as may be specified from time to time, for undertaking digital lending.\n\nChapter V: Reporting of Credit Information and DLAs\n\n16. Reporting to Credit Information Companies (CICs)\n\ni. As per the provisions of the Credit Information Companies (CIC) (Regulation) Act, 2005; CIC Rules, 2006; CIC Regulations, 2006 and related guidelines issued by RBI from time to time, RE shall ensure that any lending done through their DLAs and/ or DLAs of LSPs is reported by them to CICs irrespective of its nature/ tenor.\n\nii. Extension of structured digital lending products by RE and/or LSPs engaged by RE over a merchant platform involving short term, unsecured/ secured credits or deferred payments, need to be reported to CICs by the RE. RE shall ensure that LSPs, if any, associated with such deferred payment credit products shall abide by the extant outsourcing guidelines issued by the Reserve Bank and be guided by these Directions.\n\n17. Reporting of DLAs to RBI\n\ni. RE shall report all DLAs deployed/ joined by them, whether their own or those of the LSPs, either exclusively or as a platform participant, on the Centralised Information Management System (CIMS) portal of RBI in the requisite format as given in the Annex-I to these Directions.\n\nii. RE shall update the aforesaid list as and when additional DLA (s) are deployed or the engagement with the existing DLA (s) ceases to exist by filing the updated data in the CIMS portal.\n\niii. The Chief Compliance Officer of the RE or any other official designated by the Board of the RE for the purpose shall certify that the data on DLAs submitted by them on the CIMS portal is correct and the DLAs are compliant with all the extant regulatory instructions, including the provisions of these Directions, as updated from time to time.\n\niv. Without prejudice to the generality of the above, the Chief Compliance Officer/ other official designated by the Board of the RE shall certify the following aspects:\n\nDLAs have link to RE’s website where further information about the loan products, the lender, the LSP, particulars of customer care, link to Sachet Portal, privacy policies, etc. can be accessed by the borrower.\n\nDLAs (in case owned by LSP), have appointed a suitable nodal grievance redressal officer to deal with digital lending related complaints/ issues raised by the borrower, details of which are prominently available on the respective DLA.\n\nData collection and storage by DLAs is in compliance with para 12 and 13 of these Directions and other statutory and regulatory requirements, as applicable from time to time.\n\nThe DLA’s particulars submitted by the RE are also suitably disclosed on the RE’s website as required under para 8(iv) of these Directions.\n\nv. RE shall ensure the correctness and timeliness of information regarding DLAs, as the data, as submitted by the RE on CIMS, shall be published on the website of RBI in an automated manner and RBI shall not verify/ validate the data submitted on CIMS. All issues and grievances of customers concerning DLAs shall be addressed and dealt with by the RE directly.\n\nvi. RE shall ensure that the inclusion of any third party DLAs deployed by them as part of above reporting, shall not be construed by the DLAs or any associated entity as conferring any form of registration, authorization, or endorsement by the Reserve Bank. RE shall also ensure that such inclusion is not misrepresented in any marketing, promotional, or other materials issued by or on behalf of the DLAs.\n\nvii. RE shall ensure that the reporting in respect of all DLAs on the CIMS portal is completed by June 15, 2025.\n\nChapter VI: Loss sharing arrangement in case of default\n\n18. Eligibility as DLG provider\n\ni. RE may enter into DLG arrangements only with a LSP/ other RE engaged as a LSP. Further, the LSP providing DLG shall be incorporated as a company under the Companies Act, 2013.\n\n19. Due diligence and other requirements with respect to DLG provider\n\ni. RE, including a RE acting as DLG provider, shall put in place a Board approved policy before entering into any DLG arrangement. Such policy shall include, at a minimum, the eligibility criteria for DLG provider, nature and extent of DLG cover, process of monitoring and reviewing the DLG arrangement, and the details of the fees, if any, payable to/ received by the DLG provider, as the case may be.\n\nii. RE shall ensure that any DLG arrangement does not act as a substitute for credit appraisal requirements and robust credit underwriting standards need to be put in place irrespective of the DLG cover.\n\niii. Every time a RE enters into or renews a DLG arrangement, it shall obtain adequate information to satisfy itself that the entity extending DLG would be able to honour it. Such information shall, at a minimum, include a declaration from the DLG provider, certified by the statutory auditor of the DLG provider, on the aggregate DLG amount outstanding, the number of RE and the respective number of portfolios against which DLG has been provided. The declaration shall also contain past default rates on similar portfolios.\n\niv. It is clarified that the due-diligence requirements specified herein are in addition to the general requirements applicable to RE-LSP arrangements as set out in para 5 of these Directions.\n\n20. Restrictions on entering into DLG arrangements\n\ni. RE shall not enter into DLG arrangements for revolving credit facilities offered through digital lending channel and credit cards as defined under Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022 dated April 21, 2022 .\n\nii. RE shall not enter into DLG arrangements on the loans which are covered by the credit guarantee schemes administered by trust funds as specified under para 2 of Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit Guarantee Schemes (CGS) dated September 07, 2022 , as amended from time to time.\n\niii. NBFC – P2P shall not enter into DLG arrangements for the loans facilitated over its platform and be guided by para 6(1)(iv) of Master Direction - Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017 dated October 04, 2017 , as amended from time to time.\n\n21. Structure of DLG arrangements\n\ni. DLG arrangements shall be backed by an explicit and legally enforceable contract between the RE and the DLG provider. Such contract, among other things, shall contain the following details:\n\nExtent of DLG cover;\n\nForm in which DLG cover is to be maintained with the RE;\n\nTimeline for DLG invocation;\n\nDisclosure requirements as under para 27 of these Directions.\n\n22. Forms of DLG\n\ni. RE shall accept DLG only in one or more of the following forms:\n\nCash deposited with the RE;\n\nFixed Deposit maintained with a Scheduled Commercial Bank with a lien marked in favour of the RE;\n\nBank Guarantee in favour of the RE.\n\n23. Cap on DLG\n\ni. RE shall ensure that the total amount of DLG cover on any outstanding portfolio which is specified upfront shall not exceed five per cent of the total amount disbursed out of that loan portfolio at any given time. In case of implicit guarantee arrangements, the DLG Provider shall not bear performance risk of more than the equivalent amount of five per cent of the underlying loan portfolio.\n\nii. The portfolio over which DLG can be offered shall consist of identifiable and measurable loan assets which have been sanctioned (the ‘DLG set’). This portfolio shall remain fixed for the purpose of DLG cover and is not meant to be dynamic. Refer to Illustrations given in Annex – II .\n\n24. Recognition of NPA\n\ni. Recognition of individual loan assets in the portfolio as Non-Performing Asset (NPA) and consequent provisioning shall be the responsibility of the RE as per the extant asset classification and provisioning norms irrespective of any DLG cover available at the portfolio level.\n\nii. The amount of DLG invoked shall not be set off against the underlying individual loans, i.e. the liability of the borrowers in respect of the underlying loan shall remain unaffected.\n\niii. Recovery by the RE, if any, from the loans on which DLG has been invoked and realised, can be shared with the DLG provider in terms of the contractual arrangement.\n\niv. DLG amount once invoked by the RE shall not be reinstated, including through loan recovery.\n\n25. Treatment of DLG for regulatory capital\n\ni. Capital computation, i.e., computation of exposure and application of Credit Risk Mitigation benefits on individual loan assets in the portfolio shall continue to be governed by the extant norms 11 .\n\nii. In case, DLG provider is an RE, it shall deduct full amount of the DLG which is outstanding from its capital.\n\n26. Invocation and tenor of DLG\n\ni. RE shall invoke DLG within a maximum overdue period of 120 days, unless the loan dues are made good by the borrower before that.\n\nii. The period for which the DLG agreement remains in force shall not be less than the longest tenor of the loan in the underlying loan portfolio.\n\n27. Disclosure requirements\n\ni. RE shall put in place a mechanism to ensure that LSPs with whom they have a DLG arrangement shall publish on their website the total number of portfolios and the respective amount of each portfolio on which DLG has been offered. The name of the RE may or may not be disclosed as part of disclosure under this provision.\n\nii. Disclosure under para (i) above shall be made on a monthly basis, with the disclosure for any given month to be provided no later than seven (7) working days following the conclusion of that month.\n\n28. Exceptions\n\nGuarantees covered under the following schemes/ entities shall not be covered within the definition of DLG:\n\ni. Guarantee schemes of Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) and individual schemes under National Credit Guarantee Trustee Company Ltd (NCGTC).\n\nii. Credit guarantee provided by Bank for International Settlements (BIS), International Monetary Fund (IMF) as well as Multilateral Development Banks as referred to in para 5.5 of RBI Master Circular on Basel III Capital Regulation dated April 01, 2025 , as amended from time to time.\n\nChapter VII: General and Repeal Provisions\n\n29. General provisions\n\ni. EMI programmes on Credit Card are governed specifically by Para 6(b)(iii) 12 of the Master Direction on Credit Card and Debit Card – Issuance and Conduct, 2022 dated April 21, 2022 . Such transactions shall not be covered under these Directions. However other loan products offered on Credit Cards which are not covered/ envisaged under the aforesaid para of the Master Direction shall be governed by the stipulations laid down under these Directions. Further, these Directions shall also be applicable to all loans offered on Debit Card, including EMI programmes.\n\nii. DLG arrangements entered between RE and LSP conforming to the instructions laid down in Chapter VI of these Directions shall not be treated as synthetic securitisation as defined under para 6(c) of Master Direction – Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021 dated September 24, 2021 and shall also not attract the provisions of ‘loan participation’ as defined under Para 9(e) of the Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021 dated September 24, 2021 .\n\niii. These Directions are without prejudice to any other extant regulatory norms or statutory provisions as applicable to the RE's activities, from time to time.\n\n30. Repeal provisions\n\ni. With the issuance of these Directions, the instructions/guidelines contained in the circulars mentioned in the Annex - III issued by RBI stand repealed.\n\nii. Notwithstanding the repeal under sub-para (i), anything done or any action taken or purported to have been done or taken, or any direction given or any proceeding taken or any penalty or fine imposed under the repealed enactments shall, insofar as it is not inconsistent with the provisions of these Directions, be deemed to have been done or taken under the corresponding provisions of these Directions.\n\nAnnex I: Data to be submitted on the CIMS portal\n\nSl. No. | Name of the DLA | Name of the owner of DLA (Self-owned/ name of LSP in case DLA is of LSP) | Available on (Website/ Name of app store) | Link to DLA# | Name of Grievance Redressal Officer | Email id of Grievance Redressal Officer | Telephone number of Grievance Redressal Officer | Mobile number of Grievance Redressal Officer | Website of RE\n\n*Each DLA to be reported as a separate line item. In case any DLA is available on multiple app stores, each entry is required to be reported separately with specific links to the DLA on the app store # In case DLA is a website, provide link to the website, or in case DLA is an app hosted on one of the app-stores, provide the link of the DLA on the app-store\n\nAnnex II: Illustrations\n\nNote: Illustrations are provided for ease of understanding and are merely indicative and not exhaustive.\n\nIllustration 1\n\nAssume that as on April 1, 2024 the RE earmarks a portfolio of ₹40 crore (out of the total sanctioned loans) under a DLG arrangement (DLG set). This portfolio shall remain \"frozen\" for the purpose of the specific DLG arrangement - meaning that no loan assets can be added or removed from it, except through loan repayment/ write-off. The RE can have such multiple DLG sets.\n\nThe ceiling for DLG cover on such portfolio shall be fixed at ₹2 crore (5% of ₹40 crore), which shall get activated proportionately as and when the loans are disbursed .\n\nIllustration 2\n\nAssume that out of the above DLG set, loans amounting to ₹10 crore are disbursed immediately. Then as on April 1, 2024, the DLG cover available for the portfolio shall be ₹0.5 crore (5% of disbursed).\n\nSubsequently, if loans of ₹10 crore are further disbursed on April 15, 2024, the DLG cover shall proportionately increase to ₹1 crore effective April 15, 2024.\n\n(Refer table below also for summary of each case)\n\nCase 1: As on June 30, 2024, loans worth ₹5 crore mature without any default. In this case, the outstanding portfolio in the books of the RE would be ₹15 crore and the DLG cover shall remain at ₹1 crore.\n\nCase 2: Subsequently, there is a default of ₹2 crore during Q2-2024 and consequently the RE invokes the entire DLG (₹1 crore 13 ). In this case, as of Sept 30, 2024 the outstanding portfolio in the books of the RE shall be ₹15 crore (₹20 crore original portfolio less ₹5 crore loans matured without default) but no headroom for DLG will be available as the maximum permissible DLG cover of ₹1 crore (5% of disbursed) has been exhausted.\n\nCase 3: Going further, let’s assume that recovery worth ₹1 crore is made by the RE during October 2024 on the defaulted loans of ₹2 crore. In such a case, the amount of the outstanding portfolio in the books of the RE as on October 31, 2024 shall come down to ₹14 crore (₹20 crore original portfolio less ₹5 crore loans matured without any default less ₹1 crore loans which were in default and recovered). However, the recovery amount of ₹1 crore cannot be added to reinstate the DLG cover.\n\n(figures in ₹ crore)\n\nPeriod | Disbursed | Loan maturing without default | Default Amount | DLG Invoked | Recovery/ Write-off | Outstanding Portfolio | Available DLG Cover\n\nInitial Position | 10 | - | - | - | - | 10 | 0.5\n\nFurther disbursement | 10 | - | - | - | - | 20 | 1\n\nCase 1 | 20 | 5 | - | - | - | 15 | 1\n\nCase 2 | 20 | 5 | 2 | 1 | - | 15 | 0\n\nCase 3 | 20 | 5 | 2 | 1 | 1 | 14 | 0\n\nAnnex III: List of circulars to be repealed with the issuance of these Directions\n\nS.No. | Circular No. | Date | Subject\n\n1. | RBI/2019-20/258 DOR(NBFC)(PD) CC.No.112/03.10.001/2019-20 | 24.06.2020 | Loans Sourced by Banks and NBFCs over Digital Lending Platforms: Adherence to Fair Practices Code and Outsourcing Guidelines\n\n2. | RBI/2022-23/111 DOR.CRE.REC .66/21.07.001/2022-23 | 02.09.2022 | Guidelines on Digital Lending\n\n3. | RBI/2023-24/41 DOR.CRE.REC .21/21.07.001/2023-24 | 08.06.2023 | Guidelines on Default Loss Guarantee (DLG) in Digital Lending\n\n1 While entities offering only Payment Aggregator (PA) services in terms of the extant instructions issued by RBI shall remain out of the ambit of these Directions, any PA also performing the role of an LSP shall comply with these Directions.\n\n2 Circular DOR.ORG.REC.65/21.04.158/2022-23 on ‘Outsourcing of Financial Services - Responsibilities of regulated entities employing Recovery Agents’ dated August 12, 2022 , and other relevant instructions as issued from time to time.\n\n3 Para 2.6 of the Master Circular on “Loans and Advances – Statutory and Other restrictions” dated July 01, 2015 ; Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks issued vide Circular dated November 03, 2006 as amended from time to time; Para 48 of Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023 dated October 19, 2023 , as amended from time to time; ‘Guidelines for Managing Risk in Outsourcing of Financial Services by Co-operative Banks’, dated June 28, 2021 ; Circular on ‘Outsourcing of Financial Services - Responsibilities of regulated entities employing Recovery Agents’ dated August 12, 2022 , and other related instructions issued by the Reserve Bank from time to time.\n\n4 As defined under section 2(e) of the ‘Guidelines for Prevention and Regulation of Dark Patterns, 2023’ dated November 30, 2023, issued by Central Consumer Protection Authority, as amended from time to time.\n\n5 As per the provisions of the Information Technology Act, 2000, as amended from time to time.\n\n6 Co-lending arrangements shall be governed by the extant instructions, as amended from time to time. This shall also cover co-lending arrangements between REs for non-PSL loans subject to the condition that no third party other than the REs in a co-lending transaction shall have direct or indirect control over the flow of funds at any point of time.\n\n7 Advances against salary, where the loan is disbursed directly to the bank account of the borrower but the repayment is from the corporate employer, can be allowed subject to the condition that the loan is repaid by the corporate employer by deducting the amount from the borrower’s salary. It must, however, be ensured that LSPs do not have any control over the flow of funds directly or indirectly in such transactions and that repayment is directly from the bank account of the employer to the RE.\n\n8 In terms of Circular DBR.Dir.BC.No.08/13.03.00/2019-20 “Levy of Foreclosure Charges /Pre-payment Penalty on Floating Rate Term Loans” dated August 02, 2019 for banks and Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023 dated October 19, 2023 for NBFCs, as amended from time to time, and other relevant instructions as issued from time to time.\n\n9 https://cms.rbi.org.in/\n\n10 Issued vide Notification CEPD. PRD. No.S873/13.01.001/2021-22 dated November 12, 2021\n\n11 Para 7 of the ‘Master Circular on Basel III Capital Regulations’ dated April 01, 2025 , as amended from time to time, Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023 dated October 19, 2023 (as updated from time to time), Master Circular on ‘Prudential Norms on Capital Adequacy - Primary (Urban) Co-operative Banks (UCBs)’ dated April 01, 2025 as amended from time to time, Circular on ‘ Operating Guidelines for Small Finance Banks’ dated October 06, 2016 and Master Direction - Reserve Bank of India (Prudential Regulations on Basel III Capital Framework, Exposure Norms, Significant Investments, Classification, Valuation and Operation of Investment Portfolio Norms and Resource Raising Norms for All India Financial Institutions) Directions, 2023 dated September 21, 2023 (as amended from time to time).\n\n12 Card-issuers shall ensure complete transparency in the conversion of credit card transactions to Equated Monthly Instalments (EMIs) by clearly indicating the principal, interest and upfront discount provided by the merchant/card-issuer (to make it no cost), prior to the conversion. The same shall also be separately indicated in the credit card bill/statement. EMI conversion with interest component shall not be camouflaged as zero-interest/no-cost EMI.\n\n13 It has been assumed that till date zero principal/interest have been received towards these loans."
+}

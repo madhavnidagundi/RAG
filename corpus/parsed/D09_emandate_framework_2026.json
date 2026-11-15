@@ -1,0 +1,466 @@
+{
+ "doc_id": "D09_emandate_framework_2026",
+ "source_file": "D09_emandate_framework_2026.html",
+ "n_pages_pdf": null,
+ "words": 938,
+ "est_pages": 2.1,
+ "n_blocks": 50,
+ "n_headings": 12,
+ "issues": [
+  "9 table rows serialised as 'cell | cell'",
+  "HTML source: no page numbers; RBI site navigation and index (TOC) tables removed"
+ ],
+ "blocks": [
+  {
+   "text": "RBI/DPSS/2026-27/396 RBI/CO.DPSS.POLC.No.S56/02.14.003/2026-27",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 0,
+   "char_end": 62
+  },
+  {
+   "text": "April 21, 2026",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 64,
+   "char_end": 78
+  },
+  {
+   "text": "Digital Payments – E-mandate Framework, 2026",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 80,
+   "char_end": 124
+  },
+  {
+   "text": "In exercise of the powers conferred by Sections 10(2) read with Section 18 of the Payment and Settlement Systems (PSS) Act, 2007, the Reserve Bank of India (RBI), being satisfied that it is necessary and expedient in the public interest so to do, hereby consolidates all circulars pertaining to e-mandates and issues the Directions hereinafter specified.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 126,
+   "char_end": 480
+  },
+  {
+   "text": "1. Short Title and Commencement",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 482,
+   "char_end": 513
+  },
+  {
+   "text": "(a) These Directions shall be called the “Digital Payments - E-mandate Framework, 2026”.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 515,
+   "char_end": 603
+  },
+  {
+   "text": "(b) These Directions shall be effective immediately .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 605,
+   "char_end": 658
+  },
+  {
+   "text": "2. Applicability",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 660,
+   "char_end": 676
+  },
+  {
+   "text": "The provisions of these Directions shall be applicable to all Payment System Providers and Payment System Participants in respect of processing of recurring transactions, domestic or cross-border, using cards / PPI / UPI.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 678,
+   "char_end": 899
+  },
+  {
+   "text": "3. Definitions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 901,
+   "char_end": 915
+  },
+  {
+   "text": "(a) The terms ‘authentication’, ’factor of authentication’, ‘issuer’, ‘merchant’ will have the same meaning as defined in Reserve Bank of India (Authentication mechanisms for digital payment transactions) Directions, 2025 dated September 25, 2025 and Master Direction on Regulation of Payment Aggregator (PA) dated September 15, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 917,
+   "char_end": 1252
+  },
+  {
+   "text": "4. Registration and revocation of E-Mandate",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 1254,
+   "char_end": 1297
+  },
+  {
+   "text": "(a) A customer desirous of opting for e-mandate facility shall undertake a one-time registration process. The mandate shall be registered only after successful validation of additional factor of authentication (AFA), in addition to the normal process required by the issuer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1299,
+   "char_end": 1573
+  },
+  {
+   "text": "(b) Every e-mandate registered by the issuer shall specify the validity period of the e-mandate. The issuer shall provide the customer with a facility to modify the validity period or withdraw the e-mandate at any point of time. Information about this facility shall be clearly communicated to the customer at the time of registration.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1575,
+   "char_end": 1910
+  },
+  {
+   "text": "(c) The e-mandate may be for either a pre-specified fixed amount or for a variable amount subject to the overall cap fixed by the RBI. In the case of variable e-mandates, the issuer shall provide the customer with a facility to specify the maximum value of any recurring transaction.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1912,
+   "char_end": 2195
+  },
+  {
+   "text": "(d) The customer shall be given a facility to choose or change a mode among available options (SMS, email, etc.) for receiving the pre-transaction notification from the issuer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2197,
+   "char_end": 2373
+  },
+  {
+   "text": "(e) Any modification in, or withdrawal of, an existing e-mandate shall require AFA validation by the issuer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2375,
+   "char_end": 2483
+  },
+  {
+   "text": "5. Processing of first transaction and subsequent recurring transactions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2485,
+   "char_end": 2557
+  },
+  {
+   "text": "(a) The first transaction under an e-mandate shall require AFA validation. If the first transaction is processed along with registration of the e-mandate, then AFA validation may be combined.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2559,
+   "char_end": 2750
+  },
+  {
+   "text": "(b) Payments under e-mandates shall not be subject to any other limits / controls set by the customer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2752,
+   "char_end": 2854
+  },
+  {
+   "text": "6. Pre-transaction Notification",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2856,
+   "char_end": 2887
+  },
+  {
+   "text": "(a) An issuer shall send a pre-transaction notification to the customer, at least 24 hours prior to the actual charge / debit.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2889,
+   "char_end": 3015
+  },
+  {
+   "text": "(b) The pre-transaction notification shall, at the minimum, inform the customer about the merchant’s name, transaction amount, date / time of debit, reference number of e-mandate, reason for debit, i.e., e-mandate registered by the customer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3017,
+   "char_end": 3258
+  },
+  {
+   "text": "(c) The issuer shall provider a customer with a facility to opt-out of any particular transaction or the e-mandate. Any such opt-out shall be validated by the issuer using AFA. An intimation to this effect shall be sent to the customer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3260,
+   "char_end": 3496
+  },
+  {
+   "text": "(d) Pre-transaction notification is not required for e-mandates registered to auto-replenish balances of FASTag, and National Common Mobility Card (NCMC).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3498,
+   "char_end": 3652
+  },
+  {
+   "text": "7. Post-transaction notification",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 3654,
+   "char_end": 3686
+  },
+  {
+   "text": "An issuer shall send a post-transaction notification to the customer. This notification shall, at the minimum, inform the customer about the merchant’s name, transaction amount, date and time of debit, reference number of transaction and e-mandate, reason for debit, i.e., e-mandate registered by the customer, and details on grievance redressal 1 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3688,
+   "char_end": 4037
+  },
+  {
+   "text": "8. Transaction limits and velocity check",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 4039,
+   "char_end": 4079
+  },
+  {
+   "text": "(a) All recurring transactions may be authorised without AFA up to ₹15,000/- per transaction. Transactions above this amount shall be subject to AFA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4081,
+   "char_end": 4230
+  },
+  {
+   "text": "(b) Payment of insurance premiums, subscription to mutual funds, and credit card bill payments may be made without AFA up to ₹1,00,000/- per transaction.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4232,
+   "char_end": 4385
+  },
+  {
+   "text": "9. Dispute resolution and grievance redressal",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 4387,
+   "char_end": 4432
+  },
+  {
+   "text": "(a) An appropriate dispute redressal system shall be put in place by the issuer to facilitate the customer to lodge grievance/s.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4434,
+   "char_end": 4562
+  },
+  {
+   "text": "(b) RBI instructions on limiting liability of customers for unauthorised transactions shall be applicable to recurring transactions under e-mandates as well.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4564,
+   "char_end": 4721
+  },
+  {
+   "text": "10. Other provisions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 4723,
+   "char_end": 4743
+  },
+  {
+   "text": "(a) No charges shall be levied to the customer for availing the e-mandate facility for recurring transactions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4745,
+   "char_end": 4855
+  },
+  {
+   "text": "(b) In case of cards, existing e-mandate(s) can be mapped to reissued cards 2 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4857,
+   "char_end": 4936
+  },
+  {
+   "text": "(c) An acquirer shall ensure compliance with these directions by merchants on-boarded by them.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4938,
+   "char_end": 5032
+  },
+  {
+   "text": "11. Repeal",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 5034,
+   "char_end": 5044
+  },
+  {
+   "text": "With the issue of these directions, the instructions/guidelines contained in the following circulars, issued by the Reserve Bank stand repealed.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5046,
+   "char_end": 5190
+  },
+  {
+   "text": "No | Circular No. | Date | Subject",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 5192,
+   "char_end": 5226
+  },
+  {
+   "text": "1. | DPSS.CO.PD.No.447/02.14.003/2019-20 | August 21, 2019 | Processing of e-mandate on cards for recurring transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 5228,
+   "char_end": 5348
+  },
+  {
+   "text": "2. | DPSS.CO.PD No.1324/02.23.001/2019-20 | January 10, 2020 | Processing of e-mandate in Unified Payments Interface (UPI) for recurring transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 5350,
+   "char_end": 5499
+  },
+  {
+   "text": "3. | DPSS.CO.PD No.754/02.14.003/2020-21 | December 04, 2020 | Processing of e-mandates for recurring transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 5501,
+   "char_end": 5615
+  },
+  {
+   "text": "4. | CO.DPSS.POLC.No.S34/02-14-003/2020 | March 31, 2021 | Framework for processing of e-mandates for recurring online transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 5617,
+   "char_end": 5748
+  },
+  {
+   "text": "5. | Clarification issued to IBA on e-mandate based recurring transactions | October 08, 2021 | RBI's framework for e-mandate based recurring transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 5750,
+   "char_end": 5904
+  },
+  {
+   "text": "6. | CO.DPSS.POLC.No.S-518/02.14.003/2022-23 | June 16, 2022 | Processing of e-mandates for recurring transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 5906,
+   "char_end": 6020
+  },
+  {
+   "text": "7. | CO.DPSS.POLC.No.S-882/02.14.003/2023-24 | December 12, 2023 | Processing of e-mandates for recurring transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 6022,
+   "char_end": 6140
+  },
+  {
+   "text": "8. | CO.DPSS.POLC.No.S528/02-14-003/2024-25 | August 22, 2024 | Processing of e-mandates for recurring transactions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 6142,
+   "char_end": 6257
+  },
+  {
+   "text": "1 The requirement for providing details of grievance redressal is added, based on feedback.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6259,
+   "char_end": 6350
+  },
+  {
+   "text": "2 This clause is added based on feedback.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6352,
+   "char_end": 6393
+  }
+ ],
+ "text": "RBI/DPSS/2026-27/396 RBI/CO.DPSS.POLC.No.S56/02.14.003/2026-27\n\nApril 21, 2026\n\nDigital Payments – E-mandate Framework, 2026\n\nIn exercise of the powers conferred by Sections 10(2) read with Section 18 of the Payment and Settlement Systems (PSS) Act, 2007, the Reserve Bank of India (RBI), being satisfied that it is necessary and expedient in the public interest so to do, hereby consolidates all circulars pertaining to e-mandates and issues the Directions hereinafter specified.\n\n1. Short Title and Commencement\n\n(a) These Directions shall be called the “Digital Payments - E-mandate Framework, 2026”.\n\n(b) These Directions shall be effective immediately .\n\n2. Applicability\n\nThe provisions of these Directions shall be applicable to all Payment System Providers and Payment System Participants in respect of processing of recurring transactions, domestic or cross-border, using cards / PPI / UPI.\n\n3. Definitions\n\n(a) The terms ‘authentication’, ’factor of authentication’, ‘issuer’, ‘merchant’ will have the same meaning as defined in Reserve Bank of India (Authentication mechanisms for digital payment transactions) Directions, 2025 dated September 25, 2025 and Master Direction on Regulation of Payment Aggregator (PA) dated September 15, 2025 .\n\n4. Registration and revocation of E-Mandate\n\n(a) A customer desirous of opting for e-mandate facility shall undertake a one-time registration process. The mandate shall be registered only after successful validation of additional factor of authentication (AFA), in addition to the normal process required by the issuer.\n\n(b) Every e-mandate registered by the issuer shall specify the validity period of the e-mandate. The issuer shall provide the customer with a facility to modify the validity period or withdraw the e-mandate at any point of time. Information about this facility shall be clearly communicated to the customer at the time of registration.\n\n(c) The e-mandate may be for either a pre-specified fixed amount or for a variable amount subject to the overall cap fixed by the RBI. In the case of variable e-mandates, the issuer shall provide the customer with a facility to specify the maximum value of any recurring transaction.\n\n(d) The customer shall be given a facility to choose or change a mode among available options (SMS, email, etc.) for receiving the pre-transaction notification from the issuer.\n\n(e) Any modification in, or withdrawal of, an existing e-mandate shall require AFA validation by the issuer.\n\n5. Processing of first transaction and subsequent recurring transactions\n\n(a) The first transaction under an e-mandate shall require AFA validation. If the first transaction is processed along with registration of the e-mandate, then AFA validation may be combined.\n\n(b) Payments under e-mandates shall not be subject to any other limits / controls set by the customer.\n\n6. Pre-transaction Notification\n\n(a) An issuer shall send a pre-transaction notification to the customer, at least 24 hours prior to the actual charge / debit.\n\n(b) The pre-transaction notification shall, at the minimum, inform the customer about the merchant’s name, transaction amount, date / time of debit, reference number of e-mandate, reason for debit, i.e., e-mandate registered by the customer.\n\n(c) The issuer shall provider a customer with a facility to opt-out of any particular transaction or the e-mandate. Any such opt-out shall be validated by the issuer using AFA. An intimation to this effect shall be sent to the customer.\n\n(d) Pre-transaction notification is not required for e-mandates registered to auto-replenish balances of FASTag, and National Common Mobility Card (NCMC).\n\n7. Post-transaction notification\n\nAn issuer shall send a post-transaction notification to the customer. This notification shall, at the minimum, inform the customer about the merchant’s name, transaction amount, date and time of debit, reference number of transaction and e-mandate, reason for debit, i.e., e-mandate registered by the customer, and details on grievance redressal 1 .\n\n8. Transaction limits and velocity check\n\n(a) All recurring transactions may be authorised without AFA up to ₹15,000/- per transaction. Transactions above this amount shall be subject to AFA.\n\n(b) Payment of insurance premiums, subscription to mutual funds, and credit card bill payments may be made without AFA up to ₹1,00,000/- per transaction.\n\n9. Dispute resolution and grievance redressal\n\n(a) An appropriate dispute redressal system shall be put in place by the issuer to facilitate the customer to lodge grievance/s.\n\n(b) RBI instructions on limiting liability of customers for unauthorised transactions shall be applicable to recurring transactions under e-mandates as well.\n\n10. Other provisions\n\n(a) No charges shall be levied to the customer for availing the e-mandate facility for recurring transactions.\n\n(b) In case of cards, existing e-mandate(s) can be mapped to reissued cards 2 .\n\n(c) An acquirer shall ensure compliance with these directions by merchants on-boarded by them.\n\n11. Repeal\n\nWith the issue of these directions, the instructions/guidelines contained in the following circulars, issued by the Reserve Bank stand repealed.\n\nNo | Circular No. | Date | Subject\n\n1. | DPSS.CO.PD.No.447/02.14.003/2019-20 | August 21, 2019 | Processing of e-mandate on cards for recurring transactions\n\n2. | DPSS.CO.PD No.1324/02.23.001/2019-20 | January 10, 2020 | Processing of e-mandate in Unified Payments Interface (UPI) for recurring transactions\n\n3. | DPSS.CO.PD No.754/02.14.003/2020-21 | December 04, 2020 | Processing of e-mandates for recurring transactions\n\n4. | CO.DPSS.POLC.No.S34/02-14-003/2020 | March 31, 2021 | Framework for processing of e-mandates for recurring online transactions\n\n5. | Clarification issued to IBA on e-mandate based recurring transactions | October 08, 2021 | RBI's framework for e-mandate based recurring transactions\n\n6. | CO.DPSS.POLC.No.S-518/02.14.003/2022-23 | June 16, 2022 | Processing of e-mandates for recurring transactions\n\n7. | CO.DPSS.POLC.No.S-882/02.14.003/2023-24 | December 12, 2023 | Processing of e-mandates for recurring transactions\n\n8. | CO.DPSS.POLC.No.S528/02-14-003/2024-25 | August 22, 2024 | Processing of e-mandates for recurring transactions\n\n1 The requirement for providing details of grievance redressal is added, based on feedback.\n\n2 This clause is added based on feedback."
+}

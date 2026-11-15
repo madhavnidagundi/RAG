@@ -1,0 +1,228 @@
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  12%|█▏        | 24/199 [00:00<00:00, 234.67it/s]Loading weights:  24%|██▍       | 48/199 [00:00<00:00, 215.23it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 625.21it/s]
+judge A-dense          A01 correct
+judge A-dense          A02 correct
+judge A-dense          A03 correct
+judge A-dense          A04 correct
+judge A-dense          A05 partial
+judge A-dense          A06 correct
+judge A-dense          A07 correct
+judge A-dense          A08 correct
+judge A-dense          A09 correct
+judge A-dense          A10 correct
+judge A-dense          A11 correct
+judge A-dense          A12 correct
+judge A-dense          A13 correct
+judge B-hybrid-gptoss20b A01 partial
+judge B-hybrid-gptoss20b A02 correct
+judge B-hybrid-gptoss20b A03 correct
+judge B-hybrid-gptoss20b A04 correct
+judge B-hybrid-gptoss20b A05 correct
+judge B-hybrid-gptoss20b A06 correct
+judge B-hybrid-gptoss20b A07 correct
+judge B-hybrid-gptoss20b A08 correct
+judge B-hybrid-gptoss20b A09 partial
+judge B-hybrid-gptoss20b A10 correct
+judge B-hybrid-gptoss20b A11 correct
+judge B-hybrid-gptoss20b A12 correct
+judge B-hybrid-gptoss20b A13 correct
+judge B-hybrid-gptoss20b A14 correct
+judge B-hybrid-gptoss20b A15 correct
+judge B-hybrid-gptoss20b A16 correct
+judge B-hybrid-gptoss20b A17 correct
+judge B-hybrid-gptoss20b A18 correct
+judge B-hybrid-gptoss20b A19 partial
+judge B-hybrid-gptoss20b A20 correct
+judge B-hybrid-gptoss20b A21 refused
+judge B-hybrid-gptoss20b A22 correct
+judge B-hybrid-gptoss20b A23 correct
+judge B-hybrid-gptoss20b A24 correct
+judge B-hybrid-gptoss20b A25 correct
+judge B-hybrid-gptoss20b A26 correct
+judge B-hybrid-gptoss20b A27 correct
+judge B-hybrid-gptoss20b A28 correct
+judge B-hybrid-gptoss20b A29 correct
+judge B-hybrid-gptoss20b A30 correct
+judge B-hybrid-gptoss20b A31 correct
+judge B-hybrid-gptoss20b A32 correct
+judge B-hybrid-gptoss20b A33 correct
+judge B-hybrid-gptoss20b A34 correct
+judge B-hybrid-gptoss20b A35 correct
+judge B-hybrid-gptoss20b U01 correct_refusal
+judge B-hybrid-gptoss20b U02 correct_refusal
+judge B-hybrid-gptoss20b U03 correct_refusal
+judge B-hybrid-gptoss20b U04 correct_refusal
+judge B-hybrid-gptoss20b U05 correct_refusal
+judge B-hybrid-gptoss20b U06 correct_refusal
+judge B-hybrid-gptoss20b U07 correct_refusal
+judge B-hybrid-gptoss20b U08 correct_refusal
+judge B-hybrid-gptoss20b U09 correct_refusal
+judge B-hybrid-gptoss20b U10 correct_refusal
+judge B-hybrid-gptoss20b X01 pass
+judge B-hybrid-gptoss20b X02 fail
+judge B-hybrid-gptoss20b X03 pass
+judge B-hybrid-gptoss20b X04 pass
+judge B-hybrid-gptoss20b X05 pass
+judge A-dense          A14 correct
+judge A-dense          A15 correct
+judge A-dense          A16 correct
+judge A-dense          A17 correct
+judge A-dense          A18 correct
+judge A-dense          A19 correct
+judge A-dense          A20 correct
+judge A-dense          A21 correct
+judge A-dense          A22 correct
+judge A-dense          A23 correct
+judge A-dense          A24 correct
+judge A-dense          A25 correct
+judge A-dense          A26 correct
+judge A-dense          A27 correct
+judge A-dense          A28 correct
+OpenBLAS error: Memory allocation still failed after 10 retries, giving up.
+OpenBLAS error: Memory allocation still failed after 10 retries, giving up.
+OpenBLAS error: Memory allocation still failed after 10 retries, giving up.
+== judge crashed (attempt 1), restarting
+Traceback (most recent call last):
+  File "D:\dwara\src\evaluate.py", line 223, in <module>
+    judge_pending(args or list(ANSWER_CONFIGS), loop="--loop" in sys.argv)
+  File "D:\dwara\src\evaluate.py", line 134, in judge_pending
+    from judge import judge, JUDGE_VERSION
+  File "D:\dwara\src\judge.py", line 12, in <module>
+    from generate import call_llm
+  File "D:\dwara\src\generate.py", line 15, in <module>
+    import anthropic
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\__init__.py", line 3, in <module>
+    from . import types
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\__init__.py", line 6, in <module>
+    from .shared import (
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\shared\__init__.py", line 4, in <module>
+    from .error_details import ErrorDetails as ErrorDetails
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\shared\error_details.py", line 24, in <module>
+    from ..beta.beta_invalid_metadata_error_details import BetaInvalidMetadataErrorDetails
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\__init__.py", line 7, in <module>
+    from .beta_message import BetaMessage as BetaMessage
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_message.py", line 10, in <module>
+    from .beta_content_block import BetaContentBlock
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_content_block.py", line 9, in <module>
+    from .beta_compaction_block import BetaCompactionBlock
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_compaction_block.py", line 6, in <module>
+    from .beta_response_tool_addition_block import BetaResponseToolAdditionBlock
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_response_tool_addition_block.py", line 5, in <module>
+    from .beta_tool_change_tool_definition import BetaToolChangeToolDefinition
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_tool_change_tool_definition.py", line 4, in <module>
+    from .beta_response_tool_union import BetaResponseToolUnion
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_response_tool_union.py", line 18, in <module>
+    from .beta_computer_toolset_20260801 import BetaComputerToolset20260801
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_computer_toolset_20260801.py", line 6, in <module>
+    from .beta_computer_toolset_configs import BetaComputerToolsetConfigs
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_computer_toolset_configs.py", line 8, in <module>
+    from .beta_computer_scroll_config import BetaComputerScrollConfig
+  File "D:\dwara\.venv\Lib\site-packages\anthropic\types\beta\beta_computer_scroll_config.py", line 8, in <module>
+    class BetaComputerScrollConfig(BaseModel):
+  File "D:\dwara\.venv\Lib\site-packages\pydantic\_internal\_model_construction.py", line 120, in __new__
+    namespace_info = inspect_namespace(
+                     ^^^^^^^^^^^^^^^^^^
+  File "D:\dwara\.venv\Lib\site-packages\pydantic\_internal\_model_construction.py", line 488, in inspect_namespace
+    return ModelNamespaceInfo(
+           ^^^^^^^^^^^^^^^^^^^
+MemoryError
+== judge crashed (attempt 2), restarting
+judge B-dense-gptoss20b A01 correct
+judge B-dense-gptoss20b A02 correct
+judge B-dense-gptoss20b A03 correct
+judge B-dense-gptoss20b A04 correct
+judge B-dense-gptoss20b A05 correct
+judge B-dense-gptoss20b A06 correct
+judge B-dense-gptoss20b A07 correct
+judge B-dense-gptoss20b A08 correct
+judge B-dense-gptoss20b A09 partial
+judge B-dense-gptoss20b A10 correct
+judge B-dense-gptoss20b A11 refused
+judge B-dense-gptoss20b A12 correct
+judge B-dense-gptoss20b A13 correct
+judge B-dense-gptoss20b A14 correct
+judge B-dense-gptoss20b A15 correct
+judge B-dense-gptoss20b A16 correct
+judge B-dense-gptoss20b A17 correct
+judge B-dense-gptoss20b A18 partial
+judge B-dense-gptoss20b A19 correct
+judge B-dense-gptoss20b A20 correct
+judge B-dense-gptoss20b A21 refused
+judge B-dense-gptoss20b A22 correct
+judge B-dense-gptoss20b A23 correct
+judge B-dense-gptoss20b A24 correct
+judge B-dense-gptoss20b A25 correct
+judge B-dense-gptoss20b A26 correct
+judge B-dense-gptoss20b A27 refused
+judge B-dense-gptoss20b A28 correct
+judge B-dense-gptoss20b A29 correct
+judge B-dense-gptoss20b A30 correct
+judge B-dense-gptoss20b A31 correct
+judge B-dense-gptoss20b A32 correct
+judge B-dense-gptoss20b A33 correct
+judge B-dense-gptoss20b A34 partial
+judge B-dense-gptoss20b A35 correct
+judge B-dense-gptoss20b U01 correct_refusal
+judge B-dense-gptoss20b U02 correct_refusal
+judge B-dense-gptoss20b U03 correct_refusal
+judge B-dense-gptoss20b U04 correct_refusal
+judge B-dense-gptoss20b U05 correct_refusal
+judge B-dense-gptoss20b U06 correct_refusal
+judge B-dense-gptoss20b U07 correct_refusal
+judge B-dense-gptoss20b U08 correct_refusal
+judge B-dense-gptoss20b U09 correct_refusal
+judge B-dense-gptoss20b U10 correct_refusal
+judge B-dense-gptoss20b X01 fail
+judge B-dense-gptoss20b X02 pass
+judge B-dense-gptoss20b X03 pass
+judge B-dense-gptoss20b X04 fail
+judge B-dense-gptoss20b X05 pass
+judge B-hybrid-rerank  A01 correct
+judge B-hybrid-rerank  A02 correct
+judge B-hybrid-rerank  A03 correct
+judge B-hybrid-rerank  A04 correct
+judge B-hybrid-rerank  A05 correct
+judge B-hybrid-rerank  A06 correct
+judge B-hybrid-rerank  A07 correct
+judge B-hybrid-rerank  A08 correct
+judge B-hybrid-rerank  A09 correct
+judge B-hybrid-rerank  A10 correct
+judge B-hybrid-rerank  A11 correct
+judge B-hybrid-rerank  A12 correct
+judge B-hybrid-rerank  A13 correct
+judge B-hybrid-rerank  A14 correct
+judge B-hybrid-rerank  A15 correct
+judge B-hybrid-rerank  A16 correct
+judge B-hybrid-rerank  A17 correct
+judge B-hybrid-rerank  A18 correct
+judge B-hybrid-rerank  A19 correct
+judge B-hybrid-rerank  A20 correct
+judge B-hybrid-rerank  A21 refused
+judge B-hybrid-rerank  A22 correct
+judge B-hybrid-rerank  A23 correct
+judge B-hybrid-rerank  A24 correct
+judge B-hybrid-rerank  A25 partial
+judge B-hybrid-rerank  A26 correct
+judge B-hybrid-rerank  A27 correct
+judge B-hybrid-rerank  A28 correct
+judge B-hybrid-rerank  A29 correct
+judge B-hybrid-rerank  A30 correct
+judge B-hybrid-rerank  A31 correct
+judge B-hybrid-rerank  A32 correct
+judge B-hybrid-rerank  A33 correct
+judge B-hybrid-rerank  A34 correct
+judge B-hybrid-rerank  A35 correct
+judge B-hybrid-rerank  U01 correct_refusal
+judge B-hybrid-rerank  U02 correct_refusal
+judge B-hybrid-rerank  U03 correct_refusal
+judge B-hybrid-rerank  U04 correct_refusal
+judge B-hybrid-rerank  U05 correct_refusal
+judge B-hybrid-rerank  U06 correct_refusal
+judge B-hybrid-rerank  U07 correct_refusal
+judge B-hybrid-rerank  U08 correct_refusal
+judge B-hybrid-rerank  U09 correct_refusal
+judge B-hybrid-rerank  U10 correct_refusal
+judge B-hybrid-rerank  X01 pass
+judge B-hybrid-rerank  X02 pass
+judge B-hybrid-rerank  X03 fail
+judge B-hybrid-rerank  X04 fail
+judge B-hybrid-rerank  X05 pass

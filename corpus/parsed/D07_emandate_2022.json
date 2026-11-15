@@ -1,0 +1,105 @@
+{
+ "doc_id": "D07_emandate_2022",
+ "source_file": "D07_emandate_2022.html",
+ "n_pages_pdf": null,
+ "words": 230,
+ "est_pages": 0.5,
+ "n_blocks": 10,
+ "n_headings": 1,
+ "issues": [
+  "HTML source: no page numbers; RBI site navigation and index (TOC) tables removed"
+ ],
+ "blocks": [
+  {
+   "text": "RBI/2022-23/73 CO.DPSS.POLC.No.S-518/02.14.003/2022-23",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 0,
+   "char_end": 54
+  },
+  {
+   "text": "June 16, 2022",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 56,
+   "char_end": 69
+  },
+  {
+   "text": "The Chairman / Managing Director / Chief Executive Officer All Scheduled Commercial Banks, including Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks / Payments Banks / Small Finance Banks / Local Area Banks / Non-bank Prepaid Payment Instrument Issuers / Authorised Card Payment Networks / National Payments Corporation of India",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 71,
+   "char_end": 464
+  },
+  {
+   "text": "Madam / Dear Sir,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 466,
+   "char_end": 483
+  },
+  {
+   "text": "Processing of e-mandates for recurring transactions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 485,
+   "char_end": 536
+  },
+  {
+   "text": "A reference is invited to our circulars DPSS.CO.PD.No.447/02.14.003/2019-20 dated August 21, 2019 , DPSS.CO.PD No.1324/02.23.001/2019-20 dated January 10, 2020 , DPSS.CO.PD No.754/02.14.003/2020-21 dated December 04, 2020 and CO.DPSS.POLC.No.S34/02-14-003/2020-2021 dated March 31, 2021 (collectively referred to as “e-mandate framework”). The e-mandate framework prescribed an Additional Factor of Authentication (AFA), inter alia, while processing the first transaction in case of e-mandates / standing instructions on cards, prepaid payment instruments and Unified Payments Interface. For subsequent transactions with transaction values up to ₹5,000/- (AFA limit), prescription of AFA was waived.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 538,
+   "char_end": 1237
+  },
+  {
+   "text": "2. On a review of implementation of the e-mandate framework and the protection available to customers, it has been decided to increase the aforesaid AFA limit from ₹5,000/- to ₹15,000/- per transaction.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1239,
+   "char_end": 1441
+  },
+  {
+   "text": "3. This circular is issued under Section 10 (2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), and shall come into effect immediately.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1443,
+   "char_end": 1617
+  },
+  {
+   "text": "Yours faithfully,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1619,
+   "char_end": 1636
+  },
+  {
+   "text": "(P. Vasudevan) Chief General Manager",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1638,
+   "char_end": 1674
+  }
+ ],
+ "text": "RBI/2022-23/73 CO.DPSS.POLC.No.S-518/02.14.003/2022-23\n\nJune 16, 2022\n\nThe Chairman / Managing Director / Chief Executive Officer All Scheduled Commercial Banks, including Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks / Payments Banks / Small Finance Banks / Local Area Banks / Non-bank Prepaid Payment Instrument Issuers / Authorised Card Payment Networks / National Payments Corporation of India\n\nMadam / Dear Sir,\n\nProcessing of e-mandates for recurring transactions\n\nA reference is invited to our circulars DPSS.CO.PD.No.447/02.14.003/2019-20 dated August 21, 2019 , DPSS.CO.PD No.1324/02.23.001/2019-20 dated January 10, 2020 , DPSS.CO.PD No.754/02.14.003/2020-21 dated December 04, 2020 and CO.DPSS.POLC.No.S34/02-14-003/2020-2021 dated March 31, 2021 (collectively referred to as “e-mandate framework”). The e-mandate framework prescribed an Additional Factor of Authentication (AFA), inter alia, while processing the first transaction in case of e-mandates / standing instructions on cards, prepaid payment instruments and Unified Payments Interface. For subsequent transactions with transaction values up to ₹5,000/- (AFA limit), prescription of AFA was waived.\n\n2. On a review of implementation of the e-mandate framework and the protection available to customers, it has been decided to increase the aforesaid AFA limit from ₹5,000/- to ₹15,000/- per transaction.\n\n3. This circular is issued under Section 10 (2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), and shall come into effect immediately.\n\nYours faithfully,\n\n(P. Vasudevan) Chief General Manager"
+}

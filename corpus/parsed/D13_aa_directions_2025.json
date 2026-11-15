@@ -1,0 +1,2301 @@
+{
+ "doc_id": "D13_aa_directions_2025",
+ "source_file": "D13_aa_directions_2025.html",
+ "n_pages_pdf": null,
+ "words": 5352,
+ "est_pages": 11.9,
+ "n_blocks": 254,
+ "n_headings": 64,
+ "issues": [
+  "HTML source: no page numbers; RBI site navigation and index (TOC) tables removed"
+ ],
+ "blocks": [
+  {
+   "text": "RBI/DoR/2025-26/368 DoR.FIN.REC.No.287/03-10-123/2025-26",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 0,
+   "char_end": 56
+  },
+  {
+   "text": "November 28, 2025",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 58,
+   "char_end": 75
+  },
+  {
+   "text": "Reserve Bank of India (Non-Banking Financial Companies - Account Aggregator) Directions, 2025",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 77,
+   "char_end": 170
+  },
+  {
+   "text": "In exercise of the powers conferred under section 45JA of the Reserve Bank of India Act, 1934 (hereinafter referred to ‘the Act’), and of all the powers enabling it in this behalf, the Reserve Bank hereby issues Reserve Bank of India (Non-Banking Financial Companies - Account Aggregator) Directions, 2025 for compliance of the same by every non-banking financial company undertaking the business of Account Aggregator as defined herein.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 172,
+   "char_end": 609
+  },
+  {
+   "text": "Chapter-I – Preliminary",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 611,
+   "char_end": 634
+  },
+  {
+   "text": "A. Short title and Commencement and Applicability:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 636,
+   "char_end": 686
+  },
+  {
+   "text": "1. These directions shall be known as the ‘Reserve Bank of India (Non-Banking Financial Companies - Account Aggregator) Directions, 2025.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 688,
+   "char_end": 825
+  },
+  {
+   "text": "2. These directions shall come into force with effect on the day they are placed on the website of the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 827,
+   "char_end": 943
+  },
+  {
+   "text": "B. Applicability",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 945,
+   "char_end": 961
+  },
+  {
+   "text": "3. These Directions shall be applicable to Non-Banking Financial Companies – Account Aggregators (hereinafter collectively referred to as ‘NBFC-AAs’ and individually as an ‘NBFC-AA’).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 963,
+   "char_end": 1146
+  },
+  {
+   "text": "C. Applicability of other directions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 1148,
+   "char_end": 1184
+  },
+  {
+   "text": "4. The provisions contained in the following directions, where not contradictory to the contents of these Directions, shall be applicable to an NBFC-AA:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1186,
+   "char_end": 1338
+  },
+  {
+   "text": "(1) Reserve Bank of India (Non-Banking Financial Companies - Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1340,
+   "char_end": 1486
+  },
+  {
+   "text": "(2) Paragraphs 8, 10 to 13, 17(1) and 18 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 . It may be noted that the provisions of paragraphs 12, 13, 17(1) and 18 shall be applicable to NBFC-AA, despite the categorization of NBFC-AA as NBFCs-BL under SBR Framework.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1488,
+   "char_end": 1793
+  },
+  {
+   "text": "(3) Reserve Bank of India (Non-Banking Financial Companies – Financial Statements: Presentation and Disclosures) Directions, 2025 except provisions contained in paragraphs 13 to 15 and paragraph 20.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1795,
+   "char_end": 1993
+  },
+  {
+   "text": "(4) Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 except paragraphs 6(3) and 6(4).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1995,
+   "char_end": 2144
+  },
+  {
+   "text": "(5) Reserve Bank of India (Non-Banking Financial Companies – Prudential Norms on Declaration of Dividends) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2146,
+   "char_end": 2271
+  },
+  {
+   "text": "(6) Reserve Bank of India (Non-Banking Financial Companies – Managing Risks in Outsourcing) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2273,
+   "char_end": 2383
+  },
+  {
+   "text": "(7) Reserve Bank of India (Non-Banking Financial Companies- Voluntary Amalgamation) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2385,
+   "char_end": 2487
+  },
+  {
+   "text": "(8) Paragraphs 6, 7, 25 and 26 of the Reserve Bank of India (Non-Banking Financial Companies – Miscellaneous) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2489,
+   "char_end": 2617
+  },
+  {
+   "text": "5. Notwithstanding the above, the instructions contained in these Directions shall be applicable to an NBFC-AA in addition and not in substitution to the other relevant instructions contained in the directions mentioned in paragraph 4 above.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2619,
+   "char_end": 2860
+  },
+  {
+   "text": "D. Regulatory Structure under Scale Based Regulation for NBFCs",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2862,
+   "char_end": 2924
+  },
+  {
+   "text": "6. NBFC-AA shall always remain in the Base Layer of the regulatory structure specified in Reserve Bank of India (Non-Banking Financial Companies – Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2926,
+   "char_end": 3158
+  },
+  {
+   "text": "E. Scope",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 3160,
+   "char_end": 3168
+  },
+  {
+   "text": "7. The provisions of the directions provide a framework for the registration and operation of a non-banking financial company undertaking the business of an Account Aggregator in India.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3170,
+   "char_end": 3355
+  },
+  {
+   "text": "F. Definitions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 3357,
+   "char_end": 3371
+  },
+  {
+   "text": "8. In these directions unless the context otherwise requires,",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 3373,
+   "char_end": 3434
+  },
+  {
+   "text": "(1) ‘Account Aggregator’ means a non-banking financial company as notified under in sub-clause (iii) of clause (f) of section 45-I of the Act, that undertakes the business of an account aggregator, for a fee or otherwise, as defined at paragraph 8(4) of these directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3436,
+   "char_end": 3707
+  },
+  {
+   "text": "(2) ‘bank’ means -",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3709,
+   "char_end": 3727
+  },
+  {
+   "text": "a) a banking company; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3729,
+   "char_end": 3753
+  },
+  {
+   "text": "b) a corresponding new bank; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3755,
+   "char_end": 3786
+  },
+  {
+   "text": "c) the State Bank of India; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3788,
+   "char_end": 3818
+  },
+  {
+   "text": "d) a subsidiary bank; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3820,
+   "char_end": 3844
+  },
+  {
+   "text": "e) such other bank which the Reserve Bank may, by notification, specify for the purposes of these directions; and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3846,
+   "char_end": 3959
+  },
+  {
+   "text": "f) a co-operative bank as defined under clause (cci) of section 5 read with section 56 of the Banking Regulation Act, 1949 (10 of 1949);",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3961,
+   "char_end": 4097
+  },
+  {
+   "text": "(3) ‘Banking company’ means a banking company as defined in clause (c) of section 5 of the Banking Regulation Act, 1949 (10 of 1949);",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4099,
+   "char_end": 4232
+  },
+  {
+   "text": "(4) ‘business of an account aggregator’ means the business of providing under a contract, the service of, retrieving or collecting such financial information pertaining to its customer, as may be specified by the Reserve Bank from time to time;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4234,
+   "char_end": 4478
+  },
+  {
+   "text": "and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4480,
+   "char_end": 4483
+  },
+  {
+   "text": "consolidating, organizing and presenting such information to the customer or any other financial information user as may be specified by the Reserve Bank;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4485,
+   "char_end": 4639
+  },
+  {
+   "text": "Provided that , the financial information pertaining to the customer shall not be the property of the Account Aggregator, and not be used in any other manner.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4641,
+   "char_end": 4799
+  },
+  {
+   "text": "(5) ‘Company’ means a company registered under section 3 of the Companies Act, 1956 or a company registered under sub section (20) of section 2 of the Companies Act, 2013;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4801,
+   "char_end": 4972
+  },
+  {
+   "text": "(6) ‘Customer’ for the purpose of these directions means a ‘person’ who has entered into a contractual arrangement with the Account Aggregator to avail services provided by the Account Aggregator;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4974,
+   "char_end": 5170
+  },
+  {
+   "text": "(7) ‘Depository’ means a company which has been granted a certificate of registration under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5172,
+   "char_end": 5351
+  },
+  {
+   "text": "(8) ‘Depository Participant’ means a person registered under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5353,
+   "char_end": 5501
+  },
+  {
+   "text": "(9) ‘Financial Information’ means information in respect of the following with financial information providers:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5503,
+   "char_end": 5614
+  },
+  {
+   "text": "(i) bank deposits including fixed deposit accounts, savings deposit accounts, recurring deposit accounts and current deposit accounts,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5616,
+   "char_end": 5750
+  },
+  {
+   "text": "(ii) Deposits with NBFCs",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5752,
+   "char_end": 5776
+  },
+  {
+   "text": "(iii) Structured Investment Product (SIP)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5778,
+   "char_end": 5819
+  },
+  {
+   "text": "(iv) Commercial Paper (CP)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5821,
+   "char_end": 5847
+  },
+  {
+   "text": "(v) Certificates of Deposit (CD)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5849,
+   "char_end": 5881
+  },
+  {
+   "text": "(vi) Government Securities (Tradable)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5883,
+   "char_end": 5920
+  },
+  {
+   "text": "(vii) Equity Shares",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5922,
+   "char_end": 5941
+  },
+  {
+   "text": "(viii) Bonds",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5943,
+   "char_end": 5955
+  },
+  {
+   "text": "(ix) Debentures",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5957,
+   "char_end": 5972
+  },
+  {
+   "text": "(x) Mutual Fund Units",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5974,
+   "char_end": 5995
+  },
+  {
+   "text": "(xi) Exchange Traded Funds",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5997,
+   "char_end": 6023
+  },
+  {
+   "text": "(xii) Indian Depository Receipts",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6025,
+   "char_end": 6057
+  },
+  {
+   "text": "(xiii) CIS (Collective Investment Schemes) units",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6059,
+   "char_end": 6107
+  },
+  {
+   "text": "(xiv) Alternate Investment Funds (AIF) units",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6109,
+   "char_end": 6153
+  },
+  {
+   "text": "(xv) Insurance Policies",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6155,
+   "char_end": 6178
+  },
+  {
+   "text": "(xvi) Balances under the National Pension System (NPS)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6180,
+   "char_end": 6234
+  },
+  {
+   "text": "(xvii) Units of Infrastructure Investment Trusts",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6236,
+   "char_end": 6284
+  },
+  {
+   "text": "(xviii) Units of Real Estate Investment Trusts",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6286,
+   "char_end": 6332
+  },
+  {
+   "text": "(xix) Goods and Services Tax (GST) Returns, viz. Form GSTR-1 and Form GSTR-3B",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6334,
+   "char_end": 6411
+  },
+  {
+   "text": "(xx) Any other information as may be specified by the Reserve Bank for the purposes of these directions, from time to time;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6413,
+   "char_end": 6536
+  },
+  {
+   "text": "(10) ‘Financial Sector Regulator’ for the purpose of these directions, shall mean the Reserve Bank of India, Securities and Exchange Board of India, Insurance Regulatory and Development Authority of India, Pension Fund Regulatory and Development Authority and Department of Revenue, Ministry of Finance;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6538,
+   "char_end": 6841
+  },
+  {
+   "text": "(11) ‘Financial Information Provider’ means bank, banking company, non-banking financial company, asset management company, depository, depository participant, insurance company, insurance repository, Central Recordkeeping Agency, Goods and Services Tax Network (GSTN), Clearing Corporation of India Limited and such other entity as may be identified by the Reserve Bank for the purposes of these directions, from time to time;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6843,
+   "char_end": 7270
+  },
+  {
+   "text": "Note: Clearing Corporation of India Limited shall provide financial information on Government Securities held by retail investors in their Retail Direct Gilt accounts under Retail Direct Scheme.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7272,
+   "char_end": 7466
+  },
+  {
+   "text": "(12) ‘Financial Information User’ means an entity registered with and regulated by any financial sector regulator;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7468,
+   "char_end": 7582
+  },
+  {
+   "text": "(13) ‘Insurance Repository’ means a company formed under the Companies Act, 1956 and which has been granted a certificate of registration by Insurance Regulatory and Development Authority of India (IRDAI) for maintaining data of insurance policies in electronic form on behalf of insurers.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7584,
+   "char_end": 7873
+  },
+  {
+   "text": "(14) ‘Leverage Ratio’ means the ratio of the Outside Liabilities excluding borrowings/ loans from the group entities to Owned Funds.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7875,
+   "char_end": 8007
+  },
+  {
+   "text": "(15) ‘Non-banking financial company’ means a company registered under the Companies Act and which has been granted certificate of registration by the Reserve Bank under section 45IA of the Act;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8009,
+   "char_end": 8202
+  },
+  {
+   "text": "(16) ‘Person’ means",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8204,
+   "char_end": 8223
+  },
+  {
+   "text": "(i) an individual,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8225,
+   "char_end": 8243
+  },
+  {
+   "text": "(ii) a Hindu undivided family,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8245,
+   "char_end": 8275
+  },
+  {
+   "text": "(iii) a company,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8277,
+   "char_end": 8293
+  },
+  {
+   "text": "(iv) a firm,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8295,
+   "char_end": 8307
+  },
+  {
+   "text": "(v) an association of persons or a body of individuals, whether incorporated or not, and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8309,
+   "char_end": 8397
+  },
+  {
+   "text": "(vi) every artificial juridical person, not falling within any of the preceding subclauses.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8399,
+   "char_end": 8490
+  },
+  {
+   "text": "9. Words or expressions used in these directions but not defined herein but defined in the Act, shall have the same meaning as assigned to them under the Act. Any other words or expressions not defined in the Act, shall have the same meaning assigned to them in the Companies Act, 2013.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8492,
+   "char_end": 8778
+  },
+  {
+   "text": "Chapter-II – Role of Board of Directors and Registration",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 8780,
+   "char_end": 8836
+  },
+  {
+   "text": "A. Role of Board of Directors",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 8838,
+   "char_end": 8867
+  },
+  {
+   "text": "10. The NBFC-AA shall put in place Board approved policies and establish periodic review mechanisms to ensure sound processes and systems. An illustrative list of such policies to be approved by the Board or its Committee(s) is provided below. The specific aspects to be addressed in these policies are detailed in the relevant paragraphs of these Directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8869,
+   "char_end": 9228
+  },
+  {
+   "text": "(1) Policy for handling / disposal of customer grievances / complaints.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9230,
+   "char_end": 9301
+  },
+  {
+   "text": "(2) Pricing of Services.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9303,
+   "char_end": 9327
+  },
+  {
+   "text": "(3) Policy for ascertaining the fit and proper criteria of the directors / managing director/ CEO at the time of appointment, and on a continuing basis.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9329,
+   "char_end": 9481
+  },
+  {
+   "text": "B. Registration",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 9483,
+   "char_end": 9498
+  },
+  {
+   "text": "11. The registration requirements for an NBFC-AA shall be as under:",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 9500,
+   "char_end": 9567
+  },
+  {
+   "text": "(1) No entity other than a company shall undertake the business of an Account Aggregator.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9569,
+   "char_end": 9658
+  },
+  {
+   "text": "(2) No company shall commence or carry on the business of an Account Aggregator without obtaining a certificate of registration from the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9660,
+   "char_end": 9810
+  },
+  {
+   "text": "Provided that , entities being regulated by other financial sector regulators and aggregating only those accounts relating to the financial information pertaining to customers of that particular sector will be excluded from the above registration requirement.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9812,
+   "char_end": 10071
+  },
+  {
+   "text": "(3) Every company seeking registration with the Reserve Bank as an NBFC-AA shall have a net owned fund of not less than rupees two crore, or such higher amount as the Reserve Bank may specify.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10073,
+   "char_end": 10265
+  },
+  {
+   "text": "Provided that , those companies not having a Net Owned Fund of minimum of Rupees two crore at the time of seeking registration, shall meet the Net Owned Fund criteria within the period of validity of the in-principle approval for grant of certification of registration given by the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10267,
+   "char_end": 10562
+  },
+  {
+   "text": "C. Process of registration",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 10564,
+   "char_end": 10590
+  },
+  {
+   "text": "12. The process of registration as an NBFC-AA is as under:",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 10592,
+   "char_end": 10650
+  },
+  {
+   "text": "(1) Every company seeking registration as an NBFC-AA shall make an application for registration on the PRAVAAH portal to the Department of Regulation, Mumbai of the Reserve Bank, in the form specified by the Reserve Bank for the purpose.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10652,
+   "char_end": 10889
+  },
+  {
+   "text": "(2) The Reserve Bank for the purpose of considering the application for registration shall require to be satisfied that the following conditions are fulfilled:-",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10891,
+   "char_end": 11051
+  },
+  {
+   "text": "(i) The company has the necessary resources and wherewithal to offer such services to customers.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11053,
+   "char_end": 11149
+  },
+  {
+   "text": "(ii) The company has the adequate capital structure to undertake the business of an account aggregator.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11151,
+   "char_end": 11254
+  },
+  {
+   "text": "(iii) The promoters of the company are fit and proper.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11256,
+   "char_end": 11310
+  },
+  {
+   "text": "(iv) The general character of the management or proposed management of the company are not prejudicial to the public interest.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11312,
+   "char_end": 11438
+  },
+  {
+   "text": "(v) The company has a plan for a robust Information Technology system.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11440,
+   "char_end": 11510
+  },
+  {
+   "text": "(vi) The company shall not have a leverage ratio of more than seven.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11512,
+   "char_end": 11580
+  },
+  {
+   "text": "(vii) That the public interest shall be served by the grant of certificate of registration to the Account Aggregator to commence or to carry on the business in India.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11582,
+   "char_end": 11748
+  },
+  {
+   "text": "(viii) Any other condition that may be specified by the Reserve Bank from time to time, the fulfilment of which in the opinion of the Reserve Bank shall be necessary to ensure that the commencement of or carrying on the business in India shall not be prejudicial to the public interest.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11750,
+   "char_end": 12036
+  },
+  {
+   "text": "(3) The Reserve Bank may, after being satisfied that the conditions specified under sub-paragraph (2) are fulfilled, grant in-principle approval for registering as an NBFC-AA subject to such conditions as it may consider fit to impose.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12038,
+   "char_end": 12273
+  },
+  {
+   "text": "(4) The validity of the in-principle approval issued by the Reserve Bank will be twelve months from the date of granting such in-principle approval.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12275,
+   "char_end": 12423
+  },
+  {
+   "text": "(5) Within the period of twelve months, the company shall put in place the technology platform, enter into all other legal documentations required to be ready for operations and report position of compliance with the terms of grant of in-principle approval to the Reserve Bank. The Reserve Bank may, after being satisfied that the company is ready to commence operations and in compliance with the registration requirements, grant it a Certificate of Registration as an NBFC - AA subject to such conditions as it may consider fit to impose.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12425,
+   "char_end": 12965
+  },
+  {
+   "text": "(6) The Reserve Bank may cancel the certificate of registration granted to an NBFC-AA , if such company -",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12967,
+   "char_end": 13072
+  },
+  {
+   "text": "(i) ceases to carry on the business of an Account Aggregator in India; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13074,
+   "char_end": 13147
+  },
+  {
+   "text": "(ii) has failed to comply with any condition subject to which the certificate of registration has been issued to it; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13149,
+   "char_end": 13268
+  },
+  {
+   "text": "(iii) it comes to the notice of the Reserve Bank that the NBFC-AA is no longer eligible to hold the certificate of registration; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13270,
+   "char_end": 13401
+  },
+  {
+   "text": "(iv) at any time fails to fulfill any of the conditions referred to in sub-paragraphs (2) and (5); or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13403,
+   "char_end": 13504
+  },
+  {
+   "text": "(v) fails to -",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13506,
+   "char_end": 13520
+  },
+  {
+   "text": "(a) comply with any direction issued by the Reserve Bank; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13522,
+   "char_end": 13582
+  },
+  {
+   "text": "(b) maintain accounts, publish and disclose its financial position in accordance with the requirements of any law or any direction or order issued by the Reserve Bank; or",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13584,
+   "char_end": 13754
+  },
+  {
+   "text": "(c) submit or offer for inspection its books of account or other relevant documents when so demanded by the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13756,
+   "char_end": 13877
+  },
+  {
+   "text": "D. Investment from FATF non-compliant jurisdictions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 13879,
+   "char_end": 13930
+  },
+  {
+   "text": "13. The companies seeking Certification of Registration as an NBFC-AA shall refer to the instructions as prescribed in paragraphs 47 and 48 of Reserve Bank of India (Non-Banking Financial Companies – Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13932,
+   "char_end": 14217
+  },
+  {
+   "text": "Chapter-III – Scope of Activities",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 14219,
+   "char_end": 14252
+  },
+  {
+   "text": "A. Duties and Responsibilities of an NBFC-AA",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 14254,
+   "char_end": 14298
+  },
+  {
+   "text": "14. The duties and responsibilities of an NBFC-AA are as under:",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 14300,
+   "char_end": 14363
+  },
+  {
+   "text": "(1) NBFC-AA shall provide services to a customer based on the customer’s explicit consent.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14365,
+   "char_end": 14455
+  },
+  {
+   "text": "(2) NBFC-AA shall ensure that the providing of services to a customer shall be backed by appropriate agreements/ authorisations between the NBFC-AA, the customer and the Financial Information Providers.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14457,
+   "char_end": 14659
+  },
+  {
+   "text": "(3) NBFC-AA shall not support transactions by customers.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14661,
+   "char_end": 14717
+  },
+  {
+   "text": "(4) NBFC-AA shall ensure appropriate mechanisms for proper customer identification.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14719,
+   "char_end": 14802
+  },
+  {
+   "text": "(5) NBFC-AA shall share information as referred to under paragraph 8(4) only with the customer to whom it relates or any other financial information user as authorised by the customer in accordance with the terms of the consent provided by the customer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14804,
+   "char_end": 15057
+  },
+  {
+   "text": "(6) NBFC-AA shall not undertake any other business other than the business of account aggregator. Deployment of investible surplus by an NBFC-AA in instruments, not for trading, shall however be permitted.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15059,
+   "char_end": 15264
+  },
+  {
+   "text": "(7) No financial information of the customer accessed by the NBFC-AA from the financial information providers shall reside with the NBFC-AA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15266,
+   "char_end": 15406
+  },
+  {
+   "text": "(8) NBFC-AA shall not use the services of a third party service provider for undertaking the business of account aggregation.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15408,
+   "char_end": 15533
+  },
+  {
+   "text": "(9) User authentication credentials of customers relating to accounts with various Financial Information Providers shall not be accessed by the NBFC-AA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15535,
+   "char_end": 15687
+  },
+  {
+   "text": "(10) NBFC-AA shall have a Citizen's Charter that explicitly guarantees protection of the rights of a customer. The NBFC-AA shall not part with any information that it may come to acquire from/ on behalf of a customer without the explicit consent of the customer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15689,
+   "char_end": 15951
+  },
+  {
+   "text": "(11) In the event of any difference in position of financial information in the statement generated by/from the NBFC-AA and the books of the Financial Information Provider, the position as reflected in the records of the Financial Information Provider shall be considered as correct.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15953,
+   "char_end": 16236
+  },
+  {
+   "text": "B. Consent Architecture",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 16238,
+   "char_end": 16261
+  },
+  {
+   "text": "15. No financial information of the customer shall be retrieved, shared or transferred by the NBFC-AA without the explicit consent of the customer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16263,
+   "char_end": 16410
+  },
+  {
+   "text": "16. An NBFC-AA shall perform the function of obtaining, submitting and managing the customer’s consent in accordance with these directions.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 16412,
+   "char_end": 16551
+  },
+  {
+   "text": "17. The consent of the customer obtained by the NBFC-AA shall be a standardised consent artefact which shall contain the following details, namely: —",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 16553,
+   "char_end": 16702
+  },
+  {
+   "text": "(1) identity of the customer and optional contact information;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16704,
+   "char_end": 16766
+  },
+  {
+   "text": "(2) the nature of the financial information requested;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16768,
+   "char_end": 16822
+  },
+  {
+   "text": "(3) purpose of collecting such information;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16824,
+   "char_end": 16867
+  },
+  {
+   "text": "(4) the identity of the recipients of the information, if any;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16869,
+   "char_end": 16931
+  },
+  {
+   "text": "(5) URL or other address to which notification needs to be sent every time the consent artefact is used to access information",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16933,
+   "char_end": 17058
+  },
+  {
+   "text": "(6) Consent creation date, expiry date, identity and signature/ digital signature of the NBFC-AA; and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17060,
+   "char_end": 17161
+  },
+  {
+   "text": "(7) any other attribute as may be prescribed by the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17163,
+   "char_end": 17228
+  },
+  {
+   "text": "18. The consent artefact can also be obtained in electronic form.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17230,
+   "char_end": 17295
+  },
+  {
+   "text": "19. At the time of obtaining consent, the NBFC-AA shall inform the customer of all necessary attributes to be contained in the consent artefact as per paragraph 17 above and the right of the customer to file complaints with relevant authorities in case of non-redressal of grievances.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17297,
+   "char_end": 17581
+  },
+  {
+   "text": "20. NBFC-AA shall also provide its customers a functionality to revoke consent to obtain information that is rendered accessible by a consent artefact, including the ability to revoke consent to obtain parts of such information. Upon revocation, a fresh consent artefact shall be shared with the Financial Information provider.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17583,
+   "char_end": 17910
+  },
+  {
+   "text": "21. An electronic consent artefact shall be capable of being logged, audited and verified.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17912,
+   "char_end": 18002
+  },
+  {
+   "text": "C. Sharing of financial information by Financial Information Providers upon valid consent artefact being presented",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 18004,
+   "char_end": 18118
+  },
+  {
+   "text": "22. Financial Information Providers shall share financial information of a customer with an NBFC-AA on being presented a valid consent artefact by an NBFC-AA in accordance with paragraphs 15 to 21.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18120,
+   "char_end": 18317
+  },
+  {
+   "text": "23. Upon being presented the consent artefact, the Financial Information Provider shall verify:",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 18319,
+   "char_end": 18414
+  },
+  {
+   "text": "(1) validity of consent",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18416,
+   "char_end": 18439
+  },
+  {
+   "text": "(2) specified dates and usage; and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18441,
+   "char_end": 18475
+  },
+  {
+   "text": "(3) the credentials of the NBFC-AA through appropriate means.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18477,
+   "char_end": 18538
+  },
+  {
+   "text": "24. Upon due verification, the Financial Information Providers shall digitally sign the financial information and securely transmit the same to the NBFC-AA in accordance with the terms contained in the consent artefact.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18540,
+   "char_end": 18759
+  },
+  {
+   "text": "25. All responses of the Financial Information Provider shall be in real time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18761,
+   "char_end": 18839
+  },
+  {
+   "text": "26. To enable these data flows, the Financial Information Providers shall:",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 18841,
+   "char_end": 18915
+  },
+  {
+   "text": "(1) implement interfaces that will allow an NBFC-AA to submit consent artefacts, and authenticate each other, and would enable secure flow of financial information to the NBFC-AA;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18917,
+   "char_end": 19096
+  },
+  {
+   "text": "(2) adopt means to verify the consent including digital signatures, if any, contained in the consent artefact;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19098,
+   "char_end": 19208
+  },
+  {
+   "text": "(3) implement means to digitally sign the financial information that is shared by them about the customers;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19210,
+   "char_end": 19317
+  },
+  {
+   "text": "(4) maintain a log of all information sharing requests and the actions performed by them pursuant to such requests and submit the same to the NBFC-AA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19319,
+   "char_end": 19469
+  },
+  {
+   "text": "D. Use of information by NBFC-AA and Financial Information User",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 19471,
+   "char_end": 19534
+  },
+  {
+   "text": "27. Where financial information has been provided by a Financial Information Provider to an NBFC-AA for transferring to a Financial Information User with the customer's explicit consent, the NBFC-AA shall:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19536,
+   "char_end": 19741
+  },
+  {
+   "text": "(1) verify the identity of the Financial Information User; and, if verified,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19743,
+   "char_end": 19819
+  },
+  {
+   "text": "(2) securely transfer the customer’s information to the intended recipient in accordance with the terms of the consent artefact.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19821,
+   "char_end": 19949
+  },
+  {
+   "text": "28. Where financial information has been provided by a Financial Information Provider to an NBFC-AA for transferring to the customer or to a Financial Information User, it shall not be used or disclosed by an NBFC-AA or the Financial Information User except as may be specified in the consent artefact.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19951,
+   "char_end": 20253
+  },
+  {
+   "text": "E. Joining the Account Aggregator Ecosystem as Financial Information User",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 20255,
+   "char_end": 20328
+  },
+  {
+   "text": "29. With a view to ensure efficient and optimum utilisation of the Account Aggregator ecosystem, regulated entities of the Reserve Bank joining the Account Aggregator ecosystem as Financial Information User shall necessarily join as Financial Information Provider also, if they hold the specified financial information and fall under the definition of Financial Information Provider.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20330,
+   "char_end": 20713
+  },
+  {
+   "text": "F. Data Security",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 20715,
+   "char_end": 20731
+  },
+  {
+   "text": "30. NBFC-AA shall adhere to the following:",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 20733,
+   "char_end": 20775
+  },
+  {
+   "text": "(1) Business of an Account Aggregator will be entirely Information Technology (IT) driven. NBFC-AA shall adopt required IT framework and interfaces to ensure secure data flows from the Financial Information Providers to its own systems and onwards to the Financial Information Users.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20777,
+   "char_end": 21060
+  },
+  {
+   "text": "(2) NBFC-AA shall not request or store customer credentials (like passwords, PINs, private keys) which may be used for authenticating customers to the Financial Information providers. Access by an NBFC-AA to customer’s information shall only be based on consent-based authorisation.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21062,
+   "char_end": 21344
+  },
+  {
+   "text": "(3) The technology should also be scalable to cover any other financial information or Financial Information Provider as may be specified by the Reserve Bank in future.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21346,
+   "char_end": 21514
+  },
+  {
+   "text": "(4) There shall be adequate safeguards built in its IT systems to ensure that it is protected against unauthorised access, alteration, destruction, disclosure or dissemination of records and data.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21516,
+   "char_end": 21712
+  },
+  {
+   "text": "(5) Appropriate measures for Disaster Risk Management and Business Continuity shall be in place.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21714,
+   "char_end": 21810
+  },
+  {
+   "text": "(6) Information System Audit of the internal systems and processes shall be in place and shall be conducted at least once in two years by CISA certified external auditors. Report of the external auditor shall be submitted to the Regional Office of the Department of Supervision of the Reserve Bank, under whose jurisdiction the Registered Office of the NBFC-AA is located, within one month of submission of the report by the external auditor.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21812,
+   "char_end": 22254
+  },
+  {
+   "text": "G. Guidance Note on Operational Risk Management and Operational Resilience",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 22256,
+   "char_end": 22330
+  },
+  {
+   "text": "31. NBFC-AA may make use of the ‘Guidance Note on Operational Risk Management and Operational Resilience ’, as amended from time to time.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 22332,
+   "char_end": 22469
+  },
+  {
+   "text": "H. Technical Specification for all participants of the Account Aggregator ecosystem",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 22471,
+   "char_end": 22554
+  },
+  {
+   "text": "32. The NBFC-AA consolidates financial information of a customer held with different financial entities under different financial sector regulators. In order to ensure that movement of data among different financial entities, spread across financial sector regulators adopting different IT systems and interfaces is secured, duly authorised, smooth and seamless, a set of core technical specifications for the participants of the AA ecosystem have been framed by Reserve Bank Information Technology Private Limited (ReBIT), and published the same on its website ( www.rebit.org.in ).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22556,
+   "char_end": 23139
+  },
+  {
+   "text": "33. All regulated entities of the Reserve Bank, acting either as NBFC-AA or Financial Information Providers or Financial Information Users are expected to adopt the technical specifications published by ReBIT, as updated from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23141,
+   "char_end": 23380
+  },
+  {
+   "text": "34. The document referred to in paragraph 32 above only provides specifications for Application Programming Interfaces (API). It shall be the responsibility of the NBFC-AA to ensure that its IT systems have all features necessary to carry out its functions strictly in conformity with these Directions as updated from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23382,
+   "char_end": 23713
+  },
+  {
+   "text": "I. Rights of the customer",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 23715,
+   "char_end": 23740
+  },
+  {
+   "text": "35. An NBFC-AA shall enable the customer to access a record of the consents provided by him and the Financial Information Users with whom the information has been shared.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23742,
+   "char_end": 23912
+  },
+  {
+   "text": "36. An NBFC-AA shall not use or access any customer information other than for performing the business of account aggregator explicitly requested by the customer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23914,
+   "char_end": 24076
+  },
+  {
+   "text": "J. Customer Grievance",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 24078,
+   "char_end": 24099
+  },
+  {
+   "text": "37. An NBFC-AA shall have in place a Board approved policy for handling/ disposal of customer grievances/ complaints. It shall have a dedicated setup to address customer grievances/ complaints.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24101,
+   "char_end": 24294
+  },
+  {
+   "text": "38. Customer complaints shall be handled/ disposed of by the NBFC-AA within such time and in such manner as provided for in its Board approved policy, but in any case not beyond a period of one month from its receipt.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24296,
+   "char_end": 24513
+  },
+  {
+   "text": "39. At the operational level, NBFC-AA shall display the following information prominently, for the benefit of customers, on the website and at the place/s of business:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24515,
+   "char_end": 24682
+  },
+  {
+   "text": "(1) the name and contact details (Telephone / Mobile nos. as also email address) of the Grievance Redressal Officer who can be approached by the public for resolution of complaints against the company.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24684,
+   "char_end": 24885
+  },
+  {
+   "text": "(2) that if the complaint / dispute is not redressed within a period of one month, the customer may appeal to the Reserve Bank.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 24887,
+   "char_end": 25014
+  },
+  {
+   "text": "K. Reserve Bank – Integrated Ombudsman Scheme, 2021",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 25016,
+   "char_end": 25067
+  },
+  {
+   "text": "40. NBFCs covered under the Reserve Bank – Integrated Ombudsman Scheme, 2021 (RBIOS, 2021) shall comply with the directions provided under the said Scheme.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 25069,
+   "char_end": 25224
+  },
+  {
+   "text": "L. Pricing",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 25226,
+   "char_end": 25236
+  },
+  {
+   "text": "41. An NBFC-AA would require to have a Board approved policy for pricing of services. Pricing of services will be in strict conformity with the internal guidelines adopted by the NBFC-AA which need to be transparent and available in public domain.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 25238,
+   "char_end": 25485
+  },
+  {
+   "text": "Chapter-IV – Corporate Governance",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 25487,
+   "char_end": 25520
+  },
+  {
+   "text": "42. An NBFC-AA shall have adequate internal mechanisms for reviewing, monitoring and evaluating its controls, systems, procedures and safeguards. The integrity of the IT systems shall be maintained at all times and all necessary precautions taken to ensure that the records are not lost, destroyed or tampered with.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 25522,
+   "char_end": 25837
+  },
+  {
+   "text": "A. Experience of the Board",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 25839,
+   "char_end": 25865
+  },
+  {
+   "text": "43. NBFC-AA shall comply with the provisions of paragraph 8 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 25867,
+   "char_end": 26017
+  },
+  {
+   "text": "B. Audit Committee",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26019,
+   "char_end": 26037
+  },
+  {
+   "text": "44. NBFC-AA shall comply with the provisions of paragraph 17(1) of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26039,
+   "char_end": 26193
+  },
+  {
+   "text": "C. Nomination Committee",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26195,
+   "char_end": 26218
+  },
+  {
+   "text": "45. NBFC-AA shall form a Nomination Committee consisting of not less than three members of its Board of Directors to ensure 'fit and proper' status of proposed/ existing directors. The Nomination Committee shall be formed as prescribed in paragraph 18 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26220,
+   "char_end": 26562
+  },
+  {
+   "text": "D. Risk Management Committee",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26564,
+   "char_end": 26592
+  },
+  {
+   "text": "46. NBFC-AA shall establish a well-documented risk management framework which shall include",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 26594,
+   "char_end": 26685
+  },
+  {
+   "text": "(1) A sound and robust technology risk management framework;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26687,
+   "char_end": 26747
+  },
+  {
+   "text": "(2) Strengthening system security, reliability, resiliency, and recoverability; and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26749,
+   "char_end": 26832
+  },
+  {
+   "text": "(3) Deploying strong authentication to protect access to customer data and systems.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26834,
+   "char_end": 26917
+  },
+  {
+   "text": "47. To manage the integrated risk and evaluate overall risks faced, an NBFC-AA shall form a Risk Management Committee either at the Board or executive level, consisting of not less than three members of its Board of Directors. The Risk Management Committee shall:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26919,
+   "char_end": 27182
+  },
+  {
+   "text": "(1) give due consideration to factors such as reputation, customer confidence, consequential impact and legal implications, with regard to investment in controls and security measures for computer systems, networks, data centres, operations and backup facilities.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27184,
+   "char_end": 27447
+  },
+  {
+   "text": "(2) have oversight of technology risks and ensure that the organisation’s IT function is capable of supporting its business strategies and objectives.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27449,
+   "char_end": 27599
+  },
+  {
+   "text": "E. Fit and Proper Criteria",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 27601,
+   "char_end": 27627
+  },
+  {
+   "text": "48. NBFC-AA shall:",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 27629,
+   "char_end": 27647
+  },
+  {
+   "text": "(1) ensure that a policy is put in place with the approval of the Board of Directors for ascertaining the fit and proper criteria of the directors / managing director / CEO at the time of appointment, and on a continuing basis. The policy on the fit and proper criteria shall be on the lines of the Directions as prescribed in paragraphs 12 and 13 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27649,
+   "char_end": 28087
+  },
+  {
+   "text": "(2) furnish to the Reserve Bank an annual statement on change of directors / managing director / CEO duly certified by the Statutory Auditors that fit and proper criteria in selection of the directors has been followed. The statement must reach the Regional Office of the Reserve Bank within 15 days of the close of the year.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28089,
+   "char_end": 28414
+  },
+  {
+   "text": "F. Disclosure Requirements",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 28416,
+   "char_end": 28442
+  },
+  {
+   "text": "49. NBFC-AA shall comply with the disclosure requirements specified in Reserve Bank of India (Non-Banking Financial Companies – Financial Statements: Presentation and Disclosures) Directions, 2025 , except provisions contained in paragraphs 13 to 15 and paragraph 20. These disclosures are in addition to and not in substitution of the disclosure requirements specified under other laws, regulations, or accounting and financial reporting standards. More comprehensive disclosures than the minimum required are encouraged, especially if such disclosures significantly aid in the understanding of the financial position and performance.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28444,
+   "char_end": 29079
+  },
+  {
+   "text": "G. Requirement to obtain prior approval of the Reserve Bank for acquisition or transfer of control of NBFC-AA",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 29081,
+   "char_end": 29190
+  },
+  {
+   "text": "50. The prior written permission of the Reserve Bank shall be required for an NBFC-AA for -",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 29192,
+   "char_end": 29283
+  },
+  {
+   "text": "(1) Any takeover or acquisition of control or any change in the shareholding as prescribed in paragraphs 6(1) and 6(2) of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29285,
+   "char_end": 29521
+  },
+  {
+   "text": "(2) Any change in shareholding that will give the acquirer a right to nominate a director.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29523,
+   "char_end": 29613
+  },
+  {
+   "text": "(3) Any change in directors and / or Management, as prescribed in paragraph 10 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29615,
+   "char_end": 29784
+  },
+  {
+   "text": "G.1 Application for prior approval",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 29786,
+   "char_end": 29820
+  },
+  {
+   "text": "51. In respect of prior approval as per requirement in paragraphs 50(1) and 50(2) above, an NBFC-AA shall comply with the instructions as prescribed in paragraph 7 of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 . In respect of prior approval as per requirement in paragraph 50(3) above, an NBFC-AA shall refer to the instructions as prescribed in paragraph 11 of Reserve Bank of India (Non-Banking Financial Companies– Governance) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29822,
+   "char_end": 30340
+  },
+  {
+   "text": "G.2 Public notice about change in control / management",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 30342,
+   "char_end": 30396
+  },
+  {
+   "text": "52. NBFC-AA shall comply with the provisions of paragraphs 8 to 10 of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30398,
+   "char_end": 30582
+  },
+  {
+   "text": "G.3 Information with respect to change of address, directors, auditors, etc. to be submitted",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 30584,
+   "char_end": 30676
+  },
+  {
+   "text": "53. Every NBFC-AA shall communicate change of address, directors, auditors, etc., as prescribed in paragraphs 6 and 7 of Reserve Bank of India (Non-Banking Financial Companies – Miscellaneous) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30678,
+   "char_end": 30889
+  },
+  {
+   "text": "G.4 Investment from FATF non-compliant jurisdictions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 30891,
+   "char_end": 30943
+  },
+  {
+   "text": "54. NBFC-AA shall ensure compliance to the instructions as prescribed in paragraphs 11 to 13 of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30945,
+   "char_end": 31155
+  },
+  {
+   "text": "Chapter-V – Miscellaneous Instructions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 31157,
+   "char_end": 31195
+  },
+  {
+   "text": "A. Declaration of dividends",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 31197,
+   "char_end": 31224
+  },
+  {
+   "text": "55. NBFC-AA shall comply with the provisions of Reserve Bank of India (Non-Banking Financial Companies – Prudential Norms on Declaration of Dividends) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31226,
+   "char_end": 31395
+  },
+  {
+   "text": "B. Managing Risks and Code of Conduct in Outsourcing of Financial Services by NBFC-AA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31397,
+   "char_end": 31483
+  },
+  {
+   "text": "56. NBFC-AA shall conduct a self-assessment of their existing outsourcing arrangements and bring these in line with the instructions as prescribed in Reserve Bank of India (Non-Banking Financial Companies – Managing Risks in Outsourcing) Directions, 2025 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31485,
+   "char_end": 31741
+  },
+  {
+   "text": "C. Returns",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 31743,
+   "char_end": 31753
+  },
+  {
+   "text": "57. The Reserve Bank may, from time to time, prescribe return/s to be submitted by NBFC-AA as deemed fit.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 31755,
+   "char_end": 31860
+  },
+  {
+   "text": "D. Supervision",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 31862,
+   "char_end": 31876
+  },
+  {
+   "text": "58. The Reserve Bank may, at any time, cause an inspection by one or more of its officers or employees or other persons, of any NBFC-AA and at any intervals as it deems fit.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31878,
+   "char_end": 32051
+  },
+  {
+   "text": "E. Exemptions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 32053,
+   "char_end": 32066
+  },
+  {
+   "text": "59. The Reserve Bank may, if it considers necessary for avoiding any hardship or for any other just and sufficient reason, grant extension of time to comply with or exempt any company or class of companies or all companies, from all or any of the provisions of these guidelines either generally or for any specified period, subject to such conditions as the Reserve Bank may impose.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 32068,
+   "char_end": 32450
+  },
+  {
+   "text": "60. The Reserve Bank can give any clarification in respect of the above directions and such clarification shall be treated as part of these directions. The directions can be amended by the Reserve Bank from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 32452,
+   "char_end": 32672
+  },
+  {
+   "text": "Chapter-VI – Repeal and Other Provisions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 32674,
+   "char_end": 32714
+  },
+  {
+   "text": "A. Repeal and saving",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 32716,
+   "char_end": 32736
+  },
+  {
+   "text": "61. With the issue of these Directions, the existing Directions, instructions, and guidelines relating to Non-Banking Financial Companies – Account Aggregators stand repealed, as communicated vide circular DOR.RRC.REC.302/33-01-010/2025-26 dated November 28, 2025 . The Directions, instructions and guidelines repealed prior to the issuance of these Directions shall continue to remain repealed.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 32738,
+   "char_end": 33133
+  },
+  {
+   "text": "62. Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed lists shall be deemed as governed by these Directions. Further, the repeal of these directions, instructions, or guidelines shall not in any way prejudicially affect:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33135,
+   "char_end": 33575
+  },
+  {
+   "text": "(1) any right, obligation or liability acquired, accrued, or incurred thereunder;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33577,
+   "char_end": 33658
+  },
+  {
+   "text": "(2) any, penalty, forfeiture, or punishment incurred in respect of any contravention committed thereunder;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33660,
+   "char_end": 33766
+  },
+  {
+   "text": "(3) any investigation, legal proceeding, or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture, or punishment as aforesaid; and any such investigation, legal proceedings or remedy may be instituted, continued, or enforced and any such penalty, forfeiture or punishment may be imposed as if those directions, instructions, or guidelines had not been repealed.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33768,
+   "char_end": 34166
+  },
+  {
+   "text": "B. Application of other laws not barred",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 34168,
+   "char_end": 34207
+  },
+  {
+   "text": "63. The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations, or directions, for the time being in force.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34209,
+   "char_end": 34395
+  },
+  {
+   "text": "C. Interpretations",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 34397,
+   "char_end": 34415
+  },
+  {
+   "text": "64. For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the RBI may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the RBI shall be final and binding.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34417,
+   "char_end": 34822
+  },
+  {
+   "text": "(J P Sharma) Chief General Manager",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34824,
+   "char_end": 34858
+  }
+ ],
+ "text": "RBI/DoR/2025-26/368 DoR.FIN.REC.No.287/03-10-123/2025-26\n\nNovember 28, 2025\n\nReserve Bank of India (Non-Banking Financial Companies - Account Aggregator) Directions, 2025\n\nIn exercise of the powers conferred under section 45JA of the Reserve Bank of India Act, 1934 (hereinafter referred to ‘the Act’), and of all the powers enabling it in this behalf, the Reserve Bank hereby issues Reserve Bank of India (Non-Banking Financial Companies - Account Aggregator) Directions, 2025 for compliance of the same by every non-banking financial company undertaking the business of Account Aggregator as defined herein.\n\nChapter-I – Preliminary\n\nA. Short title and Commencement and Applicability:\n\n1. These directions shall be known as the ‘Reserve Bank of India (Non-Banking Financial Companies - Account Aggregator) Directions, 2025.\n\n2. These directions shall come into force with effect on the day they are placed on the website of the Reserve Bank.\n\nB. Applicability\n\n3. These Directions shall be applicable to Non-Banking Financial Companies – Account Aggregators (hereinafter collectively referred to as ‘NBFC-AAs’ and individually as an ‘NBFC-AA’).\n\nC. Applicability of other directions\n\n4. The provisions contained in the following directions, where not contradictory to the contents of these Directions, shall be applicable to an NBFC-AA:\n\n(1) Reserve Bank of India (Non-Banking Financial Companies - Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025 .\n\n(2) Paragraphs 8, 10 to 13, 17(1) and 18 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 . It may be noted that the provisions of paragraphs 12, 13, 17(1) and 18 shall be applicable to NBFC-AA, despite the categorization of NBFC-AA as NBFCs-BL under SBR Framework.\n\n(3) Reserve Bank of India (Non-Banking Financial Companies – Financial Statements: Presentation and Disclosures) Directions, 2025 except provisions contained in paragraphs 13 to 15 and paragraph 20.\n\n(4) Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 except paragraphs 6(3) and 6(4).\n\n(5) Reserve Bank of India (Non-Banking Financial Companies – Prudential Norms on Declaration of Dividends) Directions, 2025 .\n\n(6) Reserve Bank of India (Non-Banking Financial Companies – Managing Risks in Outsourcing) Directions, 2025 .\n\n(7) Reserve Bank of India (Non-Banking Financial Companies- Voluntary Amalgamation) Directions, 2025 .\n\n(8) Paragraphs 6, 7, 25 and 26 of the Reserve Bank of India (Non-Banking Financial Companies – Miscellaneous) Directions, 2025 .\n\n5. Notwithstanding the above, the instructions contained in these Directions shall be applicable to an NBFC-AA in addition and not in substitution to the other relevant instructions contained in the directions mentioned in paragraph 4 above.\n\nD. Regulatory Structure under Scale Based Regulation for NBFCs\n\n6. NBFC-AA shall always remain in the Base Layer of the regulatory structure specified in Reserve Bank of India (Non-Banking Financial Companies – Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025 .\n\nE. Scope\n\n7. The provisions of the directions provide a framework for the registration and operation of a non-banking financial company undertaking the business of an Account Aggregator in India.\n\nF. Definitions\n\n8. In these directions unless the context otherwise requires,\n\n(1) ‘Account Aggregator’ means a non-banking financial company as notified under in sub-clause (iii) of clause (f) of section 45-I of the Act, that undertakes the business of an account aggregator, for a fee or otherwise, as defined at paragraph 8(4) of these directions.\n\n(2) ‘bank’ means -\n\na) a banking company; or\n\nb) a corresponding new bank; or\n\nc) the State Bank of India; or\n\nd) a subsidiary bank; or\n\ne) such other bank which the Reserve Bank may, by notification, specify for the purposes of these directions; and\n\nf) a co-operative bank as defined under clause (cci) of section 5 read with section 56 of the Banking Regulation Act, 1949 (10 of 1949);\n\n(3) ‘Banking company’ means a banking company as defined in clause (c) of section 5 of the Banking Regulation Act, 1949 (10 of 1949);\n\n(4) ‘business of an account aggregator’ means the business of providing under a contract, the service of, retrieving or collecting such financial information pertaining to its customer, as may be specified by the Reserve Bank from time to time;\n\nand\n\nconsolidating, organizing and presenting such information to the customer or any other financial information user as may be specified by the Reserve Bank;\n\nProvided that , the financial information pertaining to the customer shall not be the property of the Account Aggregator, and not be used in any other manner.\n\n(5) ‘Company’ means a company registered under section 3 of the Companies Act, 1956 or a company registered under sub section (20) of section 2 of the Companies Act, 2013;\n\n(6) ‘Customer’ for the purpose of these directions means a ‘person’ who has entered into a contractual arrangement with the Account Aggregator to avail services provided by the Account Aggregator;\n\n(7) ‘Depository’ means a company which has been granted a certificate of registration under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992;\n\n(8) ‘Depository Participant’ means a person registered under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992;\n\n(9) ‘Financial Information’ means information in respect of the following with financial information providers:\n\n(i) bank deposits including fixed deposit accounts, savings deposit accounts, recurring deposit accounts and current deposit accounts,\n\n(ii) Deposits with NBFCs\n\n(iii) Structured Investment Product (SIP)\n\n(iv) Commercial Paper (CP)\n\n(v) Certificates of Deposit (CD)\n\n(vi) Government Securities (Tradable)\n\n(vii) Equity Shares\n\n(viii) Bonds\n\n(ix) Debentures\n\n(x) Mutual Fund Units\n\n(xi) Exchange Traded Funds\n\n(xii) Indian Depository Receipts\n\n(xiii) CIS (Collective Investment Schemes) units\n\n(xiv) Alternate Investment Funds (AIF) units\n\n(xv) Insurance Policies\n\n(xvi) Balances under the National Pension System (NPS)\n\n(xvii) Units of Infrastructure Investment Trusts\n\n(xviii) Units of Real Estate Investment Trusts\n\n(xix) Goods and Services Tax (GST) Returns, viz. Form GSTR-1 and Form GSTR-3B\n\n(xx) Any other information as may be specified by the Reserve Bank for the purposes of these directions, from time to time;\n\n(10) ‘Financial Sector Regulator’ for the purpose of these directions, shall mean the Reserve Bank of India, Securities and Exchange Board of India, Insurance Regulatory and Development Authority of India, Pension Fund Regulatory and Development Authority and Department of Revenue, Ministry of Finance;\n\n(11) ‘Financial Information Provider’ means bank, banking company, non-banking financial company, asset management company, depository, depository participant, insurance company, insurance repository, Central Recordkeeping Agency, Goods and Services Tax Network (GSTN), Clearing Corporation of India Limited and such other entity as may be identified by the Reserve Bank for the purposes of these directions, from time to time;\n\nNote: Clearing Corporation of India Limited shall provide financial information on Government Securities held by retail investors in their Retail Direct Gilt accounts under Retail Direct Scheme.\n\n(12) ‘Financial Information User’ means an entity registered with and regulated by any financial sector regulator;\n\n(13) ‘Insurance Repository’ means a company formed under the Companies Act, 1956 and which has been granted a certificate of registration by Insurance Regulatory and Development Authority of India (IRDAI) for maintaining data of insurance policies in electronic form on behalf of insurers.\n\n(14) ‘Leverage Ratio’ means the ratio of the Outside Liabilities excluding borrowings/ loans from the group entities to Owned Funds.\n\n(15) ‘Non-banking financial company’ means a company registered under the Companies Act and which has been granted certificate of registration by the Reserve Bank under section 45IA of the Act;\n\n(16) ‘Person’ means\n\n(i) an individual,\n\n(ii) a Hindu undivided family,\n\n(iii) a company,\n\n(iv) a firm,\n\n(v) an association of persons or a body of individuals, whether incorporated or not, and\n\n(vi) every artificial juridical person, not falling within any of the preceding subclauses.\n\n9. Words or expressions used in these directions but not defined herein but defined in the Act, shall have the same meaning as assigned to them under the Act. Any other words or expressions not defined in the Act, shall have the same meaning assigned to them in the Companies Act, 2013.\n\nChapter-II – Role of Board of Directors and Registration\n\nA. Role of Board of Directors\n\n10. The NBFC-AA shall put in place Board approved policies and establish periodic review mechanisms to ensure sound processes and systems. An illustrative list of such policies to be approved by the Board or its Committee(s) is provided below. The specific aspects to be addressed in these policies are detailed in the relevant paragraphs of these Directions.\n\n(1) Policy for handling / disposal of customer grievances / complaints.\n\n(2) Pricing of Services.\n\n(3) Policy for ascertaining the fit and proper criteria of the directors / managing director/ CEO at the time of appointment, and on a continuing basis.\n\nB. Registration\n\n11. The registration requirements for an NBFC-AA shall be as under:\n\n(1) No entity other than a company shall undertake the business of an Account Aggregator.\n\n(2) No company shall commence or carry on the business of an Account Aggregator without obtaining a certificate of registration from the Reserve Bank.\n\nProvided that , entities being regulated by other financial sector regulators and aggregating only those accounts relating to the financial information pertaining to customers of that particular sector will be excluded from the above registration requirement.\n\n(3) Every company seeking registration with the Reserve Bank as an NBFC-AA shall have a net owned fund of not less than rupees two crore, or such higher amount as the Reserve Bank may specify.\n\nProvided that , those companies not having a Net Owned Fund of minimum of Rupees two crore at the time of seeking registration, shall meet the Net Owned Fund criteria within the period of validity of the in-principle approval for grant of certification of registration given by the Reserve Bank.\n\nC. Process of registration\n\n12. The process of registration as an NBFC-AA is as under:\n\n(1) Every company seeking registration as an NBFC-AA shall make an application for registration on the PRAVAAH portal to the Department of Regulation, Mumbai of the Reserve Bank, in the form specified by the Reserve Bank for the purpose.\n\n(2) The Reserve Bank for the purpose of considering the application for registration shall require to be satisfied that the following conditions are fulfilled:-\n\n(i) The company has the necessary resources and wherewithal to offer such services to customers.\n\n(ii) The company has the adequate capital structure to undertake the business of an account aggregator.\n\n(iii) The promoters of the company are fit and proper.\n\n(iv) The general character of the management or proposed management of the company are not prejudicial to the public interest.\n\n(v) The company has a plan for a robust Information Technology system.\n\n(vi) The company shall not have a leverage ratio of more than seven.\n\n(vii) That the public interest shall be served by the grant of certificate of registration to the Account Aggregator to commence or to carry on the business in India.\n\n(viii) Any other condition that may be specified by the Reserve Bank from time to time, the fulfilment of which in the opinion of the Reserve Bank shall be necessary to ensure that the commencement of or carrying on the business in India shall not be prejudicial to the public interest.\n\n(3) The Reserve Bank may, after being satisfied that the conditions specified under sub-paragraph (2) are fulfilled, grant in-principle approval for registering as an NBFC-AA subject to such conditions as it may consider fit to impose.\n\n(4) The validity of the in-principle approval issued by the Reserve Bank will be twelve months from the date of granting such in-principle approval.\n\n(5) Within the period of twelve months, the company shall put in place the technology platform, enter into all other legal documentations required to be ready for operations and report position of compliance with the terms of grant of in-principle approval to the Reserve Bank. The Reserve Bank may, after being satisfied that the company is ready to commence operations and in compliance with the registration requirements, grant it a Certificate of Registration as an NBFC - AA subject to such conditions as it may consider fit to impose.\n\n(6) The Reserve Bank may cancel the certificate of registration granted to an NBFC-AA , if such company -\n\n(i) ceases to carry on the business of an Account Aggregator in India; or\n\n(ii) has failed to comply with any condition subject to which the certificate of registration has been issued to it; or\n\n(iii) it comes to the notice of the Reserve Bank that the NBFC-AA is no longer eligible to hold the certificate of registration; or\n\n(iv) at any time fails to fulfill any of the conditions referred to in sub-paragraphs (2) and (5); or\n\n(v) fails to -\n\n(a) comply with any direction issued by the Reserve Bank; or\n\n(b) maintain accounts, publish and disclose its financial position in accordance with the requirements of any law or any direction or order issued by the Reserve Bank; or\n\n(c) submit or offer for inspection its books of account or other relevant documents when so demanded by the Reserve Bank.\n\nD. Investment from FATF non-compliant jurisdictions\n\n13. The companies seeking Certification of Registration as an NBFC-AA shall refer to the instructions as prescribed in paragraphs 47 and 48 of Reserve Bank of India (Non-Banking Financial Companies – Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025 .\n\nChapter-III – Scope of Activities\n\nA. Duties and Responsibilities of an NBFC-AA\n\n14. The duties and responsibilities of an NBFC-AA are as under:\n\n(1) NBFC-AA shall provide services to a customer based on the customer’s explicit consent.\n\n(2) NBFC-AA shall ensure that the providing of services to a customer shall be backed by appropriate agreements/ authorisations between the NBFC-AA, the customer and the Financial Information Providers.\n\n(3) NBFC-AA shall not support transactions by customers.\n\n(4) NBFC-AA shall ensure appropriate mechanisms for proper customer identification.\n\n(5) NBFC-AA shall share information as referred to under paragraph 8(4) only with the customer to whom it relates or any other financial information user as authorised by the customer in accordance with the terms of the consent provided by the customer.\n\n(6) NBFC-AA shall not undertake any other business other than the business of account aggregator. Deployment of investible surplus by an NBFC-AA in instruments, not for trading, shall however be permitted.\n\n(7) No financial information of the customer accessed by the NBFC-AA from the financial information providers shall reside with the NBFC-AA.\n\n(8) NBFC-AA shall not use the services of a third party service provider for undertaking the business of account aggregation.\n\n(9) User authentication credentials of customers relating to accounts with various Financial Information Providers shall not be accessed by the NBFC-AA.\n\n(10) NBFC-AA shall have a Citizen's Charter that explicitly guarantees protection of the rights of a customer. The NBFC-AA shall not part with any information that it may come to acquire from/ on behalf of a customer without the explicit consent of the customer.\n\n(11) In the event of any difference in position of financial information in the statement generated by/from the NBFC-AA and the books of the Financial Information Provider, the position as reflected in the records of the Financial Information Provider shall be considered as correct.\n\nB. Consent Architecture\n\n15. No financial information of the customer shall be retrieved, shared or transferred by the NBFC-AA without the explicit consent of the customer.\n\n16. An NBFC-AA shall perform the function of obtaining, submitting and managing the customer’s consent in accordance with these directions.\n\n17. The consent of the customer obtained by the NBFC-AA shall be a standardised consent artefact which shall contain the following details, namely: —\n\n(1) identity of the customer and optional contact information;\n\n(2) the nature of the financial information requested;\n\n(3) purpose of collecting such information;\n\n(4) the identity of the recipients of the information, if any;\n\n(5) URL or other address to which notification needs to be sent every time the consent artefact is used to access information\n\n(6) Consent creation date, expiry date, identity and signature/ digital signature of the NBFC-AA; and\n\n(7) any other attribute as may be prescribed by the Reserve Bank.\n\n18. The consent artefact can also be obtained in electronic form.\n\n19. At the time of obtaining consent, the NBFC-AA shall inform the customer of all necessary attributes to be contained in the consent artefact as per paragraph 17 above and the right of the customer to file complaints with relevant authorities in case of non-redressal of grievances.\n\n20. NBFC-AA shall also provide its customers a functionality to revoke consent to obtain information that is rendered accessible by a consent artefact, including the ability to revoke consent to obtain parts of such information. Upon revocation, a fresh consent artefact shall be shared with the Financial Information provider.\n\n21. An electronic consent artefact shall be capable of being logged, audited and verified.\n\nC. Sharing of financial information by Financial Information Providers upon valid consent artefact being presented\n\n22. Financial Information Providers shall share financial information of a customer with an NBFC-AA on being presented a valid consent artefact by an NBFC-AA in accordance with paragraphs 15 to 21.\n\n23. Upon being presented the consent artefact, the Financial Information Provider shall verify:\n\n(1) validity of consent\n\n(2) specified dates and usage; and\n\n(3) the credentials of the NBFC-AA through appropriate means.\n\n24. Upon due verification, the Financial Information Providers shall digitally sign the financial information and securely transmit the same to the NBFC-AA in accordance with the terms contained in the consent artefact.\n\n25. All responses of the Financial Information Provider shall be in real time.\n\n26. To enable these data flows, the Financial Information Providers shall:\n\n(1) implement interfaces that will allow an NBFC-AA to submit consent artefacts, and authenticate each other, and would enable secure flow of financial information to the NBFC-AA;\n\n(2) adopt means to verify the consent including digital signatures, if any, contained in the consent artefact;\n\n(3) implement means to digitally sign the financial information that is shared by them about the customers;\n\n(4) maintain a log of all information sharing requests and the actions performed by them pursuant to such requests and submit the same to the NBFC-AA.\n\nD. Use of information by NBFC-AA and Financial Information User\n\n27. Where financial information has been provided by a Financial Information Provider to an NBFC-AA for transferring to a Financial Information User with the customer's explicit consent, the NBFC-AA shall:\n\n(1) verify the identity of the Financial Information User; and, if verified,\n\n(2) securely transfer the customer’s information to the intended recipient in accordance with the terms of the consent artefact.\n\n28. Where financial information has been provided by a Financial Information Provider to an NBFC-AA for transferring to the customer or to a Financial Information User, it shall not be used or disclosed by an NBFC-AA or the Financial Information User except as may be specified in the consent artefact.\n\nE. Joining the Account Aggregator Ecosystem as Financial Information User\n\n29. With a view to ensure efficient and optimum utilisation of the Account Aggregator ecosystem, regulated entities of the Reserve Bank joining the Account Aggregator ecosystem as Financial Information User shall necessarily join as Financial Information Provider also, if they hold the specified financial information and fall under the definition of Financial Information Provider.\n\nF. Data Security\n\n30. NBFC-AA shall adhere to the following:\n\n(1) Business of an Account Aggregator will be entirely Information Technology (IT) driven. NBFC-AA shall adopt required IT framework and interfaces to ensure secure data flows from the Financial Information Providers to its own systems and onwards to the Financial Information Users.\n\n(2) NBFC-AA shall not request or store customer credentials (like passwords, PINs, private keys) which may be used for authenticating customers to the Financial Information providers. Access by an NBFC-AA to customer’s information shall only be based on consent-based authorisation.\n\n(3) The technology should also be scalable to cover any other financial information or Financial Information Provider as may be specified by the Reserve Bank in future.\n\n(4) There shall be adequate safeguards built in its IT systems to ensure that it is protected against unauthorised access, alteration, destruction, disclosure or dissemination of records and data.\n\n(5) Appropriate measures for Disaster Risk Management and Business Continuity shall be in place.\n\n(6) Information System Audit of the internal systems and processes shall be in place and shall be conducted at least once in two years by CISA certified external auditors. Report of the external auditor shall be submitted to the Regional Office of the Department of Supervision of the Reserve Bank, under whose jurisdiction the Registered Office of the NBFC-AA is located, within one month of submission of the report by the external auditor.\n\nG. Guidance Note on Operational Risk Management and Operational Resilience\n\n31. NBFC-AA may make use of the ‘Guidance Note on Operational Risk Management and Operational Resilience ’, as amended from time to time.\n\nH. Technical Specification for all participants of the Account Aggregator ecosystem\n\n32. The NBFC-AA consolidates financial information of a customer held with different financial entities under different financial sector regulators. In order to ensure that movement of data among different financial entities, spread across financial sector regulators adopting different IT systems and interfaces is secured, duly authorised, smooth and seamless, a set of core technical specifications for the participants of the AA ecosystem have been framed by Reserve Bank Information Technology Private Limited (ReBIT), and published the same on its website ( www.rebit.org.in ).\n\n33. All regulated entities of the Reserve Bank, acting either as NBFC-AA or Financial Information Providers or Financial Information Users are expected to adopt the technical specifications published by ReBIT, as updated from time to time.\n\n34. The document referred to in paragraph 32 above only provides specifications for Application Programming Interfaces (API). It shall be the responsibility of the NBFC-AA to ensure that its IT systems have all features necessary to carry out its functions strictly in conformity with these Directions as updated from time to time.\n\nI. Rights of the customer\n\n35. An NBFC-AA shall enable the customer to access a record of the consents provided by him and the Financial Information Users with whom the information has been shared.\n\n36. An NBFC-AA shall not use or access any customer information other than for performing the business of account aggregator explicitly requested by the customer.\n\nJ. Customer Grievance\n\n37. An NBFC-AA shall have in place a Board approved policy for handling/ disposal of customer grievances/ complaints. It shall have a dedicated setup to address customer grievances/ complaints.\n\n38. Customer complaints shall be handled/ disposed of by the NBFC-AA within such time and in such manner as provided for in its Board approved policy, but in any case not beyond a period of one month from its receipt.\n\n39. At the operational level, NBFC-AA shall display the following information prominently, for the benefit of customers, on the website and at the place/s of business:\n\n(1) the name and contact details (Telephone / Mobile nos. as also email address) of the Grievance Redressal Officer who can be approached by the public for resolution of complaints against the company.\n\n(2) that if the complaint / dispute is not redressed within a period of one month, the customer may appeal to the Reserve Bank.\n\nK. Reserve Bank – Integrated Ombudsman Scheme, 2021\n\n40. NBFCs covered under the Reserve Bank – Integrated Ombudsman Scheme, 2021 (RBIOS, 2021) shall comply with the directions provided under the said Scheme.\n\nL. Pricing\n\n41. An NBFC-AA would require to have a Board approved policy for pricing of services. Pricing of services will be in strict conformity with the internal guidelines adopted by the NBFC-AA which need to be transparent and available in public domain.\n\nChapter-IV – Corporate Governance\n\n42. An NBFC-AA shall have adequate internal mechanisms for reviewing, monitoring and evaluating its controls, systems, procedures and safeguards. The integrity of the IT systems shall be maintained at all times and all necessary precautions taken to ensure that the records are not lost, destroyed or tampered with.\n\nA. Experience of the Board\n\n43. NBFC-AA shall comply with the provisions of paragraph 8 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .\n\nB. Audit Committee\n\n44. NBFC-AA shall comply with the provisions of paragraph 17(1) of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .\n\nC. Nomination Committee\n\n45. NBFC-AA shall form a Nomination Committee consisting of not less than three members of its Board of Directors to ensure 'fit and proper' status of proposed/ existing directors. The Nomination Committee shall be formed as prescribed in paragraph 18 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .\n\nD. Risk Management Committee\n\n46. NBFC-AA shall establish a well-documented risk management framework which shall include\n\n(1) A sound and robust technology risk management framework;\n\n(2) Strengthening system security, reliability, resiliency, and recoverability; and\n\n(3) Deploying strong authentication to protect access to customer data and systems.\n\n47. To manage the integrated risk and evaluate overall risks faced, an NBFC-AA shall form a Risk Management Committee either at the Board or executive level, consisting of not less than three members of its Board of Directors. The Risk Management Committee shall:\n\n(1) give due consideration to factors such as reputation, customer confidence, consequential impact and legal implications, with regard to investment in controls and security measures for computer systems, networks, data centres, operations and backup facilities.\n\n(2) have oversight of technology risks and ensure that the organisation’s IT function is capable of supporting its business strategies and objectives.\n\nE. Fit and Proper Criteria\n\n48. NBFC-AA shall:\n\n(1) ensure that a policy is put in place with the approval of the Board of Directors for ascertaining the fit and proper criteria of the directors / managing director / CEO at the time of appointment, and on a continuing basis. The policy on the fit and proper criteria shall be on the lines of the Directions as prescribed in paragraphs 12 and 13 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .\n\n(2) furnish to the Reserve Bank an annual statement on change of directors / managing director / CEO duly certified by the Statutory Auditors that fit and proper criteria in selection of the directors has been followed. The statement must reach the Regional Office of the Reserve Bank within 15 days of the close of the year.\n\nF. Disclosure Requirements\n\n49. NBFC-AA shall comply with the disclosure requirements specified in Reserve Bank of India (Non-Banking Financial Companies – Financial Statements: Presentation and Disclosures) Directions, 2025 , except provisions contained in paragraphs 13 to 15 and paragraph 20. These disclosures are in addition to and not in substitution of the disclosure requirements specified under other laws, regulations, or accounting and financial reporting standards. More comprehensive disclosures than the minimum required are encouraged, especially if such disclosures significantly aid in the understanding of the financial position and performance.\n\nG. Requirement to obtain prior approval of the Reserve Bank for acquisition or transfer of control of NBFC-AA\n\n50. The prior written permission of the Reserve Bank shall be required for an NBFC-AA for -\n\n(1) Any takeover or acquisition of control or any change in the shareholding as prescribed in paragraphs 6(1) and 6(2) of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 .\n\n(2) Any change in shareholding that will give the acquirer a right to nominate a director.\n\n(3) Any change in directors and / or Management, as prescribed in paragraph 10 of Reserve Bank of India (Non-Banking Financial Companies - Governance) Directions, 2025 .\n\nG.1 Application for prior approval\n\n51. In respect of prior approval as per requirement in paragraphs 50(1) and 50(2) above, an NBFC-AA shall comply with the instructions as prescribed in paragraph 7 of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 . In respect of prior approval as per requirement in paragraph 50(3) above, an NBFC-AA shall refer to the instructions as prescribed in paragraph 11 of Reserve Bank of India (Non-Banking Financial Companies– Governance) Directions, 2025 .\n\nG.2 Public notice about change in control / management\n\n52. NBFC-AA shall comply with the provisions of paragraphs 8 to 10 of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 .\n\nG.3 Information with respect to change of address, directors, auditors, etc. to be submitted\n\n53. Every NBFC-AA shall communicate change of address, directors, auditors, etc., as prescribed in paragraphs 6 and 7 of Reserve Bank of India (Non-Banking Financial Companies – Miscellaneous) Directions, 2025 .\n\nG.4 Investment from FATF non-compliant jurisdictions\n\n54. NBFC-AA shall ensure compliance to the instructions as prescribed in paragraphs 11 to 13 of Reserve Bank of India (Non-Banking Financial Companies– Acquisition of Shareholding or Control) Directions, 2025 .\n\nChapter-V – Miscellaneous Instructions\n\nA. Declaration of dividends\n\n55. NBFC-AA shall comply with the provisions of Reserve Bank of India (Non-Banking Financial Companies – Prudential Norms on Declaration of Dividends) Directions, 2025 .\n\nB. Managing Risks and Code of Conduct in Outsourcing of Financial Services by NBFC-AA.\n\n56. NBFC-AA shall conduct a self-assessment of their existing outsourcing arrangements and bring these in line with the instructions as prescribed in Reserve Bank of India (Non-Banking Financial Companies – Managing Risks in Outsourcing) Directions, 2025 .\n\nC. Returns\n\n57. The Reserve Bank may, from time to time, prescribe return/s to be submitted by NBFC-AA as deemed fit.\n\nD. Supervision\n\n58. The Reserve Bank may, at any time, cause an inspection by one or more of its officers or employees or other persons, of any NBFC-AA and at any intervals as it deems fit.\n\nE. Exemptions\n\n59. The Reserve Bank may, if it considers necessary for avoiding any hardship or for any other just and sufficient reason, grant extension of time to comply with or exempt any company or class of companies or all companies, from all or any of the provisions of these guidelines either generally or for any specified period, subject to such conditions as the Reserve Bank may impose.\n\n60. The Reserve Bank can give any clarification in respect of the above directions and such clarification shall be treated as part of these directions. The directions can be amended by the Reserve Bank from time to time.\n\nChapter-VI – Repeal and Other Provisions\n\nA. Repeal and saving\n\n61. With the issue of these Directions, the existing Directions, instructions, and guidelines relating to Non-Banking Financial Companies – Account Aggregators stand repealed, as communicated vide circular DOR.RRC.REC.302/33-01-010/2025-26 dated November 28, 2025 . The Directions, instructions and guidelines repealed prior to the issuance of these Directions shall continue to remain repealed.\n\n62. Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed lists shall be deemed as governed by these Directions. Further, the repeal of these directions, instructions, or guidelines shall not in any way prejudicially affect:\n\n(1) any right, obligation or liability acquired, accrued, or incurred thereunder;\n\n(2) any, penalty, forfeiture, or punishment incurred in respect of any contravention committed thereunder;\n\n(3) any investigation, legal proceeding, or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture, or punishment as aforesaid; and any such investigation, legal proceedings or remedy may be instituted, continued, or enforced and any such penalty, forfeiture or punishment may be imposed as if those directions, instructions, or guidelines had not been repealed.\n\nB. Application of other laws not barred\n\n63. The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations, or directions, for the time being in force.\n\nC. Interpretations\n\n64. For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the RBI may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the RBI shall be final and binding.\n\n(J P Sharma) Chief General Manager"
+}

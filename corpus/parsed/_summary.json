@@ -1,0 +1,130 @@
+{
+ "D01_dl_guidelines_2022": {
+  "source_file": "D01_dl_guidelines_2022.html",
+  "n_pages_pdf": null,
+  "words": 2791,
+  "est_pages": 6.2,
+  "n_blocks": 81,
+  "n_headings": 18
+ },
+ "D02_dlg_guidelines_2023": {
+  "source_file": "D02_dlg_guidelines_2023.html",
+  "n_pages_pdf": null,
+  "words": 1529,
+  "est_pages": 3.4,
+  "n_blocks": 54,
+  "n_headings": 7
+ },
+ "D03_dl_directions_2025": {
+  "source_file": "D03_dl_directions_2025.html",
+  "n_pages_pdf": null,
+  "words": 6216,
+  "est_pages": 13.8,
+  "n_blocks": 192,
+  "n_headings": 41
+ },
+ "D05_pa_guidelines_2020": {
+  "source_file": "D05_pa_guidelines_2020.html",
+  "n_pages_pdf": null,
+  "words": 4724,
+  "est_pages": 10.5,
+  "n_blocks": 164,
+  "n_headings": 30
+ },
+ "D06_pa_directions_2025": {
+  "source_file": "D06_pa_directions_2025.html",
+  "n_pages_pdf": null,
+  "words": 6616,
+  "est_pages": 14.7,
+  "n_blocks": 236,
+  "n_headings": 51
+ },
+ "D07_emandate_2022": {
+  "source_file": "D07_emandate_2022.html",
+  "n_pages_pdf": null,
+  "words": 230,
+  "est_pages": 0.5,
+  "n_blocks": 10,
+  "n_headings": 1
+ },
+ "D08_emandate_2023": {
+  "source_file": "D08_emandate_2023.html",
+  "n_pages_pdf": null,
+  "words": 218,
+  "est_pages": 0.5,
+  "n_blocks": 10,
+  "n_headings": 1
+ },
+ "D09_emandate_framework_2026": {
+  "source_file": "D09_emandate_framework_2026.html",
+  "n_pages_pdf": null,
+  "words": 938,
+  "est_pages": 2.1,
+  "n_blocks": 50,
+  "n_headings": 12
+ },
+ "D10_authentication_2025": {
+  "source_file": "D10_authentication_2025.html",
+  "n_pages_pdf": null,
+  "words": 1453,
+  "est_pages": 3.2,
+  "n_blocks": 73,
+  "n_headings": 17
+ },
+ "D11_ppi_md_2021": {
+  "source_file": "D11_ppi_md_2021.html",
+  "n_pages_pdf": null,
+  "words": 13248,
+  "est_pages": 29.4,
+  "n_blocks": 457,
+  "n_headings": 50
+ },
+ "D12_kyc_md_2016": {
+  "source_file": "D12_kyc_md_2016.html",
+  "n_pages_pdf": null,
+  "words": 34348,
+  "est_pages": 76.3,
+  "n_blocks": 1319,
+  "n_headings": 80
+ },
+ "D13_aa_directions_2025": {
+  "source_file": "D13_aa_directions_2025.html",
+  "n_pages_pdf": null,
+  "words": 5352,
+  "est_pages": 11.9,
+  "n_blocks": 254,
+  "n_headings": 64
+ },
+ "D14_payments_vision_2025": {
+  "source_file": "D14_payments_vision_2025.html",
+  "n_pages_pdf": null,
+  "words": 7237,
+  "est_pages": 16.1,
+  "n_blocks": 273,
+  "n_headings": 51
+ },
+ "D15_dpdp_rules_2025": {
+  "source_file": "D15_dpdp_rules_2025.pdf",
+  "n_pages_pdf": 41,
+  "words": 9993,
+  "est_pages": 22.2,
+  "n_blocks": 264,
+  "n_headings": 64
+ },
+ "D16_nbfc_credit_facilities_2025": {
+  "source_file": "D16_nbfc_credit_facilities_2025.html",
+  "n_pages_pdf": null,
+  "words": 13373,
+  "est_pages": 29.7,
+  "n_blocks": 466,
+  "n_headings": 86
+ },
+ "X01_injected_note": {
+  "source_file": "X01_injected_note.html",
+  "n_pages_pdf": null,
+  "words": 124,
+  "est_pages": 0.3,
+  "n_blocks": 5,
+  "n_headings": 1
+ }
+}

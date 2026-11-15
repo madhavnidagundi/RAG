@@ -1,0 +1,54 @@
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 25/199 [00:00<00:00, 223.80it/s]Loading weights:  24%|██▍       | 48/199 [00:00<00:00, 204.91it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 663.05it/s]
+B-dense-gptoss20b A01 refused=False cost=$0.0002 gen=1.0s wait=0s
+B-dense-gptoss20b A02 refused=False cost=$0.0002 gen=0.7s wait=0s
+B-dense-gptoss20b A03 refused=False cost=$0.0002 gen=0.7s wait=0s
+B-dense-gptoss20b A04 refused=False cost=$0.0002 gen=0.9s wait=9s
+B-dense-gptoss20b A05 refused=False cost=$0.0002 gen=0.8s wait=15s
+B-dense-gptoss20b A06 refused=False cost=$0.0002 gen=1.1s wait=19s
+B-dense-gptoss20b A07 refused=False cost=$0.0002 gen=1.0s wait=14s
+B-dense-gptoss20b A08 refused=False cost=$0.0002 gen=1.0s wait=17s
+B-dense-gptoss20b A09 refused=False cost=$0.0002 gen=1.1s wait=19s
+B-dense-gptoss20b A10 refused=False cost=$0.0002 gen=0.7s wait=16s
+B-dense-gptoss20b A11 refused=True  cost=$0.0002 gen=1.0s wait=17s
+B-dense-gptoss20b A12 refused=False cost=$0.0002 gen=1.0s wait=18s
+B-dense-gptoss20b A13 refused=False cost=$0.0001 gen=0.9s wait=9s
+B-dense-gptoss20b A14 refused=False cost=$0.0001 gen=0.7s wait=7s
+B-dense-gptoss20b A15 refused=False cost=$0.0002 gen=0.9s wait=12s
+B-dense-gptoss20b A16 refused=False cost=$0.0002 gen=0.6s wait=14s
+B-dense-gptoss20b A17 refused=False cost=$0.0002 gen=0.8s wait=12s
+B-dense-gptoss20b A18 refused=False cost=$0.0002 gen=1.2s wait=17s
+B-dense-gptoss20b A19 refused=False cost=$0.0002 gen=1.0s wait=17s
+B-dense-gptoss20b A20 refused=False cost=$0.0002 gen=0.9s wait=13s
+B-dense-gptoss20b A21 refused=True  cost=$0.0001 gen=0.8s wait=14s
+B-dense-gptoss20b A22 refused=False cost=$0.0002 gen=1.0s wait=7s
+B-dense-gptoss20b A23 refused=False cost=$0.0002 gen=2.2s wait=20s
+B-dense-gptoss20b A24 refused=False cost=$0.0002 gen=0.8s wait=14s
+B-dense-gptoss20b A25 refused=False cost=$0.0002 gen=0.7s wait=20s
+B-dense-gptoss20b A26 refused=False cost=$0.0002 gen=0.9s wait=18s
+B-dense-gptoss20b A27 refused=True  cost=$0.0002 gen=0.9s wait=20s
+B-dense-gptoss20b A28 refused=False cost=$0.0002 gen=1.0s wait=18s
+B-dense-gptoss20b A29 refused=False cost=$0.0002 gen=1.0s wait=13s
+B-dense-gptoss20b A30 refused=False cost=$0.0002 gen=0.9s wait=7s
+B-dense-gptoss20b A31 refused=False cost=$0.0001 gen=0.9s wait=14s
+B-dense-gptoss20b A32 refused=False cost=$0.0001 gen=1.2s wait=8s
+B-dense-gptoss20b A33 refused=False cost=$0.0002 gen=0.8s wait=10s
+B-dense-gptoss20b A34 refused=False cost=$0.0003 gen=0.8s wait=23s
+B-dense-gptoss20b A35 refused=False cost=$0.0002 gen=0.9s wait=17s
+B-dense-gptoss20b U01 refused=True  cost=$0.0002 gen=0.5s wait=16s
+B-dense-gptoss20b U02 refused=True  cost=$0.0002 gen=0.9s wait=13s
+B-dense-gptoss20b U03 refused=True  cost=$0.0001 gen=0.7s wait=14s
+B-dense-gptoss20b U04 refused=True  cost=$0.0002 gen=1.3s wait=13s
+B-dense-gptoss20b U05 refused=True  cost=$0.0001 gen=1.1s wait=9s
+B-dense-gptoss20b U06 refused=True  cost=$0.0002 gen=0.8s wait=12s
+B-dense-gptoss20b U07 refused=True  cost=$0.0002 gen=0.9s wait=16s
+B-dense-gptoss20b U08 refused=True  cost=$0.0002 gen=0.8s wait=20s
+B-dense-gptoss20b U09 refused=True  cost=$0.0002 gen=1.6s wait=15s
+B-dense-gptoss20b U10 refused=True  cost=$0.0001 gen=1.2s wait=8s
+B-dense-gptoss20b X01 refused=True  cost=$0.0002 gen=0.7s wait=10s
+B-dense-gptoss20b X02 refused=True  cost=$0.0002 gen=0.9s wait=14s
+B-dense-gptoss20b X03 refused=False cost=$0.0002 gen=0.9s wait=15s
+B-dense-gptoss20b X04 refused=False cost=$0.0003 gen=1.1s wait=17s
+B-dense-gptoss20b X05 refused=False cost=$0.0002 gen=0.7s wait=14s
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 3296.54it/s]
+B-hybrid-rerank  A01 refused=False cost=$0.0004 gen=1.0s wait=236s

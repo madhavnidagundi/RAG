@@ -1,0 +1,52 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:  86%|████████▌ | 173/201 [00:00<00:00, 1717.22it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 1975.55it/s]
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  27%|██▋       | 53/199 [00:00<00:00, 485.34it/s]Loading weights:  62%|██████▏   | 124/199 [00:00<00:00, 602.98it/s]Loading weights:  93%|█████████▎| 185/199 [00:00<00:00, 588.83it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 622.56it/s]
+B-hybrid-rerank  A02 refused=False cost=$0.0005 gen=1.9s wait=0s
+B-hybrid-rerank  A03 refused=False cost=$0.0004 gen=1.8s wait=0s
+B-hybrid-rerank  A04 refused=False cost=$0.0004 gen=0.9s wait=0s
+B-hybrid-rerank  A05 refused=False cost=$0.0005 gen=1.3s wait=0s
+B-hybrid-rerank  A06 refused=False cost=$0.0005 gen=1.2s wait=0s
+B-hybrid-rerank  A07 refused=False cost=$0.0005 gen=1.2s wait=0s
+B-hybrid-rerank  A08 refused=False cost=$0.0005 gen=1.6s wait=0s
+B-hybrid-rerank  A09 refused=False cost=$0.0005 gen=1.5s wait=0s
+B-hybrid-rerank  A10 refused=False cost=$0.0004 gen=4.8s wait=0s
+B-hybrid-rerank  A11 refused=False cost=$0.0004 gen=2.1s wait=0s
+B-hybrid-rerank  A12 refused=False cost=$0.0004 gen=1.2s wait=0s
+B-hybrid-rerank  A13 refused=False cost=$0.0004 gen=1.8s wait=0s
+B-hybrid-rerank  A14 refused=False cost=$0.0003 gen=0.9s wait=0s
+B-hybrid-rerank  A15 refused=False cost=$0.0004 gen=1.2s wait=0s
+B-hybrid-rerank  A16 refused=False cost=$0.0004 gen=1.4s wait=0s
+B-hybrid-rerank  A17 refused=False cost=$0.0004 gen=3.9s wait=0s
+B-hybrid-rerank  A18 refused=False cost=$0.0004 gen=2.7s wait=0s
+B-hybrid-rerank  A19 refused=False cost=$0.0005 gen=1.5s wait=0s
+B-hybrid-rerank  A20 refused=False cost=$0.0004 gen=1.1s wait=0s
+B-hybrid-rerank  A21 refused=True  cost=$0.0003 gen=1.0s wait=0s
+B-hybrid-rerank  A22 refused=False cost=$0.0003 gen=0.9s wait=0s
+B-hybrid-rerank  A23 refused=False cost=$0.0004 gen=1.4s wait=0s
+B-hybrid-rerank  A24 refused=False cost=$0.0004 gen=3.0s wait=0s
+B-hybrid-rerank  A25 refused=False cost=$0.0005 gen=1.4s wait=0s
+B-hybrid-rerank  A26 refused=False cost=$0.0005 gen=1.9s wait=0s
+B-hybrid-rerank  A27 refused=False cost=$0.0004 gen=2.8s wait=0s
+B-hybrid-rerank  A28 refused=False cost=$0.0004 gen=1.8s wait=0s
+B-hybrid-rerank  A29 refused=False cost=$0.0004 gen=3.0s wait=0s
+B-hybrid-rerank  A30 refused=False cost=$0.0004 gen=1.4s wait=0s
+B-hybrid-rerank  A31 refused=False cost=$0.0002 gen=1.2s wait=0s
+B-hybrid-rerank  A32 refused=False cost=$0.0004 gen=1.6s wait=0s
+B-hybrid-rerank  A33 refused=False cost=$0.0003 gen=6.0s wait=0s
+B-hybrid-rerank  A34 refused=False cost=$0.0006 gen=1.6s wait=0s
+B-hybrid-rerank  A35 refused=False cost=$0.0004 gen=1.4s wait=0s
+B-hybrid-rerank  U01 refused=True  cost=$0.0004 gen=4.3s wait=0s
+B-hybrid-rerank  U02 refused=True  cost=$0.0003 gen=2.5s wait=0s
+B-hybrid-rerank  U03 refused=True  cost=$0.0005 gen=1.7s wait=0s
+B-hybrid-rerank  U04 refused=True  cost=$0.0004 gen=1.2s wait=0s
+B-hybrid-rerank  U05 refused=True  cost=$0.0003 gen=1.2s wait=0s
+B-hybrid-rerank  U06 refused=True  cost=$0.0004 gen=2.1s wait=0s
+B-hybrid-rerank  U07 refused=True  cost=$0.0005 gen=1.6s wait=0s
+B-hybrid-rerank  U08 refused=True  cost=$0.0004 gen=2.7s wait=0s
+B-hybrid-rerank  U09 refused=True  cost=$0.0004 gen=1.5s wait=0s
+B-hybrid-rerank  U10 refused=True  cost=$0.0004 gen=1.2s wait=0s
+B-hybrid-rerank  X01 refused=True  cost=$0.0004 gen=1.3s wait=0s
+B-hybrid-rerank  X02 refused=False cost=$0.0004 gen=2.0s wait=0s
+B-hybrid-rerank  X03 refused=True  cost=$0.0004 gen=3.5s wait=0s
+B-hybrid-rerank  X04 refused=True  cost=$0.0004 gen=2.6s wait=0s
+B-hybrid-rerank  X05 refused=False cost=$0.0004 gen=4.4s wait=0s

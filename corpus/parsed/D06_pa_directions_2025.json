@@ -1,0 +1,2140 @@
+{
+ "doc_id": "D06_pa_directions_2025",
+ "source_file": "D06_pa_directions_2025.html",
+ "n_pages_pdf": null,
+ "words": 6616,
+ "est_pages": 14.7,
+ "n_blocks": 236,
+ "n_headings": 51,
+ "issues": [
+  "18 table rows serialised as 'cell | cell'",
+  "HTML source: no page numbers; RBI site navigation and index (TOC) tables removed"
+ ],
+ "blocks": [
+  {
+   "text": "RBI/DPSS/2025-26/141 CO.DPSS.POLC.No.S-633/02-14-008/2025-26",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 0,
+   "char_end": 60
+  },
+  {
+   "text": "September 15, 2025",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 62,
+   "char_end": 80
+  },
+  {
+   "text": "Previous Versions",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 82,
+   "char_end": 99
+  },
+  {
+   "text": "All Payment System Providers and Payment System Participants / All Authorised Dealer banks / All Scheduled Commercial Banks",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 101,
+   "char_end": 224
+  },
+  {
+   "text": "Madam / Dear Sir,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 226,
+   "char_end": 243
+  },
+  {
+   "text": "Master Direction on Regulation of Payment Aggregator (PA) (Updated as on November 11, 2026)",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 245,
+   "char_end": 336
+  },
+  {
+   "text": "The Reserve Bank of India had issued the ‘Guidelines on Regulation of Payment Aggregators and Payment Gateways’ vide circular DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020 and CO.DPSS.POLC.No.S33/02-14-008/2020-2021 dated March 31, 2021 for regulation of entities that were engaged in online payment aggregation. Further, vide circular CO.DPSS.POLC.No.S-786/02-14-008/2023-24 dated October 31, 2023 , directions were issued on ‘Regulation of Payment Aggregator – Cross Border (PA - Cross Border)’.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 338,
+   "char_end": 847
+  },
+  {
+   "text": "2. Subsequently on April 16, 2024 , Reserve Bank of India, placed on its website, for public comments, the following draft directions on regulation of PA:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 849,
+   "char_end": 1003
+  },
+  {
+   "text": "‘ New draft directions on regulation of Payment Aggregators – Physical Point of Sale ’, and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1005,
+   "char_end": 1096
+  },
+  {
+   "text": "‘ Amendments to the existing directions on Payment Aggregators ’.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1098,
+   "char_end": 1163
+  },
+  {
+   "text": "3. On a review of the inputs received and in line with RBI’s endeavour to further rationalise the regulations, this comprehensive Master Direction is issued under Section 18 read with Section 10 (2) of the Payment and Settlement Systems Act, 2007, and Section 10 (4) and Section 11 (1) of the Foreign Exchange Management Act (FEMA), 1999 for regulation of various categories of PA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1165,
+   "char_end": 1546
+  },
+  {
+   "text": "Yours faithfully,",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1548,
+   "char_end": 1565
+  },
+  {
+   "text": "(Sara Rajendra Kumar Neti) Chief General Manager-in-Charge",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1567,
+   "char_end": 1625
+  },
+  {
+   "text": "Encl.: As above",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1627,
+   "char_end": 1642
+  },
+  {
+   "text": "Master Direction on Regulation of Payment Aggregators",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 1644,
+   "char_end": 1697
+  },
+  {
+   "text": "In exercise of the powers conferred by Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007 (51 of 2007), and Section 10 (4) and Section 11 (1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999), the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, hereby, issues the Directions hereinafter specified.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 1699,
+   "char_end": 2102
+  },
+  {
+   "text": "Chapter I",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 2104,
+   "char_end": 2113
+  },
+  {
+   "text": "Preliminary",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2115,
+   "char_end": 2126
+  },
+  {
+   "text": "1. Short Title and Commencement",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2128,
+   "char_end": 2159
+  },
+  {
+   "text": "a. These Directions shall be called the Reserve Bank of India (Regulation of Payment Aggregators) Directions, 2025.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2161,
+   "char_end": 2276
+  },
+  {
+   "text": "2. Effective Date",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2278,
+   "char_end": 2295
+  },
+  {
+   "text": "a. These Directions shall be effective immediately unless indicated otherwise for any specific provision herein.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2297,
+   "char_end": 2409
+  },
+  {
+   "text": "3. Applicability",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2411,
+   "char_end": 2427
+  },
+  {
+   "text": "a. These Directions shall apply to all bank and non-bank entities undertaking the business of Payment Aggregator (PA) as defined herein. These Directions shall also apply to all Authorised Dealer banks as well as Scheduled Commercial Banks which engage with entities undertaking PA business, to the extent hereinafter specified.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2429,
+   "char_end": 2757
+  },
+  {
+   "text": "4. Definitions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 2759,
+   "char_end": 2773
+  },
+  {
+   "text": "a. Cash-on-delivery transaction: A merchant transaction wherein banknotes or currency notes, being legal tender in India, is offered or tendered, for and at the time of, delivery of goods and / or service(s).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2775,
+   "char_end": 2983
+  },
+  {
+   "text": "b. Contact Point Verification (CPV): Physical verification of the address or place of business of the merchant.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 2985,
+   "char_end": 3096
+  },
+  {
+   "text": "c. E-commerce: Buying and selling of goods and services, including digital products, conducted over digital and electronic network.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3098,
+   "char_end": 3229
+  },
+  {
+   "text": "Explanation: For the purposes of this definition, the term ‘digital & electronic network’ shall include network of computers, television channels and any other internet application used in automated manner such as web pages, extranets, mobiles, etc.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3231,
+   "char_end": 3480
+  },
+  {
+   "text": "d. Inward transaction: Transaction involving the inflow of foreign exchange.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3482,
+   "char_end": 3558
+  },
+  {
+   "text": "e. Marketplace: An e-commerce entity which provides an information technology platform on a digital or electronic network to facilitate transactions between buyer(s) and seller(s).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3560,
+   "char_end": 3740
+  },
+  {
+   "text": "f. Merchant: An entity or a marketplace that sells goods, provides services, or offers investment products, and includes exporters and overseas sellers.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3742,
+   "char_end": 3894
+  },
+  {
+   "text": "g. Outward transaction: Transaction involving the outflow of foreign exchange.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3896,
+   "char_end": 3974
+  },
+  {
+   "text": "h. Payment channel: The method or manner through which payment instruction is initiated and processed in a payment system.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 3976,
+   "char_end": 4098
+  },
+  {
+   "text": "i. Payment Aggregator (PA): An entity that facilitates aggregation of payments made by customers to the merchants through one or more payment channels through the merchant’s interface (physical / virtual) for purchase of goods, services or investment products, and subsequently settles the collected funds to such merchants. PA is categorised as below:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4100,
+   "char_end": 4452
+  },
+  {
+   "text": "i. PA – Physical (PA – P): PA that facilitates transaction(s) where both the acceptance device and payment instrument are physically present in close proximity while making the transaction.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4454,
+   "char_end": 4643
+  },
+  {
+   "text": "ii. PA – Cross Border (PA – CB): PA that facilitates aggregation of cross-border payments for current account transactions, that are not prohibited under FEMA, for its onboarded merchants through e-commerce mode. There are two sub-categories of PA-CB:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4645,
+   "char_end": 4896
+  },
+  {
+   "text": "PA-CB facilitating inward transaction",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4898,
+   "char_end": 4935
+  },
+  {
+   "text": "PA-CB facilitating outward transaction",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4937,
+   "char_end": 4975
+  },
+  {
+   "text": "Note: (1) A non-bank entity authorised as AD Category-II, and facilitating current account transactions not prohibited under FEMA (other than purchase or sale of goods or service), shall not fall within the purview of PA – CB business.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 4977,
+   "char_end": 5212
+  },
+  {
+   "text": "(2) A card transaction, where the foreign exchange settlement is facilitated by a card network and the aggregator receives the payment in local currency, is not part of PA – CB activity.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5214,
+   "char_end": 5400
+  },
+  {
+   "text": "iii. PA – Online (PA – O): PA that facilitates transaction(s) where the acceptance device and payment instrument are not present in close proximity while making the transaction.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5402,
+   "char_end": 5579
+  },
+  {
+   "text": "j. Payment Gateway (PG): An entity that provides technology infrastructure to route and facilitate processing of a payment transaction without any involvement in handling of funds.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5581,
+   "char_end": 5761
+  },
+  {
+   "text": "k. Central KYC Records Registry (CKYCR), Officially Valid Document (OVD), equivalent e-document, digital KYC, and Video-based Customer Identification Procedure (V-CIP) shall have the same meanings as defined in RBI Master Direction DOR.AML.REC.No.88/14.01.002/2025-26 dated November 28, 2025 on ‘Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025’, as applicable to the regulated entities and as amended from time to time (hereinafter referred to as ‘MD on KYC').",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 5763,
+   "char_end": 6254
+  },
+  {
+   "text": "Chapter II",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 6256,
+   "char_end": 6266
+  },
+  {
+   "text": "Authorisation and Capital Requirements",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 6268,
+   "char_end": 6306
+  },
+  {
+   "text": "5. Authorisation for PA Business",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 6308,
+   "char_end": 6340
+  },
+  {
+   "text": "a. A bank does not require authorisation to carry out PA business.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6342,
+   "char_end": 6408
+  },
+  {
+   "text": "b. A non-bank entity shall seek authorisation for operating as a PA by submitting an application through RBI’s online portal . An entity, regulated by any of the financial sector regulator(s), shall apply along with a ‘No Objection Certificate’ (NOC) from such regulator(s), within 45 days of obtaining the NOC.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6410,
+   "char_end": 6721
+  },
+  {
+   "text": "c. A non-bank PA shall be a company incorporated in India under the Companies Act, 2013. The Memorandum of Association of the applicant entity should cover the proposed activity of operating as a PA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6723,
+   "char_end": 6922
+  },
+  {
+   "text": "d. Following is applicable from the date of these Directions:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6924,
+   "char_end": 6985
+  },
+  {
+   "text": "i. A PA having a Certificate of Authorisation (CoA) issued by RBI, and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 6987,
+   "char_end": 7057
+  },
+  {
+   "text": "already carrying on business as a PA-P – shall intimate RBI. A revised CoA shall be issued to the PA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7059,
+   "char_end": 7160
+  },
+  {
+   "text": "desirous of commencing business in another PA category – shall intimate RBI at least 30 days prior to commencing the new business.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7162,
+   "char_end": 7292
+  },
+  {
+   "text": "ii. An entity, whose application for grant of CoA for PA-O or PA – CB is under consideration of RBI – shall intimate the Reserve Bank about its existing PA-P business, if any, through the online portal, by December 31, 2025.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7294,
+   "char_end": 7518
+  },
+  {
+   "text": "iii. An entity carrying on only PA-P business shall apply for authorisation as prescribed in 5 (b) above, by December 31, 2025. An entity which fails to apply by the due date shall intimate its banker(s) forthwith and wind up its business by February 28, 2026.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7520,
+   "char_end": 7780
+  },
+  {
+   "text": "e. Application of an entity, not meeting the minimum capital requirement, or which is incomplete / not in the prescribed form, shall be returned.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7782,
+   "char_end": 7927
+  },
+  {
+   "text": "6. Capital Requirements",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 7929,
+   "char_end": 7952
+  },
+  {
+   "text": "a. An entity seeking authorisation to commence or carry on PA business shall have a minimum net-worth of ₹15 crore at the time of tendering application for authorisation; and shall attain a minimum net-worth of ₹25 crore by the end of third financial year of grant of authorisation.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 7954,
+   "char_end": 8236
+  },
+  {
+   "text": "b. The minimum networth, as applicable, shall be maintained by a PA on an ongoing basis.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8238,
+   "char_end": 8326
+  },
+  {
+   "text": "c. For the purposes of this MD, computation of net worth of an entity shall be guided by the directions in RBI Circular DPSS.CO.AUTH.No.S-239/02-27-004/2026-27 dated June 15, 2026 on ‘Master Directions on Authorisation to operate a Payment System’, as amended from time to time. In addition to the items provided in the said circular, “net worth” shall also include preference shares that are compulsorily convertible to equity. Compulsorily convertible preference shares can be either non-cumulative or cumulative, and they should be compulsorily convertible into equity shares and the shareholder agreements should specifically prohibit any withdrawal of this preference share capital at any time. Additionally, if Deferred Tax Assets have been included in any of the components, the same shall be deducted while arriving at the net-worth value.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 8328,
+   "char_end": 9175
+  },
+  {
+   "text": "d. An entity, having Foreign Direct Investment (FDI), shall be guided by the Consolidated FDI Policy of the Government of India, and the relevant Foreign Exchange Management Regulations on this subject.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9177,
+   "char_end": 9379
+  },
+  {
+   "text": "e. An entity seeking PA authorisation shall submit a certificate in the enclosed format ( Annexure 2.1 ) from their statutory auditor evidencing compliance with the applicable net-worth requirement while submitting the application for authorisation. A newly incorporated non-bank entity which may not have an audited statement of financial accounts shall submit a certificate in the enclosed format from their statutory auditor regarding current networth along with a provisional balance sheet as of recent date.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9381,
+   "char_end": 9893
+  },
+  {
+   "text": "Chapter III",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 9895,
+   "char_end": 9906
+  },
+  {
+   "text": "Conduct of PA business",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 9908,
+   "char_end": 9930
+  },
+  {
+   "text": "7. Governance",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 9932,
+   "char_end": 9945
+  },
+  {
+   "text": "a. A PA shall be professionally managed. The promoters and directors of the entity shall satisfy the fit and proper criteria as below:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 9947,
+   "char_end": 10081
+  },
+  {
+   "text": "i. The person has a record of fairness and integrity, including but not limited to:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10083,
+   "char_end": 10166
+  },
+  {
+   "text": "financial integrity;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10168,
+   "char_end": 10188
+  },
+  {
+   "text": "good reputation and character; and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10190,
+   "char_end": 10224
+  },
+  {
+   "text": "honesty;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10226,
+   "char_end": 10234
+  },
+  {
+   "text": "ii. Such person has not incurred any of the following disqualifications:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10236,
+   "char_end": 10308
+  },
+  {
+   "text": "Convicted by a court for any offence involving moral turpitude or any economic offence or any offence under the laws administered by the RBI;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10310,
+   "char_end": 10451
+  },
+  {
+   "text": "Adjudged insolvent and not discharged;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10453,
+   "char_end": 10491
+  },
+  {
+   "text": "An order, restraining, prohibiting or debarring the person from accessing / dealing in any financial system, passed by any regulatory authority, and the period specified in the order has not elapsed;",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10493,
+   "char_end": 10692
+  },
+  {
+   "text": "Found to be of unsound mind by a court of competent jurisdiction and the finding is in force; and",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10694,
+   "char_end": 10791
+  },
+  {
+   "text": "Is financially not sound.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10793,
+   "char_end": 10818
+  },
+  {
+   "text": "b. The promoters and directors of the applicant entity may submit a declaration in the enclosed format ( Annexure 2.5 ). RBI may also check ‘fit and proper’ status of the applicant entity and management thereof by obtaining inputs from other regulators, government departments, etc., as deemed fit. As regards fulfilment of ‘fit and proper’ criteria, RBI’s decision shall be final.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 10820,
+   "char_end": 11201
+  },
+  {
+   "text": "c. Any takeover or acquisition of control or change in the management of a non-bank PA shall adhere to RBI circular CO.DPSS.POLC.No.S-590/02-14-006/2022-23 dated July 4, 2022 on ‘Requirement for obtaining prior approval in case of takeover / acquisition of control of non-bank PSOs and sale / transfer of payment system activity of non-bank PSO’, as amended from time to time. This provision shall also apply to an entity whose application for authorisation as PA is pending with RBI.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11203,
+   "char_end": 11687
+  },
+  {
+   "text": "8. Dispute Management Framework",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 11689,
+   "char_end": 11720
+  },
+  {
+   "text": "a. A PA shall have a dispute resolution mechanism to handle payment related disputes in transactions facilitated by it. The mechanism should also include timelines for processing refunds, etc. The policy shall ensure adherence to the instructions issued by RBI including on Turn Around Time (TAT) for resolution of failed transactions issued vide DPSS.CO.PD No.629/02.01.014/2019-20 dated September 20, 2019 (as amended from time to time). This includes assigning of proper reason codes, responding to chargeback, disputes raised against their onboarded merchants, etc.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 11722,
+   "char_end": 12291
+  },
+  {
+   "text": "b. Agreements between a PA, its merchants, its acquiring banks, and all other stakeholders shall clearly delineate the roles and responsibilities of the involved parties, inter alia covering manner of refunds, treatment of failed transactions, return policy, grievance redressal, reconciliation, etc.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12293,
+   "char_end": 12593
+  },
+  {
+   "text": "c. The PA shall disclose comprehensive information regarding its merchant policies, privacy policy and other terms and conditions on its website and / or its mobile application.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12595,
+   "char_end": 12772
+  },
+  {
+   "text": "d. The PA shall appoint an officer responsible for responding to issues raised by its merchants along with an escalation matrix for grievance redressal. Details of the officer and escalation matrix shall be prominently displayed on its website.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 12774,
+   "char_end": 13018
+  },
+  {
+   "text": "9. Security, Fraud Prevention and Risk Management Framework",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 13020,
+   "char_end": 13079
+  },
+  {
+   "text": "a. A strong risk management system is necessary to meet the challenges of fraud and ensure customer protection. PA shall put in place adequate Information and Data Security infrastructure and systems for detection and prevention of frauds. PA shall ensure that infrastructure of the merchants is compliant with security standards like PCI-DSS and PCI-SSF, as may be applicable.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13081,
+   "char_end": 13458
+  },
+  {
+   "text": "b. PA shall put in place a Board approved Information Security Policy for safety and security of the payment systems operated by it and implement security measures in accordance with the said policy to mitigate identified as well as emerging risks. PA shall ensure adherence to baseline technology-related recommendations as provided in Annexure 1 .",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13460,
+   "char_end": 13809
+  },
+  {
+   "text": "c. PA shall comply with data storage requirements as applicable to Payment System Operators (PSOs) as laid out in RBI circular DPSS.CO.OD No.2785/06.08.005/2017-2018 dated April 6, 2018 on ‘Storage of Payment System Data’, as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 13811,
+   "char_end": 14063
+  },
+  {
+   "text": "d. An annual system audit, including cyber security audit, conducted by CERT-In empanelled auditors shall be carried out and report thereof shall be submitted to the respective Regional Office of DPSS, RBI within such timelines as may be prescribed by RBI.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14065,
+   "char_end": 14321
+  },
+  {
+   "text": "e. The PA shall also be guided by RBI circular CO.DPSS.CSD.No.S825/01-01-078/2026-2027 dated November 05, 2026 on ‘Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators’, as amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14323,
+   "char_end": 14583
+  },
+  {
+   "text": "10. General Directions",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 14585,
+   "char_end": 14607
+  },
+  {
+   "text": "a. A PA shall aggregate funds only for the merchant with whom it has a contractual relationship.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14609,
+   "char_end": 14705
+  },
+  {
+   "text": "b. A PA business shall not carry out marketplace business.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14707,
+   "char_end": 14765
+  },
+  {
+   "text": "c. A PA shall ensure that the extant instructions with regard to Merchant Discount Rate (MDR) are followed. A PA shall also ensure that any charges, other than the price of goods / service / investment amount, charged by a merchant, are distinctly displayed to the payer prior to the transaction.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 14767,
+   "char_end": 15063
+  },
+  {
+   "text": "d. A PA shall not place limits on transaction amount for a particular payment mode. The responsibility thereof shall lie with the issuing bank / non-bank entity; for instance, the card issuing bank shall be responsible for placing transaction amount limits on cards issued by it based on the customer’s credit worthiness, spending nature, profile, etc.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15065,
+   "char_end": 15417
+  },
+  {
+   "text": "e. A PA shall not give an option for ATM PIN as a factor of authentication for card-not-present transactions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15419,
+   "char_end": 15528
+  },
+  {
+   "text": "f. All refunds shall be made to the original method of payment, unless specifically instructed by the payer to credit the refund to an alternate mode belonging to the same payer.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15530,
+   "char_end": 15708
+  },
+  {
+   "text": "g. A PG, as defined in paragraph 4(j), shall not fall within the scope of this MD. However, a PG is encouraged to adopt the baseline technology recommendations of the Reserve Bank of India (appended as Annexure 1 ).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15710,
+   "char_end": 15925
+  },
+  {
+   "text": "h. A PA may avail services of a PG in terms of RBI circular DOR.ORG.REC.No.90/21-04-158/2025-26 on Reserve Bank of India (Managing Risks in Outsourcing) Directions 2025, as applicable to the regulated entities and as amended from time to time and CO.DPSS.POLC.No.S-384/02.32.001/2021-2022 dated August 3, 2021 on 'Framework for Outsourcing of Payment and Settlement-related Activities by Payment System Operators', as applicable and amended from time to time.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 15927,
+   "char_end": 16386
+  },
+  {
+   "text": "11. Specific Directions applicable to PA – CB",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 16388,
+   "char_end": 16433
+  },
+  {
+   "text": "a. Funds related to inward and outward transactions as carried out by a PA-CB shall be kept separate. No co-mingling of funds or netting off for outward and inward transactions is permitted under any circumstance.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16435,
+   "char_end": 16648
+  },
+  {
+   "text": "b. For outward transactions, a PA - CB may directly on-board merchants located abroad or enter into agreement with e-commerce marketplaces or entities providing PA services abroad.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16650,
+   "char_end": 16830
+  },
+  {
+   "text": "c. Outward transactions can be carried out using any payment instrument provided by authorised payment systems in India, except small Prepaid Payment Instrument.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16832,
+   "char_end": 16993
+  },
+  {
+   "text": "d. A PA-CB shall not purchase foreign currency from, or sell it to, any entity other than an Authorised Dealer (AD). In respect of inward or outward transactions processed by a PA - CB, the maximum value per transaction shall be ₹25 lakh.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 16995,
+   "char_end": 17233
+  },
+  {
+   "text": "e. AD-I banks maintaining Inward Collection Accounts (InCAs) / Outward Collection Accounts (OCAs), as defined in paragraph 16a. below of this MD, shall ensure that all requirements under FEMA are adhered to.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17235,
+   "char_end": 17442
+  },
+  {
+   "text": "f. AD-I Bank shall have automated processes to fetch the requisite information from a PA – CB.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17444,
+   "char_end": 17538
+  },
+  {
+   "text": "g. To establish the bonafides of a transaction, the payment transaction (outward / inward) shall be identified as a cross-border transaction. A Payment System Provider shall make provisions for implementation of the same from such timelines as specified by RBI.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17540,
+   "char_end": 17801
+  },
+  {
+   "text": "h. PA – CB shall provide the documents / information required by the exporter / importer to the AD bank of the exporter / importer, for closure of their corresponding entry in Export Data Processing and Monitoring System (EDPMS) / Import Data Processing and Management System (IDPMS), wherever applicable, (for the respective inward / outward remittance), in compliance with the extant directions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 17803,
+   "char_end": 18200
+  },
+  {
+   "text": "i. Settlement in non-INR currencies shall be permitted only for those merchants (Indian exporters) which have been directly onboarded by the PA – CB facilitating inward transactions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18202,
+   "char_end": 18384
+  },
+  {
+   "text": "12. Reports",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 18386,
+   "char_end": 18397
+  },
+  {
+   "text": "An authorised PA shall submit reports as listed in Annexure 2 of this MD.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18399,
+   "char_end": 18472
+  },
+  {
+   "text": "Chapter IV",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 18474,
+   "char_end": 18484
+  },
+  {
+   "text": "KYC and Due Diligence",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 18486,
+   "char_end": 18507
+  },
+  {
+   "text": "13. Due Diligence by PA",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 18509,
+   "char_end": 18532
+  },
+  {
+   "text": "a. A PA shall undertake customer due diligence (CDD) of its merchants in accordance with MD on KYC. While onboarding, the PA shall, with the merchant’s consent, retrieve the merchant’s KYC record from CKYCR. The process defined in MD on KYC should be followed in case CKYCR record is found to be not updated.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18534,
+   "char_end": 18842
+  },
+  {
+   "text": "b. Where a merchant’s record is not available in CKYCR, or a PA cannot access CKYCR as its application for authorisation is pending with the Reserve Bank, CDD of the merchant could be carried out through other mechanisms outlined in MD on KYC. If the merchant’s annual turnover does not exceed ₹40 lakh, or its annual export turnover does not exceed ₹5 lakh, the following process could also be adopted as an alternative:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 18844,
+   "char_end": 19265
+  },
+  {
+   "text": "Obtain a copy of the PAN / Form 60 of the merchant and verify the PAN from issuing authority.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19267,
+   "char_end": 19360
+  },
+  {
+   "text": "Conduct CPV of the merchant.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19362,
+   "char_end": 19390
+  },
+  {
+   "text": "Obtain a certified copy of one officially valid document (OVD) of the proprietor or of the person holding power of attorney to operate the account, as applicable. One of the documents or the equivalent e-documents, as prescribed for CDD of sole-proprietary firms or legal entities, should be verified.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19392,
+   "char_end": 19693
+  },
+  {
+   "text": "c. A PA shall undertake background and antecedent check of the merchant.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19695,
+   "char_end": 19767
+  },
+  {
+   "text": "d. In case a PA contracts with another PA that onboards the merchant, the latter is responsible for carrying out due diligence of the merchant.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19769,
+   "char_end": 19912
+  },
+  {
+   "text": "e. PA shall facilitate allotment of appropriate Merchant Category Code and Merchant ID / Terminal ID to its merchants including those onboarded through an overseas PA. PA shall ensure that name of the merchant is captured appropriately for all transactions processed for it.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 19914,
+   "char_end": 20188
+  },
+  {
+   "text": "f. A PA shall ensure that a marketplace onboarded by it does not accept payments for a seller not onboarded on to the marketplace’s platform.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20190,
+   "char_end": 20331
+  },
+  {
+   "text": "g. Necessary validation mechanisms shall be put in place by a PA to ensure that funds due to a merchant are credited in the merchant’s bank account only.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20333,
+   "char_end": 20486
+  },
+  {
+   "text": "h. The PA must also monitor transactions subsequently undertaken by the merchants to ensure that these transactions are in line with latter’s business profile and ensure adherence to other aspects of MD on KYC while conducting its operations.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20488,
+   "char_end": 20730
+  },
+  {
+   "text": "i. Non-bank PA shall register itself with the Financial Intelligence Unit-India (FIU-IND) in compliance with MD on KYC and meet the reporting requirements listed therein.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20732,
+   "char_end": 20902
+  },
+  {
+   "text": "j. A PA, including an existing PA whose application is pending with Reserve Bank of India for authorisation, shall ensure that merchants onboarded till December 31, 2025, comply with the above due diligence requirements within one year from the date of this MD. From January 1, 2026, merchants should be onboarded in accordance with due diligence requirements prescribed in this MD.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 20904,
+   "char_end": 21286
+  },
+  {
+   "text": "14. Responsibilities of Acquiring Bank",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 21288,
+   "char_end": 21326
+  },
+  {
+   "text": "a. Acquiring bank shall have a policy for processing payments for merchants acquired through an authorised non-bank PA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21328,
+   "char_end": 21447
+  },
+  {
+   "text": "b. Acquiring bank need not undertake the customer due diligence of the merchant itself but should be able to obtain the required details whenever required.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21449,
+   "char_end": 21604
+  },
+  {
+   "text": "c. Acquiring Bank of a non-bank PA shall ensure that merchants onboarded by the PA are in compliance with acquiring bank’s policy for merchant acquiring.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21606,
+   "char_end": 21759
+  },
+  {
+   "text": "15. Due Diligence through assisted mode",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 21761,
+   "char_end": 21800
+  },
+  {
+   "text": "a. A non-bank PA may utilise agents to undertake the following activities related to due diligence of merchants:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21802,
+   "char_end": 21914
+  },
+  {
+   "text": "Digital KYC process as provided in Annex–I of MD – KYC (in lieu of Business Correspondents)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 21916,
+   "char_end": 22007
+  },
+  {
+   "text": "Assisted V-CIP, only by the agent assisting the individual / proprietor / power of attorney holder / beneficial owner / authorised signatory of the merchant, in terms of Paragraph 18 of MD on KYC. PA shall maintain the details of the agent assisting the merchant, where services of such agents are employed.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22009,
+   "char_end": 22316
+  },
+  {
+   "text": "b. The non-bank PA shall carry out due diligence of the persons appointed as authorised / designated agents.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22318,
+   "char_end": 22426
+  },
+  {
+   "text": "c. The ultimate responsibility of due diligence shall lie on PA and agents can only be used for limited purposes as prescribed above.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22428,
+   "char_end": 22561
+  },
+  {
+   "text": "Chapter V",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 22563,
+   "char_end": 22572
+  },
+  {
+   "text": "Settlement of funds and Escrow accounts",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 22574,
+   "char_end": 22613
+  },
+  {
+   "text": "16. Escrow accounts of PA",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 22615,
+   "char_end": 22640
+  },
+  {
+   "text": "a. A non-bank PA shall maintain the funds collected on behalf of its merchants in a separate escrow account with any Scheduled Commercial Bank (SCB) in India. In case of a PA – CB, such account shall also be referred to as Inward Collection Account (InCA) for inward transactions and Outward Collection Account (OCA) for outward transactions, as applicable. Details of operations in escrow accounts are incorporated in Table 1 below and the instructions mentioned therein must be adhered to by December 31, 2025. Such escrow accounts shall only be utilised for authorised PA business and not for any other business.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 22642,
+   "char_end": 23257
+  },
+  {
+   "text": "Table 1 - Escrow Account Requirements",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23259,
+   "char_end": 23296
+  },
+  {
+   "text": "Particulars | Escrow Account (Domestic) | Inward Collection Account (InCA) | Outward Collection Account (OCA)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 23298,
+   "char_end": 23407
+  },
+  {
+   "text": "General requirements",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23409,
+   "char_end": 23429
+  },
+  {
+   "text": "Opened with | SCB. | Authorised Dealer Category-I SCB. | Authorised Dealer Category-I SCB.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 23431,
+   "char_end": 23521
+  },
+  {
+   "text": "Account constitutes | Collection of funds on behalf of merchants onboarded by PA. | Collection of proceeds of inward transactions on behalf of merchants onboarded by PA. | Collection of proceeds of outward transactions to the overseas sellers onboarded by PA-CB.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 23523,
+   "char_end": 23785
+  },
+  {
+   "text": "Currency | INR | Separate account for INR and / or each non-INR currency. | INR",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 23787,
+   "char_end": 23866
+  },
+  {
+   "text": "Operational requirements",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 23868,
+   "char_end": 23892
+  },
+  {
+   "text": "Pre-funding | Allowed. | Not permitted.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 23894,
+   "char_end": 23933
+  },
+  {
+   "text": "Withdrawal of pre-funding | Not permitted. | Not applicable.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 23935,
+   "char_end": 23995
+  },
+  {
+   "text": "Additional Escrow Account (at the discretion of PA) | One additional account may be maintained in a different SCB. | One additional account may be maintained in a different SCB (for each currency). | One additional account may be maintained in a different SCB.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 23997,
+   "char_end": 24257
+  },
+  {
+   "text": "Inter-escrow A/c transfer | Auditor’s certificate needed for such transactions. | Not permitted.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 24259,
+   "char_end": 24355
+  },
+  {
+   "text": "Permitted credits | i) Receipt of funds from payers for merchants, onboarded towards purchase of goods / services / investments; ii) Receipt of funds from other PAs for settlement to their merchant iii) Refunds thereof initiated by merchants (failed / disputed / returned / cancelled transactions) iv) Pre-funding through own / merchant’s funds. v) Payment received for onward transfer to merchants under promotional activities, incentives, cash-backs, etc. | Same as that of Escrow Account (Domestic) except iv).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 24357,
+   "char_end": 24870
+  },
+  {
+   "text": "Permitted debits | i) Payments to onboarded merchants, towards sale of goods/services/investments and amount received under promotional activities, incentives, cashbacks, etc. ii) Refund to be credited to the payer for the reversals of purchase transactions, iii) Payment to another PA or PA – CB facilitating outward transactions which is part of the transaction flow, for ultimate settlement of funds to the merchant. Note: This permitted debit shall not be used to transfer funds from an entity acting as a BBPOU, as defined in Master Direction on BBPS to its BBPS escrow account except in case where the entity acts as a PA to an Agent Institution and on its behalf transfers funds to the BBPS escrow account of the BBPOU. iv) Payment to any other account (third party), on specific direction of a merchant, having physical or online presence with an annual turnover above ₹40 lakh or an annual export turnover of more than ₹5 lakh, provided the third party is the payee that interfaces with the payer for purchase / delivery of goods, services or investment products, for the underlying transaction. v) Payment of commission to the PA. | Same as that of Escrow Account (Domestic), except iv).",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 24872,
+   "char_end": 26069
+  },
+  {
+   "text": "Maintenance of day end balance in escrow account | Shall not be less than the amount realised in escrow towards funds payable to the merchants, but not settled to them.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 26071,
+   "char_end": 26239
+  },
+  {
+   "text": "Interest-bearing | No interest shall be payable on the balances maintained in the escrow account(s) except on the core portion amount of the domestic escrow account, subject to the conditions prescribed in paragraph 17 below. | No interest shall be payable on the balances.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 26241,
+   "char_end": 26514
+  },
+  {
+   "text": "Timelines",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26516,
+   "char_end": 26525
+  },
+  {
+   "text": "Escrow a/c by existing PA | Within two months from the date of authorisation by the Reserve Bank of India. PA may migrate funds to an escrow account prior to authorisation but protection under paragraph 16 (b) of these Directions shall be available only after authorisation.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 26527,
+   "char_end": 26801
+  },
+  {
+   "text": "Credit to merchant’s a/c | As per the agreement between the PA and the merchant. Such an agreement should be fair, equitable and must transparently mention the settlement timelines.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 26803,
+   "char_end": 26984
+  },
+  {
+   "text": "Note: (a) An entity authorised to carry out PA-O and PA-P businesses shall use the same escrow account for both the business activities. (b) For the purposes of these directions, ‘Core Portion’ shall be computed as under: Step 1: Compute lowest daily outstanding balance (LB) in the escrow account on a fortnightly (FN) basis, for 26 fortnights from the preceding month. Step 2: Calculate the average of the lowest fortnightly outstanding balances [(LB1 of FN1+ LB2 of FN2+ ........+ LB26 of FN26) divided by26]. Step 3: The average balance so computed represents the \"Core Portion\" eligible to earn interest.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 26986,
+   "char_end": 27595
+  },
+  {
+   "text": "b. For the purposes of maintenance of an escrow account, payment system operated by PA shall be deemed to be ‘designated payment systems’ under Section 23A of the Payment and Settlements Systems Act, 2007.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27597,
+   "char_end": 27802
+  },
+  {
+   "text": "17. Core portion of escrow accounts",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 27804,
+   "char_end": 27839
+  },
+  {
+   "text": "a. The core portion of escrow account shall continue to be maintained within the escrow account maintained for PA activity.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27841,
+   "char_end": 27964
+  },
+  {
+   "text": "b. This facility shall be permissible to entities who have been in business for twenty-six (26) fortnights and whose accounts have been duly audited for the full accounting year. For this purpose, the period of twenty-six fortnights shall be calculated from the date of actual business operation in the account.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 27966,
+   "char_end": 28277
+  },
+  {
+   "text": "c. No loan is permissible against the core portion. Banks shall not issue any receipt for such deposits which may entitle PA to the funds available in the core portion or mark any lien on the amount held in such form of deposits.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28279,
+   "char_end": 28508
+  },
+  {
+   "text": "d. The core portion shall be calculated separately for each escrow account. The escrow balance maintained shall be clearly disclosed in the auditor’s certificates to be submitted to RBI on quarterly and annual basis.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28510,
+   "char_end": 28726
+  },
+  {
+   "text": "18. General directions on Escrow account of PA",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 28728,
+   "char_end": 28774
+  },
+  {
+   "text": "a. PA shall submit the list of merchants onboarded by it to the bank where it is maintaining the escrow account and update the list prior to initiating settlement to these merchants. This list includes eligible third parties to which PA – O or PA - P would be settling funds on the instructions of the merchant as detailed in permitted debits in Table 1 above. The bank shall ensure that payments are made only to eligible merchants and for permissible debits or credits as defined under this MD. There shall be an exclusive clause in the agreement signed between the PA and the bank maintaining escrow account towards usage of balance in escrow account only as per the permissible debits or credits as mentioned in Table 1 above.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 28776,
+   "char_end": 29506
+  },
+  {
+   "text": "b. The escrow account shall not be operated for ‘Cash-on-Delivery’ transactions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29508,
+   "char_end": 29588
+  },
+  {
+   "text": "c. Funds for an outward transaction may be received in the escrow account of the PA (and then transferred to the OCA of PA – CB) or directly in OCA of the PA - CB. Onward transfer to the foreign merchants shall be carried out only by debit to the OCA.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29590,
+   "char_end": 29841
+  },
+  {
+   "text": "d. In case a PA-CB also engages in domestic PA activity, InCA and OCA shall be kept separate from the escrow account(s) opened for such domestic PA activity.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 29843,
+   "char_end": 30000
+  },
+  {
+   "text": "e. A certificate, signed by the statutory auditor(s), shall be submitted by the authorised entities to the respective Regional Office of DPSS, RBI, where registered office of PA is situated, certifying that the entity has been maintaining balance(s) in the escrow account(s) in compliance with these instructions, as per periodicity prescribed in Annexure 2 . In case an additional escrow account is being maintained, it shall be ensured that balances in both accounts are considered for the above certification and that these are separately mentioned in the certificate. The certificates shall be submitted separately for domestic activity, i.e. PA – O / P and cross border activity, i.e. PA – CB.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30002,
+   "char_end": 30700
+  },
+  {
+   "text": "f. In case there is a need to shift the escrow account from one bank to another, the same shall be effected in a time-bound manner without impacting the payment cycle to merchants, under advice to RBI.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30702,
+   "char_end": 30903
+  },
+  {
+   "text": "g. For banks, the outstanding balance in the escrow account shall be part of the ‘net demand and time liabilities’ (NDTL) for the purposes of maintenance of reserve requirements. This position shall be computed on the basis of balances appearing in the books of the bank as on the date of reporting.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 30905,
+   "char_end": 31204
+  },
+  {
+   "text": "h. Credits towards reversed transactions (where funds are received by PA) and refund transactions shall be routed back through the escrow account unless the refund is directly managed by the merchant and the payer has been made aware of the same, in terms of the contract between a PA and merchant. The chargeback rights of customers, as applicable, shall remain unaffected.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31206,
+   "char_end": 31580
+  },
+  {
+   "text": "Chapter VI",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 31582,
+   "char_end": 31592
+  },
+  {
+   "text": "Repeal and Savings",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 31594,
+   "char_end": 31612
+  },
+  {
+   "text": "19. The following circulars are hereby repealed except for an existing PA – CB which had applied for authorisation as PA – CB on or before April 30, 2024 and a decision thereon is pending with the Reserve Bank of India:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31614,
+   "char_end": 31833
+  },
+  {
+   "text": "a. A.P. (DIR Series) Circular No. 17 dated November 16, 2010 on ‘Processing and Settlement of Export related receipts facilitated by Online Payment Gateways’",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31835,
+   "char_end": 31992
+  },
+  {
+   "text": "b. A.P. (DIR Series) Circular No. 109 dated June 11, 2013 on ‘Processing and Settlement of Export related receipts facilitated by Online Payment Gateways – Enhancement of the value of transaction’",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 31994,
+   "char_end": 32190
+  },
+  {
+   "text": "c. A.P. (DIR Series) Circular No.16 dated September 24, 2015 on ‘Processing and settlement of import and export related payments facilitated by Online Payment Gateway Service Providers’.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 32192,
+   "char_end": 32378
+  },
+  {
+   "text": "20. The circular DPSS.CO.PD.No.1102/02.14.08/2009-10 dated November 24, 2009 , circular DPSS.CO.OSD.No.1381/06.08.001/2010-2011 dated December 20, 2010 and DPSS.CO.OSD.No.1448/06.08.001/2010-2011 dated December 28, 2010 on ‘Directions for opening and operation of Accounts and settlement of payments for electronic payment transactions involving intermediaries’ is hereby repealed except only in relation to an existing PA – O which has sought authorisation and a decision thereon is pending with the Reserve Bank of India.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 32380,
+   "char_end": 32903
+  },
+  {
+   "text": "21. Save as provided herein, circulars listed in Annexure–3 stands repealed with the issuance of this MD.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 32905,
+   "char_end": 33010
+  },
+  {
+   "text": "22. Notwithstanding such repeal as aforementioned, all authorisation / approvals granted, actions taken, and acknowledgements issued under the aforesaid circulars/ Directions shall continue to be valid and shall be deemed to have been granted under this MD.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33012,
+   "char_end": 33269
+  },
+  {
+   "text": "23. The circulars, directions and guidelines so repealed shall be deemed to have been in force until the date of coming into effect of this MD.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33271,
+   "char_end": 33414
+  },
+  {
+   "text": "Annexure-1",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 33416,
+   "char_end": 33426
+  },
+  {
+   "text": "Baseline Technology-related Recommendations",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 33428,
+   "char_end": 33471
+  },
+  {
+   "text": "Indicative baseline technology-related recommendations for adoption by the PAs (mandatory) and PGs (recommended) are:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33473,
+   "char_end": 33590
+  },
+  {
+   "text": "1. Security-related Recommendations",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 33592,
+   "char_end": 33627
+  },
+  {
+   "text": "The requirements for the entities in respect of IT systems and security are presented below:",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33629,
+   "char_end": 33721
+  },
+  {
+   "text": "1.1. Information Security Governance: The entities at a minimum shall carry out comprehensive security risk assessment of their people, IT, business process environment, etc., to identify risk exposures with remedial measures and residual risks. These can be an internal security audit or an annual security audit by an independent security auditor or a CERT-In empanelled auditor. Reports on risk assessment, security compliance posture, security audit reports and security incidents shall be presented to the Board.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 33723,
+   "char_end": 34240
+  },
+  {
+   "text": "1.2. Data Security Standards: Data security standards and best practices like PCI-DSS, PCI-SSF, latest encryption standards, transport channel security, etc., shall be implemented.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34242,
+   "char_end": 34422
+  },
+  {
+   "text": "1.3. Security Incident Reporting: The entities shall report security incidents / card holder data breaches to RBI within the stipulated timeframe to RBI. Monthly cyber security incident reports with root cause analysis and preventive actions undertaken shall be submitted to RBI.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34424,
+   "char_end": 34703
+  },
+  {
+   "text": "1.4. Merchant Onboarding: The entities shall undertake comprehensive security assessment during merchant onboarding process to ensure these minimal baseline security controls are adhered to by the merchants.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34705,
+   "char_end": 34912
+  },
+  {
+   "text": "1.5. Cyber Security Audit and Reports: The entities shall carry out and submit to the IT Committee quarterly internal and annual external audit reports; bi-annual Vulnerability Assessment / Penetration Test (VAPT) reports; PCI-DSS including Attestation of Compliance (AOC) and Report of Compliance (ROC) compliance report with observations noted if any including corrective / preventive actions planned with action closure date; inventory of applications which store or process or transmit customer sensitive data; PCI-SSF compliance status of payment applications which stores or processes card holder data.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 34914,
+   "char_end": 35522
+  },
+  {
+   "text": "1.6. Information Security: Board approved information security policy shall be reviewed atleast annually. The policy shall consider aspects like: alignment with business objectives; the objectives, scope, ownership and responsibility for the policy; information security organisational structure; information security roles and responsibilities; maintenance of asset inventory and registers; data classification; authorisation; exceptions; knowledge and skill sets required; periodic training and continuous professional education; compliance review and penal measures for non-compliance of policies.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 35524,
+   "char_end": 36124
+  },
+  {
+   "text": "1.7. IT Governance: An IT policy shall be framed for regular management of IT functions and ensure that detailed documentation in terms of procedures and guidelines exists and are implemented. The strategic plan and policy shall be reviewed annually. The Board level IT Governance framework shall have-",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 36126,
+   "char_end": 36428
+  },
+  {
+   "text": "1.7.1. Involvement of Board: The major role of the Board / Top Management shall involve approving information security policies, establishing necessary organisational processes / functions for information security and providing necessary resources.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 36430,
+   "char_end": 36678
+  },
+  {
+   "text": "1.7.2. IT Steering Committee: An IT Steering Committee shall be created with representations from various business functions as appropriate. The Committee shall assist the Executive Management in implementation of the IT strategy approved by the Board. It shall have well defined objectives and actions.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 36680,
+   "char_end": 36983
+  },
+  {
+   "text": "1.7.3. Enterprise Information Model: The entities shall establish and maintain an enterprise information model to enable applications development and decision-supporting activities, consistent with board approved IT strategy. The model shall facilitate optimal creation, use and sharing of information by a business, in a way that it maintains integrity, and is flexible, functional, timely, secure and resilient to failure.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 36985,
+   "char_end": 37409
+  },
+  {
+   "text": "1.7.4. Cyber Crisis Management Plan: The entities shall prepare a comprehensive Cyber Crisis Management Plan approved by the IT strategic committee and shall include components such as Detection, Containment, Response and Recovery.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 37411,
+   "char_end": 37642
+  },
+  {
+   "text": "1.8. Enterprise Data Dictionary: The entities shall maintain an “enterprise data dictionary” incorporating the organisation’s data syntax rules. This shall enable sharing of data across applications and systems, promote a common understanding of data across IT and business users and prevent creation of incompatible data elements.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 37644,
+   "char_end": 37975
+  },
+  {
+   "text": "1.9. Risk Assessment: The risk assessment shall, for each asset within its scope, identify the threat / vulnerability combinations and likelihood of impact on confidentiality, availability or integrity of that asset – from a business, compliance and / or contractual perspective.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 37977,
+   "char_end": 38256
+  },
+  {
+   "text": "1.10. Access to Application: There shall be documented standards / procedures for administering an application system, which are approved by the application owner and kept up-to-date. Access to the application shall be based on the principle of least privilege and “need to know” commensurate with the job responsibilities.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 38258,
+   "char_end": 38581
+  },
+  {
+   "text": "1.11. Competency of Staff: Requirements for trained resources with requisite skill sets for the IT function need to be understood and assessed appropriately with a periodic assessment of the training requirements for human resources.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 38583,
+   "char_end": 38816
+  },
+  {
+   "text": "1.12. Vendor Risk Management: The Service Level Agreements (SLAs) for technology support, including BCP-DR and data management shall categorically include clauses permitting regulatory access to these set-ups.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 38818,
+   "char_end": 39027
+  },
+  {
+   "text": "1.13. Maturity and Roadmap: The entities shall consider assessing their IT maturity level, based on well-known international standards, design an action plan and implement the plan to reach the target maturity level.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 39029,
+   "char_end": 39245
+  },
+  {
+   "text": "1.14. Cryptographic Requirement: The entities shall select encryption algorithms which are well established international standards and which have been subjected to rigorous scrutiny by an international community of cryptographers or approved by authoritative professional bodies, reputable security vendors or government agencies.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 39247,
+   "char_end": 39578
+  },
+  {
+   "text": "1.15. Forensic Readiness: All security events from the entities infrastructure including but not limited to application, servers, middleware, endpoint, network, authentication events, database, web services, cryptographic events and log files shall be collected, investigated and analysed for proactive identification of security alerts.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 39580,
+   "char_end": 39917
+  },
+  {
+   "text": "1.16. Data Sovereignty: The entities shall take preventive measures to ensure storing data in infrastructure that do not belong to external jurisdictions. Appropriate controls shall be considered to prevent unauthorised access to the data.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 39919,
+   "char_end": 40158
+  },
+  {
+   "text": "1.17. Data Security in Outsourcing: There shall be an outsourcing agreement providing ‘right to audit’ clause to enable the entities / their appointed agencies and regulators to conduct security audits. Alternatively, third parties shall submit annual independent security audit reports to the entities.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 40160,
+   "char_end": 40463
+  },
+  {
+   "text": "1.18. Payment Application Security: Payment applications shall be developed as per PCI-SSF guidelines and complied with as required. The entities shall review PCI-DSS compliance status as part of merchant onboarding process.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 40465,
+   "char_end": 40689
+  },
+  {
+   "text": "2. Other Recommendations",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 40691,
+   "char_end": 40715
+  },
+  {
+   "text": "2.1 The customer card credentials shall not be stored within the database or the server accessed by the merchant.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 40717,
+   "char_end": 40830
+  },
+  {
+   "text": "2.2 Option for ATM PIN as a factor of authentication for card not present transactions shall not be given.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 40832,
+   "char_end": 40938
+  },
+  {
+   "text": "2.3 Instructions on storage of payment system data, as applicable to PSOs, shall apply.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 40940,
+   "char_end": 41027
+  },
+  {
+   "text": "2.4 All refunds shall be made to original method of payment unless specifically agreed by the customer to credit an alternate mode.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 41029,
+   "char_end": 41160
+  },
+  {
+   "text": "Annexure-2",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 41162,
+   "char_end": 41172
+  },
+  {
+   "text": "Reports to be submitted by Authorised Payment Aggregators",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 41174,
+   "char_end": 41231
+  },
+  {
+   "text": "Annual",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 41233,
+   "char_end": 41239
+  },
+  {
+   "text": "1. Net-worth Certificate - Audited Annual report with statutory auditor certificate on Net-worth – by September 30th ( Annexure 2.1 ).",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 41241,
+   "char_end": 41375
+  },
+  {
+   "text": "2. IS Audit Report and Cyber Security Audit Report with observations noted, if any, including corrective / preventive action planned with closure date – Externally Audited – as prescribed by RBI. The scope of audit shall encompass all relevant areas of information system processes and applications.",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": false,
+   "char_start": 41377,
+   "char_end": 41676
+  },
+  {
+   "text": "Quarterly",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 41678,
+   "char_end": 41687
+  },
+  {
+   "text": "1. Auditor’s Certificate on Maintenance of Balance in Escrow Account – by 15th of the month following the quarter end. ( Annexure 2.2 and Annexure 2.3 ).",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 41689,
+   "char_end": 41842
+  },
+  {
+   "text": "2. Bankers’ Certificate on Escrow Account Debits and Credits – Internally Audited – by 15th of the month following the quarter end in case of PA – O and PA – P.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 41844,
+   "char_end": 42004
+  },
+  {
+   "text": "3. Bankers’ Certificate on InCA / OCA Debits and Credits – Internally Audited – by 15th of the month following the quarter end in case of PA - CB.",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 42006,
+   "char_end": 42152
+  },
+  {
+   "text": "Monthly",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 42154,
+   "char_end": 42161
+  },
+  {
+   "text": "1. Statistics of Transactions Handled – by 7th of next month ( Annexure 2.4 ).",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 42163,
+   "char_end": 42241
+  },
+  {
+   "text": "Non-periodic",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 42243,
+   "char_end": 42255
+  },
+  {
+   "text": "1. Declaration and Undertaking by the Director - Changes in Board of Directors – as and when happens. – ( Annexure 2.5 )",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 42257,
+   "char_end": 42377
+  },
+  {
+   "text": "Annexure–3",
+   "is_heading": true,
+   "level": 1,
+   "page": null,
+   "table_row": false,
+   "char_start": 42379,
+   "char_end": 42389
+  },
+  {
+   "text": "List of circulars repealed with the issuance of this Master Direction",
+   "is_heading": true,
+   "level": 2,
+   "page": null,
+   "table_row": false,
+   "char_start": 42391,
+   "char_end": 42460
+  },
+  {
+   "text": "S.No. | Circular No. | Date | Subject",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 42462,
+   "char_end": 42499
+  },
+  {
+   "text": "1. | DPSS.CO.PD.No.1810/02.14.008/2019-20 | March 17, 2020 | Guidelines on Regulation of Payment Aggregators and Payment Gateways",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 42501,
+   "char_end": 42630
+  },
+  {
+   "text": "2. | CO.DPSS.POLC.No.S33/02-14-008/2020-2021 | March 31, 2021 | Guidelines on Regulation of Payment Aggregators and Payment Gateways",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 42632,
+   "char_end": 42764
+  },
+  {
+   "text": "3. | CO.DPSS.POLC.No.S-786/02-14-008/2023-24 | October 31, 2023 | Regulation of Payment Aggregator – Cross Border (PA - Cross Border)",
+   "is_heading": false,
+   "level": 0,
+   "page": null,
+   "table_row": true,
+   "char_start": 42766,
+   "char_end": 42899
+  }
+ ],
+ "text": "RBI/DPSS/2025-26/141 CO.DPSS.POLC.No.S-633/02-14-008/2025-26\n\nSeptember 15, 2025\n\nPrevious Versions\n\nAll Payment System Providers and Payment System Participants / All Authorised Dealer banks / All Scheduled Commercial Banks\n\nMadam / Dear Sir,\n\nMaster Direction on Regulation of Payment Aggregator (PA) (Updated as on November 11, 2026)\n\nThe Reserve Bank of India had issued the ‘Guidelines on Regulation of Payment Aggregators and Payment Gateways’ vide circular DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020 and CO.DPSS.POLC.No.S33/02-14-008/2020-2021 dated March 31, 2021 for regulation of entities that were engaged in online payment aggregation. Further, vide circular CO.DPSS.POLC.No.S-786/02-14-008/2023-24 dated October 31, 2023 , directions were issued on ‘Regulation of Payment Aggregator – Cross Border (PA - Cross Border)’.\n\n2. Subsequently on April 16, 2024 , Reserve Bank of India, placed on its website, for public comments, the following draft directions on regulation of PA:\n\n‘ New draft directions on regulation of Payment Aggregators – Physical Point of Sale ’, and\n\n‘ Amendments to the existing directions on Payment Aggregators ’.\n\n3. On a review of the inputs received and in line with RBI’s endeavour to further rationalise the regulations, this comprehensive Master Direction is issued under Section 18 read with Section 10 (2) of the Payment and Settlement Systems Act, 2007, and Section 10 (4) and Section 11 (1) of the Foreign Exchange Management Act (FEMA), 1999 for regulation of various categories of PA.\n\nYours faithfully,\n\n(Sara Rajendra Kumar Neti) Chief General Manager-in-Charge\n\nEncl.: As above\n\nMaster Direction on Regulation of Payment Aggregators\n\nIn exercise of the powers conferred by Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007 (51 of 2007), and Section 10 (4) and Section 11 (1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999), the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, hereby, issues the Directions hereinafter specified.\n\nChapter I\n\nPreliminary\n\n1. Short Title and Commencement\n\na. These Directions shall be called the Reserve Bank of India (Regulation of Payment Aggregators) Directions, 2025.\n\n2. Effective Date\n\na. These Directions shall be effective immediately unless indicated otherwise for any specific provision herein.\n\n3. Applicability\n\na. These Directions shall apply to all bank and non-bank entities undertaking the business of Payment Aggregator (PA) as defined herein. These Directions shall also apply to all Authorised Dealer banks as well as Scheduled Commercial Banks which engage with entities undertaking PA business, to the extent hereinafter specified.\n\n4. Definitions\n\na. Cash-on-delivery transaction: A merchant transaction wherein banknotes or currency notes, being legal tender in India, is offered or tendered, for and at the time of, delivery of goods and / or service(s).\n\nb. Contact Point Verification (CPV): Physical verification of the address or place of business of the merchant.\n\nc. E-commerce: Buying and selling of goods and services, including digital products, conducted over digital and electronic network.\n\nExplanation: For the purposes of this definition, the term ‘digital & electronic network’ shall include network of computers, television channels and any other internet application used in automated manner such as web pages, extranets, mobiles, etc.\n\nd. Inward transaction: Transaction involving the inflow of foreign exchange.\n\ne. Marketplace: An e-commerce entity which provides an information technology platform on a digital or electronic network to facilitate transactions between buyer(s) and seller(s).\n\nf. Merchant: An entity or a marketplace that sells goods, provides services, or offers investment products, and includes exporters and overseas sellers.\n\ng. Outward transaction: Transaction involving the outflow of foreign exchange.\n\nh. Payment channel: The method or manner through which payment instruction is initiated and processed in a payment system.\n\ni. Payment Aggregator (PA): An entity that facilitates aggregation of payments made by customers to the merchants through one or more payment channels through the merchant’s interface (physical / virtual) for purchase of goods, services or investment products, and subsequently settles the collected funds to such merchants. PA is categorised as below:\n\ni. PA – Physical (PA – P): PA that facilitates transaction(s) where both the acceptance device and payment instrument are physically present in close proximity while making the transaction.\n\nii. PA – Cross Border (PA – CB): PA that facilitates aggregation of cross-border payments for current account transactions, that are not prohibited under FEMA, for its onboarded merchants through e-commerce mode. There are two sub-categories of PA-CB:\n\nPA-CB facilitating inward transaction\n\nPA-CB facilitating outward transaction\n\nNote: (1) A non-bank entity authorised as AD Category-II, and facilitating current account transactions not prohibited under FEMA (other than purchase or sale of goods or service), shall not fall within the purview of PA – CB business.\n\n(2) A card transaction, where the foreign exchange settlement is facilitated by a card network and the aggregator receives the payment in local currency, is not part of PA – CB activity.\n\niii. PA – Online (PA – O): PA that facilitates transaction(s) where the acceptance device and payment instrument are not present in close proximity while making the transaction.\n\nj. Payment Gateway (PG): An entity that provides technology infrastructure to route and facilitate processing of a payment transaction without any involvement in handling of funds.\n\nk. Central KYC Records Registry (CKYCR), Officially Valid Document (OVD), equivalent e-document, digital KYC, and Video-based Customer Identification Procedure (V-CIP) shall have the same meanings as defined in RBI Master Direction DOR.AML.REC.No.88/14.01.002/2025-26 dated November 28, 2025 on ‘Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025’, as applicable to the regulated entities and as amended from time to time (hereinafter referred to as ‘MD on KYC').\n\nChapter II\n\nAuthorisation and Capital Requirements\n\n5. Authorisation for PA Business\n\na. A bank does not require authorisation to carry out PA business.\n\nb. A non-bank entity shall seek authorisation for operating as a PA by submitting an application through RBI’s online portal . An entity, regulated by any of the financial sector regulator(s), shall apply along with a ‘No Objection Certificate’ (NOC) from such regulator(s), within 45 days of obtaining the NOC.\n\nc. A non-bank PA shall be a company incorporated in India under the Companies Act, 2013. The Memorandum of Association of the applicant entity should cover the proposed activity of operating as a PA.\n\nd. Following is applicable from the date of these Directions:\n\ni. A PA having a Certificate of Authorisation (CoA) issued by RBI, and\n\nalready carrying on business as a PA-P – shall intimate RBI. A revised CoA shall be issued to the PA.\n\ndesirous of commencing business in another PA category – shall intimate RBI at least 30 days prior to commencing the new business.\n\nii. An entity, whose application for grant of CoA for PA-O or PA – CB is under consideration of RBI – shall intimate the Reserve Bank about its existing PA-P business, if any, through the online portal, by December 31, 2025.\n\niii. An entity carrying on only PA-P business shall apply for authorisation as prescribed in 5 (b) above, by December 31, 2025. An entity which fails to apply by the due date shall intimate its banker(s) forthwith and wind up its business by February 28, 2026.\n\ne. Application of an entity, not meeting the minimum capital requirement, or which is incomplete / not in the prescribed form, shall be returned.\n\n6. Capital Requirements\n\na. An entity seeking authorisation to commence or carry on PA business shall have a minimum net-worth of ₹15 crore at the time of tendering application for authorisation; and shall attain a minimum net-worth of ₹25 crore by the end of third financial year of grant of authorisation.\n\nb. The minimum networth, as applicable, shall be maintained by a PA on an ongoing basis.\n\nc. For the purposes of this MD, computation of net worth of an entity shall be guided by the directions in RBI Circular DPSS.CO.AUTH.No.S-239/02-27-004/2026-27 dated June 15, 2026 on ‘Master Directions on Authorisation to operate a Payment System’, as amended from time to time. In addition to the items provided in the said circular, “net worth” shall also include preference shares that are compulsorily convertible to equity. Compulsorily convertible preference shares can be either non-cumulative or cumulative, and they should be compulsorily convertible into equity shares and the shareholder agreements should specifically prohibit any withdrawal of this preference share capital at any time. Additionally, if Deferred Tax Assets have been included in any of the components, the same shall be deducted while arriving at the net-worth value.\n\nd. An entity, having Foreign Direct Investment (FDI), shall be guided by the Consolidated FDI Policy of the Government of India, and the relevant Foreign Exchange Management Regulations on this subject.\n\ne. An entity seeking PA authorisation shall submit a certificate in the enclosed format ( Annexure 2.1 ) from their statutory auditor evidencing compliance with the applicable net-worth requirement while submitting the application for authorisation. A newly incorporated non-bank entity which may not have an audited statement of financial accounts shall submit a certificate in the enclosed format from their statutory auditor regarding current networth along with a provisional balance sheet as of recent date.\n\nChapter III\n\nConduct of PA business\n\n7. Governance\n\na. A PA shall be professionally managed. The promoters and directors of the entity shall satisfy the fit and proper criteria as below:\n\ni. The person has a record of fairness and integrity, including but not limited to:\n\nfinancial integrity;\n\ngood reputation and character; and\n\nhonesty;\n\nii. Such person has not incurred any of the following disqualifications:\n\nConvicted by a court for any offence involving moral turpitude or any economic offence or any offence under the laws administered by the RBI;\n\nAdjudged insolvent and not discharged;\n\nAn order, restraining, prohibiting or debarring the person from accessing / dealing in any financial system, passed by any regulatory authority, and the period specified in the order has not elapsed;\n\nFound to be of unsound mind by a court of competent jurisdiction and the finding is in force; and\n\nIs financially not sound.\n\nb. The promoters and directors of the applicant entity may submit a declaration in the enclosed format ( Annexure 2.5 ). RBI may also check ‘fit and proper’ status of the applicant entity and management thereof by obtaining inputs from other regulators, government departments, etc., as deemed fit. As regards fulfilment of ‘fit and proper’ criteria, RBI’s decision shall be final.\n\nc. Any takeover or acquisition of control or change in the management of a non-bank PA shall adhere to RBI circular CO.DPSS.POLC.No.S-590/02-14-006/2022-23 dated July 4, 2022 on ‘Requirement for obtaining prior approval in case of takeover / acquisition of control of non-bank PSOs and sale / transfer of payment system activity of non-bank PSO’, as amended from time to time. This provision shall also apply to an entity whose application for authorisation as PA is pending with RBI.\n\n8. Dispute Management Framework\n\na. A PA shall have a dispute resolution mechanism to handle payment related disputes in transactions facilitated by it. The mechanism should also include timelines for processing refunds, etc. The policy shall ensure adherence to the instructions issued by RBI including on Turn Around Time (TAT) for resolution of failed transactions issued vide DPSS.CO.PD No.629/02.01.014/2019-20 dated September 20, 2019 (as amended from time to time). This includes assigning of proper reason codes, responding to chargeback, disputes raised against their onboarded merchants, etc.\n\nb. Agreements between a PA, its merchants, its acquiring banks, and all other stakeholders shall clearly delineate the roles and responsibilities of the involved parties, inter alia covering manner of refunds, treatment of failed transactions, return policy, grievance redressal, reconciliation, etc.\n\nc. The PA shall disclose comprehensive information regarding its merchant policies, privacy policy and other terms and conditions on its website and / or its mobile application.\n\nd. The PA shall appoint an officer responsible for responding to issues raised by its merchants along with an escalation matrix for grievance redressal. Details of the officer and escalation matrix shall be prominently displayed on its website.\n\n9. Security, Fraud Prevention and Risk Management Framework\n\na. A strong risk management system is necessary to meet the challenges of fraud and ensure customer protection. PA shall put in place adequate Information and Data Security infrastructure and systems for detection and prevention of frauds. PA shall ensure that infrastructure of the merchants is compliant with security standards like PCI-DSS and PCI-SSF, as may be applicable.\n\nb. PA shall put in place a Board approved Information Security Policy for safety and security of the payment systems operated by it and implement security measures in accordance with the said policy to mitigate identified as well as emerging risks. PA shall ensure adherence to baseline technology-related recommendations as provided in Annexure 1 .\n\nc. PA shall comply with data storage requirements as applicable to Payment System Operators (PSOs) as laid out in RBI circular DPSS.CO.OD No.2785/06.08.005/2017-2018 dated April 6, 2018 on ‘Storage of Payment System Data’, as amended from time to time.\n\nd. An annual system audit, including cyber security audit, conducted by CERT-In empanelled auditors shall be carried out and report thereof shall be submitted to the respective Regional Office of DPSS, RBI within such timelines as may be prescribed by RBI.\n\ne. The PA shall also be guided by RBI circular CO.DPSS.CSD.No.S825/01-01-078/2026-2027 dated November 05, 2026 on ‘Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators’, as amended from time to time.\n\n10. General Directions\n\na. A PA shall aggregate funds only for the merchant with whom it has a contractual relationship.\n\nb. A PA business shall not carry out marketplace business.\n\nc. A PA shall ensure that the extant instructions with regard to Merchant Discount Rate (MDR) are followed. A PA shall also ensure that any charges, other than the price of goods / service / investment amount, charged by a merchant, are distinctly displayed to the payer prior to the transaction.\n\nd. A PA shall not place limits on transaction amount for a particular payment mode. The responsibility thereof shall lie with the issuing bank / non-bank entity; for instance, the card issuing bank shall be responsible for placing transaction amount limits on cards issued by it based on the customer’s credit worthiness, spending nature, profile, etc.\n\ne. A PA shall not give an option for ATM PIN as a factor of authentication for card-not-present transactions.\n\nf. All refunds shall be made to the original method of payment, unless specifically instructed by the payer to credit the refund to an alternate mode belonging to the same payer.\n\ng. A PG, as defined in paragraph 4(j), shall not fall within the scope of this MD. However, a PG is encouraged to adopt the baseline technology recommendations of the Reserve Bank of India (appended as Annexure 1 ).\n\nh. A PA may avail services of a PG in terms of RBI circular DOR.ORG.REC.No.90/21-04-158/2025-26 on Reserve Bank of India (Managing Risks in Outsourcing) Directions 2025, as applicable to the regulated entities and as amended from time to time and CO.DPSS.POLC.No.S-384/02.32.001/2021-2022 dated August 3, 2021 on 'Framework for Outsourcing of Payment and Settlement-related Activities by Payment System Operators', as applicable and amended from time to time.\n\n11. Specific Directions applicable to PA – CB\n\na. Funds related to inward and outward transactions as carried out by a PA-CB shall be kept separate. No co-mingling of funds or netting off for outward and inward transactions is permitted under any circumstance.\n\nb. For outward transactions, a PA - CB may directly on-board merchants located abroad or enter into agreement with e-commerce marketplaces or entities providing PA services abroad.\n\nc. Outward transactions can be carried out using any payment instrument provided by authorised payment systems in India, except small Prepaid Payment Instrument.\n\nd. A PA-CB shall not purchase foreign currency from, or sell it to, any entity other than an Authorised Dealer (AD). In respect of inward or outward transactions processed by a PA - CB, the maximum value per transaction shall be ₹25 lakh.\n\ne. AD-I banks maintaining Inward Collection Accounts (InCAs) / Outward Collection Accounts (OCAs), as defined in paragraph 16a. below of this MD, shall ensure that all requirements under FEMA are adhered to.\n\nf. AD-I Bank shall have automated processes to fetch the requisite information from a PA – CB.\n\ng. To establish the bonafides of a transaction, the payment transaction (outward / inward) shall be identified as a cross-border transaction. A Payment System Provider shall make provisions for implementation of the same from such timelines as specified by RBI.\n\nh. PA – CB shall provide the documents / information required by the exporter / importer to the AD bank of the exporter / importer, for closure of their corresponding entry in Export Data Processing and Monitoring System (EDPMS) / Import Data Processing and Management System (IDPMS), wherever applicable, (for the respective inward / outward remittance), in compliance with the extant directions.\n\ni. Settlement in non-INR currencies shall be permitted only for those merchants (Indian exporters) which have been directly onboarded by the PA – CB facilitating inward transactions.\n\n12. Reports\n\nAn authorised PA shall submit reports as listed in Annexure 2 of this MD.\n\nChapter IV\n\nKYC and Due Diligence\n\n13. Due Diligence by PA\n\na. A PA shall undertake customer due diligence (CDD) of its merchants in accordance with MD on KYC. While onboarding, the PA shall, with the merchant’s consent, retrieve the merchant’s KYC record from CKYCR. The process defined in MD on KYC should be followed in case CKYCR record is found to be not updated.\n\nb. Where a merchant’s record is not available in CKYCR, or a PA cannot access CKYCR as its application for authorisation is pending with the Reserve Bank, CDD of the merchant could be carried out through other mechanisms outlined in MD on KYC. If the merchant’s annual turnover does not exceed ₹40 lakh, or its annual export turnover does not exceed ₹5 lakh, the following process could also be adopted as an alternative:\n\nObtain a copy of the PAN / Form 60 of the merchant and verify the PAN from issuing authority.\n\nConduct CPV of the merchant.\n\nObtain a certified copy of one officially valid document (OVD) of the proprietor or of the person holding power of attorney to operate the account, as applicable. One of the documents or the equivalent e-documents, as prescribed for CDD of sole-proprietary firms or legal entities, should be verified.\n\nc. A PA shall undertake background and antecedent check of the merchant.\n\nd. In case a PA contracts with another PA that onboards the merchant, the latter is responsible for carrying out due diligence of the merchant.\n\ne. PA shall facilitate allotment of appropriate Merchant Category Code and Merchant ID / Terminal ID to its merchants including those onboarded through an overseas PA. PA shall ensure that name of the merchant is captured appropriately for all transactions processed for it.\n\nf. A PA shall ensure that a marketplace onboarded by it does not accept payments for a seller not onboarded on to the marketplace’s platform.\n\ng. Necessary validation mechanisms shall be put in place by a PA to ensure that funds due to a merchant are credited in the merchant’s bank account only.\n\nh. The PA must also monitor transactions subsequently undertaken by the merchants to ensure that these transactions are in line with latter’s business profile and ensure adherence to other aspects of MD on KYC while conducting its operations.\n\ni. Non-bank PA shall register itself with the Financial Intelligence Unit-India (FIU-IND) in compliance with MD on KYC and meet the reporting requirements listed therein.\n\nj. A PA, including an existing PA whose application is pending with Reserve Bank of India for authorisation, shall ensure that merchants onboarded till December 31, 2025, comply with the above due diligence requirements within one year from the date of this MD. From January 1, 2026, merchants should be onboarded in accordance with due diligence requirements prescribed in this MD.\n\n14. Responsibilities of Acquiring Bank\n\na. Acquiring bank shall have a policy for processing payments for merchants acquired through an authorised non-bank PA.\n\nb. Acquiring bank need not undertake the customer due diligence of the merchant itself but should be able to obtain the required details whenever required.\n\nc. Acquiring Bank of a non-bank PA shall ensure that merchants onboarded by the PA are in compliance with acquiring bank’s policy for merchant acquiring.\n\n15. Due Diligence through assisted mode\n\na. A non-bank PA may utilise agents to undertake the following activities related to due diligence of merchants:\n\nDigital KYC process as provided in Annex–I of MD – KYC (in lieu of Business Correspondents)\n\nAssisted V-CIP, only by the agent assisting the individual / proprietor / power of attorney holder / beneficial owner / authorised signatory of the merchant, in terms of Paragraph 18 of MD on KYC. PA shall maintain the details of the agent assisting the merchant, where services of such agents are employed.\n\nb. The non-bank PA shall carry out due diligence of the persons appointed as authorised / designated agents.\n\nc. The ultimate responsibility of due diligence shall lie on PA and agents can only be used for limited purposes as prescribed above.\n\nChapter V\n\nSettlement of funds and Escrow accounts\n\n16. Escrow accounts of PA\n\na. A non-bank PA shall maintain the funds collected on behalf of its merchants in a separate escrow account with any Scheduled Commercial Bank (SCB) in India. In case of a PA – CB, such account shall also be referred to as Inward Collection Account (InCA) for inward transactions and Outward Collection Account (OCA) for outward transactions, as applicable. Details of operations in escrow accounts are incorporated in Table 1 below and the instructions mentioned therein must be adhered to by December 31, 2025. Such escrow accounts shall only be utilised for authorised PA business and not for any other business.\n\nTable 1 - Escrow Account Requirements\n\nParticulars | Escrow Account (Domestic) | Inward Collection Account (InCA) | Outward Collection Account (OCA)\n\nGeneral requirements\n\nOpened with | SCB. | Authorised Dealer Category-I SCB. | Authorised Dealer Category-I SCB.\n\nAccount constitutes | Collection of funds on behalf of merchants onboarded by PA. | Collection of proceeds of inward transactions on behalf of merchants onboarded by PA. | Collection of proceeds of outward transactions to the overseas sellers onboarded by PA-CB.\n\nCurrency | INR | Separate account for INR and / or each non-INR currency. | INR\n\nOperational requirements\n\nPre-funding | Allowed. | Not permitted.\n\nWithdrawal of pre-funding | Not permitted. | Not applicable.\n\nAdditional Escrow Account (at the discretion of PA) | One additional account may be maintained in a different SCB. | One additional account may be maintained in a different SCB (for each currency). | One additional account may be maintained in a different SCB.\n\nInter-escrow A/c transfer | Auditor’s certificate needed for such transactions. | Not permitted.\n\nPermitted credits | i) Receipt of funds from payers for merchants, onboarded towards purchase of goods / services / investments; ii) Receipt of funds from other PAs for settlement to their merchant iii) Refunds thereof initiated by merchants (failed / disputed / returned / cancelled transactions) iv) Pre-funding through own / merchant’s funds. v) Payment received for onward transfer to merchants under promotional activities, incentives, cash-backs, etc. | Same as that of Escrow Account (Domestic) except iv).\n\nPermitted debits | i) Payments to onboarded merchants, towards sale of goods/services/investments and amount received under promotional activities, incentives, cashbacks, etc. ii) Refund to be credited to the payer for the reversals of purchase transactions, iii) Payment to another PA or PA – CB facilitating outward transactions which is part of the transaction flow, for ultimate settlement of funds to the merchant. Note: This permitted debit shall not be used to transfer funds from an entity acting as a BBPOU, as defined in Master Direction on BBPS to its BBPS escrow account except in case where the entity acts as a PA to an Agent Institution and on its behalf transfers funds to the BBPS escrow account of the BBPOU. iv) Payment to any other account (third party), on specific direction of a merchant, having physical or online presence with an annual turnover above ₹40 lakh or an annual export turnover of more than ₹5 lakh, provided the third party is the payee that interfaces with the payer for purchase / delivery of goods, services or investment products, for the underlying transaction. v) Payment of commission to the PA. | Same as that of Escrow Account (Domestic), except iv).\n\nMaintenance of day end balance in escrow account | Shall not be less than the amount realised in escrow towards funds payable to the merchants, but not settled to them.\n\nInterest-bearing | No interest shall be payable on the balances maintained in the escrow account(s) except on the core portion amount of the domestic escrow account, subject to the conditions prescribed in paragraph 17 below. | No interest shall be payable on the balances.\n\nTimelines\n\nEscrow a/c by existing PA | Within two months from the date of authorisation by the Reserve Bank of India. PA may migrate funds to an escrow account prior to authorisation but protection under paragraph 16 (b) of these Directions shall be available only after authorisation.\n\nCredit to merchant’s a/c | As per the agreement between the PA and the merchant. Such an agreement should be fair, equitable and must transparently mention the settlement timelines.\n\nNote: (a) An entity authorised to carry out PA-O and PA-P businesses shall use the same escrow account for both the business activities. (b) For the purposes of these directions, ‘Core Portion’ shall be computed as under: Step 1: Compute lowest daily outstanding balance (LB) in the escrow account on a fortnightly (FN) basis, for 26 fortnights from the preceding month. Step 2: Calculate the average of the lowest fortnightly outstanding balances [(LB1 of FN1+ LB2 of FN2+ ........+ LB26 of FN26) divided by26]. Step 3: The average balance so computed represents the \"Core Portion\" eligible to earn interest.\n\nb. For the purposes of maintenance of an escrow account, payment system operated by PA shall be deemed to be ‘designated payment systems’ under Section 23A of the Payment and Settlements Systems Act, 2007.\n\n17. Core portion of escrow accounts\n\na. The core portion of escrow account shall continue to be maintained within the escrow account maintained for PA activity.\n\nb. This facility shall be permissible to entities who have been in business for twenty-six (26) fortnights and whose accounts have been duly audited for the full accounting year. For this purpose, the period of twenty-six fortnights shall be calculated from the date of actual business operation in the account.\n\nc. No loan is permissible against the core portion. Banks shall not issue any receipt for such deposits which may entitle PA to the funds available in the core portion or mark any lien on the amount held in such form of deposits.\n\nd. The core portion shall be calculated separately for each escrow account. The escrow balance maintained shall be clearly disclosed in the auditor’s certificates to be submitted to RBI on quarterly and annual basis.\n\n18. General directions on Escrow account of PA\n\na. PA shall submit the list of merchants onboarded by it to the bank where it is maintaining the escrow account and update the list prior to initiating settlement to these merchants. This list includes eligible third parties to which PA – O or PA - P would be settling funds on the instructions of the merchant as detailed in permitted debits in Table 1 above. The bank shall ensure that payments are made only to eligible merchants and for permissible debits or credits as defined under this MD. There shall be an exclusive clause in the agreement signed between the PA and the bank maintaining escrow account towards usage of balance in escrow account only as per the permissible debits or credits as mentioned in Table 1 above.\n\nb. The escrow account shall not be operated for ‘Cash-on-Delivery’ transactions.\n\nc. Funds for an outward transaction may be received in the escrow account of the PA (and then transferred to the OCA of PA – CB) or directly in OCA of the PA - CB. Onward transfer to the foreign merchants shall be carried out only by debit to the OCA.\n\nd. In case a PA-CB also engages in domestic PA activity, InCA and OCA shall be kept separate from the escrow account(s) opened for such domestic PA activity.\n\ne. A certificate, signed by the statutory auditor(s), shall be submitted by the authorised entities to the respective Regional Office of DPSS, RBI, where registered office of PA is situated, certifying that the entity has been maintaining balance(s) in the escrow account(s) in compliance with these instructions, as per periodicity prescribed in Annexure 2 . In case an additional escrow account is being maintained, it shall be ensured that balances in both accounts are considered for the above certification and that these are separately mentioned in the certificate. The certificates shall be submitted separately for domestic activity, i.e. PA – O / P and cross border activity, i.e. PA – CB.\n\nf. In case there is a need to shift the escrow account from one bank to another, the same shall be effected in a time-bound manner without impacting the payment cycle to merchants, under advice to RBI.\n\ng. For banks, the outstanding balance in the escrow account shall be part of the ‘net demand and time liabilities’ (NDTL) for the purposes of maintenance of reserve requirements. This position shall be computed on the basis of balances appearing in the books of the bank as on the date of reporting.\n\nh. Credits towards reversed transactions (where funds are received by PA) and refund transactions shall be routed back through the escrow account unless the refund is directly managed by the merchant and the payer has been made aware of the same, in terms of the contract between a PA and merchant. The chargeback rights of customers, as applicable, shall remain unaffected.\n\nChapter VI\n\nRepeal and Savings\n\n19. The following circulars are hereby repealed except for an existing PA – CB which had applied for authorisation as PA – CB on or before April 30, 2024 and a decision thereon is pending with the Reserve Bank of India:\n\na. A.P. (DIR Series) Circular No. 17 dated November 16, 2010 on ‘Processing and Settlement of Export related receipts facilitated by Online Payment Gateways’\n\nb. A.P. (DIR Series) Circular No. 109 dated June 11, 2013 on ‘Processing and Settlement of Export related receipts facilitated by Online Payment Gateways – Enhancement of the value of transaction’\n\nc. A.P. (DIR Series) Circular No.16 dated September 24, 2015 on ‘Processing and settlement of import and export related payments facilitated by Online Payment Gateway Service Providers’.\n\n20. The circular DPSS.CO.PD.No.1102/02.14.08/2009-10 dated November 24, 2009 , circular DPSS.CO.OSD.No.1381/06.08.001/2010-2011 dated December 20, 2010 and DPSS.CO.OSD.No.1448/06.08.001/2010-2011 dated December 28, 2010 on ‘Directions for opening and operation of Accounts and settlement of payments for electronic payment transactions involving intermediaries’ is hereby repealed except only in relation to an existing PA – O which has sought authorisation and a decision thereon is pending with the Reserve Bank of India.\n\n21. Save as provided herein, circulars listed in Annexure–3 stands repealed with the issuance of this MD.\n\n22. Notwithstanding such repeal as aforementioned, all authorisation / approvals granted, actions taken, and acknowledgements issued under the aforesaid circulars/ Directions shall continue to be valid and shall be deemed to have been granted under this MD.\n\n23. The circulars, directions and guidelines so repealed shall be deemed to have been in force until the date of coming into effect of this MD.\n\nAnnexure-1\n\nBaseline Technology-related Recommendations\n\nIndicative baseline technology-related recommendations for adoption by the PAs (mandatory) and PGs (recommended) are:\n\n1. Security-related Recommendations\n\nThe requirements for the entities in respect of IT systems and security are presented below:\n\n1.1. Information Security Governance: The entities at a minimum shall carry out comprehensive security risk assessment of their people, IT, business process environment, etc., to identify risk exposures with remedial measures and residual risks. These can be an internal security audit or an annual security audit by an independent security auditor or a CERT-In empanelled auditor. Reports on risk assessment, security compliance posture, security audit reports and security incidents shall be presented to the Board.\n\n1.2. Data Security Standards: Data security standards and best practices like PCI-DSS, PCI-SSF, latest encryption standards, transport channel security, etc., shall be implemented.\n\n1.3. Security Incident Reporting: The entities shall report security incidents / card holder data breaches to RBI within the stipulated timeframe to RBI. Monthly cyber security incident reports with root cause analysis and preventive actions undertaken shall be submitted to RBI.\n\n1.4. Merchant Onboarding: The entities shall undertake comprehensive security assessment during merchant onboarding process to ensure these minimal baseline security controls are adhered to by the merchants.\n\n1.5. Cyber Security Audit and Reports: The entities shall carry out and submit to the IT Committee quarterly internal and annual external audit reports; bi-annual Vulnerability Assessment / Penetration Test (VAPT) reports; PCI-DSS including Attestation of Compliance (AOC) and Report of Compliance (ROC) compliance report with observations noted if any including corrective / preventive actions planned with action closure date; inventory of applications which store or process or transmit customer sensitive data; PCI-SSF compliance status of payment applications which stores or processes card holder data.\n\n1.6. Information Security: Board approved information security policy shall be reviewed atleast annually. The policy shall consider aspects like: alignment with business objectives; the objectives, scope, ownership and responsibility for the policy; information security organisational structure; information security roles and responsibilities; maintenance of asset inventory and registers; data classification; authorisation; exceptions; knowledge and skill sets required; periodic training and continuous professional education; compliance review and penal measures for non-compliance of policies.\n\n1.7. IT Governance: An IT policy shall be framed for regular management of IT functions and ensure that detailed documentation in terms of procedures and guidelines exists and are implemented. The strategic plan and policy shall be reviewed annually. The Board level IT Governance framework shall have-\n\n1.7.1. Involvement of Board: The major role of the Board / Top Management shall involve approving information security policies, establishing necessary organisational processes / functions for information security and providing necessary resources.\n\n1.7.2. IT Steering Committee: An IT Steering Committee shall be created with representations from various business functions as appropriate. The Committee shall assist the Executive Management in implementation of the IT strategy approved by the Board. It shall have well defined objectives and actions.\n\n1.7.3. Enterprise Information Model: The entities shall establish and maintain an enterprise information model to enable applications development and decision-supporting activities, consistent with board approved IT strategy. The model shall facilitate optimal creation, use and sharing of information by a business, in a way that it maintains integrity, and is flexible, functional, timely, secure and resilient to failure.\n\n1.7.4. Cyber Crisis Management Plan: The entities shall prepare a comprehensive Cyber Crisis Management Plan approved by the IT strategic committee and shall include components such as Detection, Containment, Response and Recovery.\n\n1.8. Enterprise Data Dictionary: The entities shall maintain an “enterprise data dictionary” incorporating the organisation’s data syntax rules. This shall enable sharing of data across applications and systems, promote a common understanding of data across IT and business users and prevent creation of incompatible data elements.\n\n1.9. Risk Assessment: The risk assessment shall, for each asset within its scope, identify the threat / vulnerability combinations and likelihood of impact on confidentiality, availability or integrity of that asset – from a business, compliance and / or contractual perspective.\n\n1.10. Access to Application: There shall be documented standards / procedures for administering an application system, which are approved by the application owner and kept up-to-date. Access to the application shall be based on the principle of least privilege and “need to know” commensurate with the job responsibilities.\n\n1.11. Competency of Staff: Requirements for trained resources with requisite skill sets for the IT function need to be understood and assessed appropriately with a periodic assessment of the training requirements for human resources.\n\n1.12. Vendor Risk Management: The Service Level Agreements (SLAs) for technology support, including BCP-DR and data management shall categorically include clauses permitting regulatory access to these set-ups.\n\n1.13. Maturity and Roadmap: The entities shall consider assessing their IT maturity level, based on well-known international standards, design an action plan and implement the plan to reach the target maturity level.\n\n1.14. Cryptographic Requirement: The entities shall select encryption algorithms which are well established international standards and which have been subjected to rigorous scrutiny by an international community of cryptographers or approved by authoritative professional bodies, reputable security vendors or government agencies.\n\n1.15. Forensic Readiness: All security events from the entities infrastructure including but not limited to application, servers, middleware, endpoint, network, authentication events, database, web services, cryptographic events and log files shall be collected, investigated and analysed for proactive identification of security alerts.\n\n1.16. Data Sovereignty: The entities shall take preventive measures to ensure storing data in infrastructure that do not belong to external jurisdictions. Appropriate controls shall be considered to prevent unauthorised access to the data.\n\n1.17. Data Security in Outsourcing: There shall be an outsourcing agreement providing ‘right to audit’ clause to enable the entities / their appointed agencies and regulators to conduct security audits. Alternatively, third parties shall submit annual independent security audit reports to the entities.\n\n1.18. Payment Application Security: Payment applications shall be developed as per PCI-SSF guidelines and complied with as required. The entities shall review PCI-DSS compliance status as part of merchant onboarding process.\n\n2. Other Recommendations\n\n2.1 The customer card credentials shall not be stored within the database or the server accessed by the merchant.\n\n2.2 Option for ATM PIN as a factor of authentication for card not present transactions shall not be given.\n\n2.3 Instructions on storage of payment system data, as applicable to PSOs, shall apply.\n\n2.4 All refunds shall be made to original method of payment unless specifically agreed by the customer to credit an alternate mode.\n\nAnnexure-2\n\nReports to be submitted by Authorised Payment Aggregators\n\nAnnual\n\n1. Net-worth Certificate - Audited Annual report with statutory auditor certificate on Net-worth – by September 30th ( Annexure 2.1 ).\n\n2. IS Audit Report and Cyber Security Audit Report with observations noted, if any, including corrective / preventive action planned with closure date – Externally Audited – as prescribed by RBI. The scope of audit shall encompass all relevant areas of information system processes and applications.\n\nQuarterly\n\n1. Auditor’s Certificate on Maintenance of Balance in Escrow Account – by 15th of the month following the quarter end. ( Annexure 2.2 and Annexure 2.3 ).\n\n2. Bankers’ Certificate on Escrow Account Debits and Credits – Internally Audited – by 15th of the month following the quarter end in case of PA – O and PA – P.\n\n3. Bankers’ Certificate on InCA / OCA Debits and Credits – Internally Audited – by 15th of the month following the quarter end in case of PA - CB.\n\nMonthly\n\n1. Statistics of Transactions Handled – by 7th of next month ( Annexure 2.4 ).\n\nNon-periodic\n\n1. Declaration and Undertaking by the Director - Changes in Board of Directors – as and when happens. – ( Annexure 2.5 )\n\nAnnexure–3\n\nList of circulars repealed with the issuance of this Master Direction\n\nS.No. | Circular No. | Date | Subject\n\n1. | DPSS.CO.PD.No.1810/02.14.008/2019-20 | March 17, 2020 | Guidelines on Regulation of Payment Aggregators and Payment Gateways\n\n2. | CO.DPSS.POLC.No.S33/02-14-008/2020-2021 | March 31, 2021 | Guidelines on Regulation of Payment Aggregators and Payment Gateways\n\n3. | CO.DPSS.POLC.No.S-786/02-14-008/2023-24 | October 31, 2023 | Regulation of Payment Aggregator – Cross Border (PA - Cross Border)"
+}
