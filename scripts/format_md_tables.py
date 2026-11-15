@@ -4,7 +4,7 @@ import re
 import sys
 from pathlib import Path
 
-SPLIT = re.compile(r"(?<!\)\|")
+SPLIT = re.compile(r"(?<!\\)\|")
 NUMERIC = re.compile(r"[~≈]?[-–$₹]?\d[\d.,]*\s*(%|s|ms|/\d+)?(\s*\([\d.]+\))?|[-–]|")
 
 

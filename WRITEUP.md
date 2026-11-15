@@ -1,15 +1,15 @@
 # Write-up: RAG over Indian digital payments & lending regulation
 
-**Setup.** 15 public RBI and MeitY documents (~240 page-equivalents, 7 superseded) plus one planted injection note; details in `corpus/metadata.csv`. Retrieval: `bge-base` + FAISS, BM25, RRF fusion, optional MiniLM reranker. Generator: `gpt-oss-20b` (one row with 120b) over the top 5 chunks. Judge: `qwen3.8-27b`; I hand-checked 72 verdicts and agreed with 75% (overrides in `eval/judge_audit.json`, raw judge scores in brackets). These numbers are from the first answer prompt; a revised prompt (v2) is in the code and its answers are regenerated, but judging them is incomplete (see README, "Status of the results").
+**Setup.** 15 public RBI and MeitY documents (~240 page-equivalents, 7 superseded) plus one planted injection note; details in `corpus/metadata.csv`. Retrieval: `bge-base` + FAISS, BM25, RRF fusion, optional MiniLM reranker. Generator: `gpt-oss-20b` (one row with 120b) over the top 5 chunks. Judge: `qwen3.8-27b`; I hand-checked 72 verdicts and agreed with 75% (overrides in `results/old_run/prompt_v1/judge_audit.json`, raw judge scores in brackets). These numbers are from the first answer prompt; a revised prompt (v2) is in the code and its answers are regenerated, but judging them is incomplete (see README, "Status of the results").
 
-| Chunks | Retrieval | Model | hit@5 | MRR | Correct (raw judge) | False refusals | Adversarial | Latency | Cost/q |
-|---|---|---|---|---|---|---|---|---|---|
-| fixed | dense | 20b | 0.914 | 0.692 | 94.3% (94.3) | 1/35 | 4/5 | 1.5 s | $0.00024 |
-| fixed | hybrid | 20b | 0.971 | 0.805 | 97.1% (88.6) | 1/35 | 5/5 | 1.4 s | $0.00023 |
-| section | dense | 20b | 0.886 | 0.796 | 88.6% (82.9) | 3/35 | 4/5 | 1.1 s | $0.00019 |
-| **section** | **hybrid** | **20b** | 0.971 | 0.860 | 94.3% (88.6) | 1/35 | 5/5 | 0.9 s | $0.00020 |
-| section | hybrid + rerank | 20b | 0.971 | 0.942 | 97.1% (94.3) | 1/35 | 5/5 | 9.7 s | $0.00019 |
-| section | hybrid + rerank | 120b | 0.971 | 0.942 | 94.3% (94.3) | 1/35 | 4/5 | 7.3 s | $0.00041 |
+| Chunks      | Retrieval       | Model   | hit@5 |   MRR | Correct (raw judge) | False refusals | Adversarial | Latency |   Cost/q |
+| ----------- | --------------- | ------- | ----: | ----: | ------------------: | -------------: | ----------: | ------: | -------: |
+| fixed       | dense           | 20b     | 0.914 | 0.692 |        94.3% (94.3) |           1/35 |         4/5 |   1.5 s | $0.00024 |
+| fixed       | hybrid          | 20b     | 0.971 | 0.805 |        97.1% (88.6) |           1/35 |         5/5 |   1.4 s | $0.00023 |
+| section     | dense           | 20b     | 0.886 | 0.796 |        88.6% (82.9) |           3/35 |         4/5 |   1.1 s | $0.00019 |
+| **section** | **hybrid**      | **20b** | 0.971 | 0.860 |        94.3% (88.6) |           1/35 |         5/5 |   0.9 s | $0.00020 |
+| section     | hybrid + rerank | 20b     | 0.971 | 0.942 |        97.1% (94.3) |           1/35 |         5/5 |   9.7 s | $0.00019 |
+| section     | hybrid + rerank | 120b    | 0.971 | 0.942 |        94.3% (94.3) |           1/35 |         4/5 |   7.3 s | $0.00041 |
 
 All six declined all 10 unanswerable questions; citation precision was 100% except fixed + dense (97.5%). BM25 alone: 0.971 / 0.912 (fixed), 0.971 / 0.874 (section). Latency is from a laptop CPU.
 

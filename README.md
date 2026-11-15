@@ -49,7 +49,7 @@ Models: embeddings `BAAI/bge-base-en-v1.5`, reranker `cross-encoder/ms-marco-Min
 generators `openai/gpt-oss-20b` and `openai/gpt-oss-120b` on Groq (`GROQ_API_KEY` in `.env`). Groq's free tier allows
 200k tokens/day per model per account, so when `OPENROUTER_API_KEY` is set `gpt-oss-120b` goes through OpenRouter,
 pinned to the Groq provider (same model and serving stack). Judge `qwen/qwen3.8-27b` on Groq (env `RAG_JUDGE_MODEL`),
-a different model family from the generators; manual audit overrides are in `eval/judge_audit.json`.
+a different model family from the generators; manual audit overrides go in `eval/judge_audit.json` (the completed v1 audit is in `results/old_run/prompt_v1/`).
 `claude-*` model names (env `RAG_GEN_MODEL`) route to the Anthropic API (`ANTHROPIC_API_KEY`).
 On a low-RAM machine set `OPENBLAS_NUM_THREADS=1`.
 
