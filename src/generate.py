@@ -184,7 +184,8 @@ def call_openrouter(model, system, user, schema, effort="low", max_tokens=1500):
             body["response_format"] = {"type": "json_object"}  # provider without strict schemas
             msgs[0]["content"] = system + "\n\nReply with a single JSON object matching this JSON schema:\n" + json.dumps(schema)
             continue
-        if r is not None and r.status_code not in (408, 429, 500, 502, 503, 504):
+        in_flight = r is not None and r.status_code == 402 and "in_flight" in r.text  # transient: other requests still running
+        if r is not None and r.status_code not in (408, 429, 500, 502, 503, 504) and not in_flight:
             raise RuntimeError(f"OpenRouter error {r.status_code}: {r.text[:300]}")
         delay = min(60, 5 * (attempt + 1))
         time.sleep(delay)

@@ -23,8 +23,13 @@ src/
   generate.py  judge.py                          LLM answer step (Groq / OpenRouter / Anthropic), LLM judge
   evaluate.py                                    metrics + results table
   superseded_demo.py                             old-vs-new circular demo
+  ask.py                                         ask one question, or compare setups side by side
+  tables.py                                      terminal and Markdown table helpers
   make_metadata.py
-results/                   retrieval_metrics.json, answers_*.jsonl, results_table.md/.csv, superseded_demo.md
+results/                   retrieval_metrics.json, answers_*.jsonl, judgments_*.jsonl, results_table.md/.csv, superseded_demo.md
+results/old_run/           earlier and stopped runs (prompt v1, partial judge runs), kept for comparison
+eval/judge_audit.json      manual audit of judge verdicts
+scripts/                   document PDFs, Markdown table check/format helpers
 ```
 
 ## Run
@@ -49,15 +54,34 @@ Models: embeddings `BAAI/bge-base-en-v1.5`, reranker `cross-encoder/ms-marco-Min
 generators `openai/gpt-oss-20b` and `openai/gpt-oss-120b` on Groq (`GROQ_API_KEY` in `.env`). Groq's free tier allows
 200k tokens/day per model per account, so when `OPENROUTER_API_KEY` is set `gpt-oss-120b` goes through OpenRouter,
 pinned to the Groq provider (same model and serving stack). Judge `qwen/qwen3.8-27b` on Groq (env `RAG_JUDGE_MODEL`),
-a different model family from the generators; manual audit overrides go in `eval/judge_audit.json` (the completed v1 audit is in `results/old_run/prompt_v1/`).
+a different model family from the generators; manual audit overrides are in `eval/judge_audit.json`.
 `claude-*` model names (env `RAG_GEN_MODEL`) route to the Anthropic API (`ANTHROPIC_API_KEY`).
-On a low-RAM machine set `OPENBLAS_NUM_THREADS=1`.
+On a low-RAM machine set `OPENBLAS_NUM_THREADS=1`. All Hugging Face caches go to `.cache/` inside the project.
 
-## Status of the results
-- **Fully evaluated run (prompt v1):** the numbers in `WRITEUP.md` and `results/results_table.md`. Its answers, all 300
-  judge verdicts and the manual audit are in `results/old_run/prompt_v1/` (with the v1 prompt as `generate_prompt_v1.py`).
-- **Current prompt (v2, in `src/generate.py`):** changed after held-out live questions (everyday wording such as "OTP",
-  entity scope, injection flag). All 300 answers are regenerated in `results/answers_*.jsonl`, but only 90 of 300 judge
-  verdicts finished (`results/judgments_*.jsonl`) before Groq's free-tier capacity for the judge model ran out, so
-  the v2 table is not built yet. To finish: `python src/evaluate.py judge`, audit, then `python src/evaluate.py table`.
-All Hugging Face caches go to `.cache/` inside the project.
+## Results (prompt v2, all 300 answers judged and audited)
+
+| Chunks  | Retrieval       | Model | hit@5 |   MRR | Correct | Wrong answers | False refusals | Adversarial | Latency |
+| ------- | --------------- | ----- | ----: | ----: | ------: | ------------: | -------------: | ----------: | ------: |
+| fixed   | dense           | 20b   | 0.914 | 0.692 |   91.4% |             1 |           1/35 |         5/5 |   1.1 s |
+| fixed   | hybrid          | 20b   | 0.971 | 0.805 |   97.1% |             1 |           0/35 |         5/5 |   1.2 s |
+| section | dense           | 20b   | 0.886 | 0.796 |   91.4% |             0 |           3/35 |         4/5 |   1.0 s |
+| section | hybrid          | 20b   | 0.971 | 0.860 |   97.1% |             0 |           1/35 |         5/5 |   1.1 s |
+| section | hybrid + rerank | 20b   | 0.971 | 0.942 |   97.1% |             0 |           1/35 |         5/5 |   4.4 s |
+| section | hybrid + rerank | 120b  | 0.971 | 0.942 |   97.1% |             0 |           0/35 |         5/5 |   5.5 s |
+
+Recommended setup: **section chunks + hybrid retrieval, no reranker** (best correctness, no wrong answers, about 1 s).
+All six setups declined all 10 unanswerable questions. Full tables: `results/results_table.md`; analysis: `WRITEUP.md`.
+
+- **Answers:** `results/answers_*.jsonl`, generated with the current prompt (v2) in `src/generate.py`.
+- **Judge verdicts:** `results/judgments_*.jsonl`, all 300 from `qwen/qwen3.8-27b` on Groq.
+- **Manual audit:** `eval/judge_audit.json`, 43 verdicts checked, 77% agreement, 10 overrides (all where the judge was
+  stricter than its rubric). "Correct" above applies the audit; raw judge scores are in the full table.
+- **Earlier run (prompt v1):** answers, verdicts and audit in `results/old_run/prompt_v1/`, kept for comparison.
+  `results/old_run/` also holds partial runs that were stopped (for example verdicts from another provider), so that
+  every reported verdict comes from one judge on one provider.
+
+### Getting all verdicts on the free tier
+Groq's free tier allows 200k tokens per day per model per **account** (about 55-100 judge verdicts), and keys from the
+same account share it. `evaluate.py judge` is resumable: it skips questions already judged, so it can be re-run with a
+key from another account (`GROQ_API_KEY=... python src/evaluate.py judge <config>`). Give each process different
+configs so two processes never append to the same file.

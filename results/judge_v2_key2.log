@@ -67,3 +67,25 @@ judge B-hybrid-rerank-gptoss20b A16 correct
 judge B-hybrid-rerank-gptoss20b A17 correct
 judge B-hybrid-rerank-gptoss20b A18 correct
 judge B-hybrid-rerank-gptoss20b A19 correct
+judge B-hybrid-rerank-gptoss20b A20 correct
+judge B-hybrid-rerank-gptoss20b A21 refused
+judge B-hybrid-rerank-gptoss20b A22 correct
+judge B-hybrid-rerank-gptoss20b A23 correct
+Traceback (most recent call last):
+  File "D:\dwara\src\evaluate.py", line 296, in <module>
+    judge_pending(args or list(ANSWER_CONFIGS), loop="--loop" in sys.argv)
+  File "D:\dwara\src\evaluate.py", line 171, in judge_pending
+    j = judge(items[r["qid"]], r, [by_id[c] for c in r["citations"]])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dwara\src\judge.py", line 63, in judge
+    out, usage, _, _ = call_llm(model, JUDGE_SYSTEM, user, ANS_SCHEMA, effort="low", max_tokens=2000)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dwara\src\generate.py", line 214, in call_llm
+    return call_groq(model, system, user, schema, effort, max_tokens)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dwara\src\generate.py", line 132, in call_groq
+    resp, latency = _groq_create(
+                    ^^^^^^^^^^^^^
+  File "D:\dwara\src\generate.py", line 118, in _groq_create
+    raise RuntimeError("Groq request failed after retries")
+RuntimeError: Groq request failed after retries

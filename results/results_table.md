@@ -4,16 +4,16 @@ One row per configuration. The full set of columns is in `results_table.csv`.
 
 ## Retrieval and answer quality
 
-35 answerable questions. "Correct %" applies the manual audit in `results/old_run/prompt_v1/judge_audit.json`; "Raw judge %" is the LLM judge alone.
+35 answerable questions. "Correct %" applies the manual audit in `eval/judge_audit.json`; "Raw judge %" is the LLM judge alone.
 
 | Chunking     | Retrieval       | Generator    | hit@5 | MRR@10 | Correct % | Raw judge % | Correct or partial % | Citation precision % | Gold chunk cited % |
 | ------------ | --------------- | ------------ | ----: | -----: | --------: | ----------: | -------------------: | -------------------: | -----------------: |
-| fixed 400/50 | dense           | gpt-oss-20b  | 0.914 |  0.692 |      94.3 |        94.3 |                 97.1 |                 97.5 |               94.1 |
-| fixed 400/50 | hybrid          | gpt-oss-20b  | 0.971 |  0.805 |      97.1 |        88.6 |                 97.1 |                100.0 |              100.0 |
-| section      | dense           | gpt-oss-20b  | 0.886 |  0.796 |      88.6 |        82.9 |                 91.4 |                100.0 |               96.9 |
-| section      | hybrid          | gpt-oss-20b  | 0.971 |  0.860 |      94.3 |        88.6 |                 97.1 |                100.0 |              100.0 |
-| section      | hybrid + rerank | gpt-oss-20b  | 0.971 |  0.942 |      97.1 |        94.3 |                 97.1 |                100.0 |              100.0 |
-| section      | hybrid + rerank | gpt-oss-120b | 0.971 |  0.942 |      94.3 |        94.3 |                 97.1 |                100.0 |              100.0 |
+| fixed 400/50 | dense           | gpt-oss-20b  | 0.914 |  0.692 |      91.4 |        91.4 |                 94.3 |                100.0 |               94.1 |
+| fixed 400/50 | hybrid          | gpt-oss-20b  | 0.971 |  0.805 |      97.1 |        94.3 |                 97.1 |                 97.7 |               97.1 |
+| section      | dense           | gpt-oss-20b  | 0.886 |  0.796 |      91.4 |        91.4 |                 91.4 |                100.0 |               96.9 |
+| section      | hybrid          | gpt-oss-20b  | 0.971 |  0.860 |      97.1 |        97.1 |                 97.1 |                100.0 |              100.0 |
+| section      | hybrid + rerank | gpt-oss-20b  | 0.971 |  0.942 |      97.1 |        97.1 |                 97.1 |                100.0 |              100.0 |
+| section      | hybrid + rerank | gpt-oss-120b | 0.971 |  0.942 |      97.1 |        97.1 |                100.0 |                 97.3 |               97.1 |
 
 ## Refusals and safety
 
@@ -21,12 +21,12 @@ One row per configuration. The full set of columns is in `results_table.csv`.
 
 | Chunking     | Retrieval       | Generator    | Unanswerable declined | False refusals | Adversarial passed | Superseded chunks cited | Judge overrides |
 | ------------ | --------------- | ------------ | --------------------: | -------------: | -----------------: | ----------------------: | --------------: |
-| fixed 400/50 | dense           | gpt-oss-20b  |                 10/10 |           1/35 |                4/5 |                       1 |               2 |
-| fixed 400/50 | hybrid          | gpt-oss-20b  |                 10/10 |           1/35 |                5/5 |                       1 |               5 |
-| section      | dense           | gpt-oss-20b  |                 10/10 |           3/35 |                4/5 |                       1 |               2 |
-| section      | hybrid          | gpt-oss-20b  |                 10/10 |           1/35 |                5/5 |                       1 |               4 |
-| section      | hybrid + rerank | gpt-oss-20b  |                 10/10 |           1/35 |                5/5 |                       1 |               3 |
-| section      | hybrid + rerank | gpt-oss-120b |                 10/10 |           1/35 |                4/5 |                       1 |               3 |
+| fixed 400/50 | dense           | gpt-oss-20b  |                 10/10 |           1/35 |                5/5 |                       1 |               1 |
+| fixed 400/50 | hybrid          | gpt-oss-20b  |                 10/10 |           0/35 |                5/5 |                       1 |               4 |
+| section      | dense           | gpt-oss-20b  |                 10/10 |           3/35 |                4/5 |                       1 |               1 |
+| section      | hybrid          | gpt-oss-20b  |                 10/10 |           1/35 |                5/5 |                       1 |               1 |
+| section      | hybrid + rerank | gpt-oss-20b  |                 10/10 |           1/35 |                5/5 |                       1 |               2 |
+| section      | hybrid + rerank | gpt-oss-120b |                 10/10 |           0/35 |                5/5 |                       1 |               1 |
 
 ## Latency and cost
 
@@ -34,12 +34,12 @@ Averages over all 50 questions. Latency is end to end on a laptop CPU and exclud
 
 | Chunking     | Retrieval       | Generator    | Avg latency (s) | Cost per query (USD) | Questions |
 | ------------ | --------------- | ------------ | --------------: | -------------------: | --------: |
-| fixed 400/50 | dense           | gpt-oss-20b  |             1.5 |              0.00024 |        50 |
-| fixed 400/50 | hybrid          | gpt-oss-20b  |             1.4 |              0.00023 |        50 |
-| section      | dense           | gpt-oss-20b  |             1.1 |              0.00019 |        50 |
-| section      | hybrid          | gpt-oss-20b  |             0.9 |              0.00020 |        50 |
-| section      | hybrid + rerank | gpt-oss-20b  |             9.7 |              0.00019 |        50 |
-| section      | hybrid + rerank | gpt-oss-120b |             7.3 |              0.00041 |        50 |
+| fixed 400/50 | dense           | gpt-oss-20b  |             1.1 |              0.00024 |        50 |
+| fixed 400/50 | hybrid          | gpt-oss-20b  |             1.2 |              0.00023 |        50 |
+| section      | dense           | gpt-oss-20b  |             1.0 |              0.00020 |        50 |
+| section      | hybrid          | gpt-oss-20b  |             1.1 |              0.00020 |        50 |
+| section      | hybrid + rerank | gpt-oss-20b  |             4.4 |              0.00020 |        50 |
+| section      | hybrid + rerank | gpt-oss-120b |             5.5 |              0.00042 |        50 |
 
 ## Retrieval only, all configurations
 

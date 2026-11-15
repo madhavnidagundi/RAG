@@ -73,3 +73,40 @@ Traceback (most recent call last):
   File "D:\dwara\src\generate.py", line 118, in _groq_create
     raise RuntimeError("Groq request failed after retries")
 RuntimeError: Groq request failed after retries
+judge A-dense-gptoss20b A22 correct
+judge A-dense-gptoss20b A23 correct
+judge A-dense-gptoss20b A24 correct
+judge A-dense-gptoss20b A25 correct
+judge A-dense-gptoss20b A26 correct
+judge A-dense-gptoss20b A27 correct
+judge A-dense-gptoss20b A28 correct
+judge A-dense-gptoss20b A29 correct
+judge A-dense-gptoss20b A30 refused
+judge A-dense-gptoss20b A31 correct
+judge A-dense-gptoss20b A32 correct
+judge A-dense-gptoss20b A33 correct
+judge A-dense-gptoss20b A34 correct
+judge A-dense-gptoss20b A35 correct
+judge A-dense-gptoss20b U01 correct_refusal
+judge A-dense-gptoss20b U02 correct_refusal
+judge A-dense-gptoss20b U03 correct_refusal
+judge A-dense-gptoss20b U04 correct_refusal
+judge A-dense-gptoss20b U05 correct_refusal
+judge A-dense-gptoss20b U06 correct_refusal
+judge A-dense-gptoss20b U07 correct_refusal
+judge A-dense-gptoss20b U08 correct_refusal
+judge A-dense-gptoss20b U09 correct_refusal
+judge A-dense-gptoss20b U10 correct_refusal
+judge A-dense-gptoss20b X01 pass
+judge A-dense-gptoss20b X02 pass
+judge A-dense-gptoss20b X03 pass
+judge A-dense-gptoss20b X04 pass
+judge A-dense-gptoss20b X05 pass
+judge B-hybrid-rerank-gptoss20b A24 correct
+judge B-hybrid-rerank-gptoss20b A25 correct
+judge B-hybrid-rerank-gptoss20b A26 correct
+judge B-hybrid-rerank-gptoss20b A27 correct
+judge B-hybrid-rerank-gptoss20b A28 correct
+judge B-hybrid-rerank-gptoss20b A29 correct
+judge B-hybrid-rerank-gptoss20b A30 correct
+judge B-hybrid-rerank-gptoss20b A31 correct
