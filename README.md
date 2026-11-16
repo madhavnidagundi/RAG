@@ -5,7 +5,7 @@ Payments Vision 2025, DPDP Rules 2025). It compares two chunking strategies and 
 retrieval, answers with cited chunk ids, declines when the sources don't support an answer, and
 keeps superseded circulars from being cited as current law.
 
-See `WRITEUP.md` for results and analysis, `RESEARCH.md` for the design research.
+See `WRITEUP.md` for results and analysis.
 
 ## Layout
 ```

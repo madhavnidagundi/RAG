@@ -1,7 +1,4 @@
 # Task 6 — RAG Pipeline: Research & Recommended Approach
-
-*Researched 13 Nov 2026. Regulatory facts below come from RBI pages plus law-firm write-ups. **Check every document against rbi.org.in when you download it**: RBI's status flags ("repealed", "updated as on …") are the ground truth for the superseded-circular part.*
-
 ---
 
 ## 0. TL;DR — the recommended stack

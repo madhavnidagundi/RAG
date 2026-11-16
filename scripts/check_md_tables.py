@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-FILES = ["README.md", "WRITEUP.md", "RESEARCH.md"] + sorted(glob.glob("results/*.md", root_dir=ROOT))
+FILES = ["README.md", "WRITEUP.md"] + sorted(glob.glob("results/*.md", root_dir=ROOT))
 SPLIT = re.compile(r"(?<!\\)\|")
 SEP = re.compile(r"\|?[\s:\-|]+\|?")
 

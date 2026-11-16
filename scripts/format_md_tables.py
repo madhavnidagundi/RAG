@@ -1,5 +1,5 @@
 """Re-align every Markdown table in the given files: padded columns, numeric columns right-aligned.
-Cell text is not changed.   python scripts/format_md_tables.py RESEARCH.md WRITEUP.md"""
+Cell text is not changed.   python scripts/format_md_tables.py README.md WRITEUP.md"""
 import re
 import sys
 from pathlib import Path
