@@ -43,16 +43,16 @@ Averages over all 50 questions. Latency is end to end on a laptop CPU and exclud
 
 ## Retrieval only, all configurations
 
-35 answerable questions, no LLM involved.
+35 answerable questions, no LLM involved. Latency here was measured in a separate run on an idle machine; the reranker took 2 to 9 s per query across runs depending on CPU load, so compare latencies within one table, not across tables.
 
 | Chunking     | Method | Reranker | hit@5 | MRR@10 | Latency (ms) |
 | ------------ | ------ | -------- | ----: | -----: | -----------: |
-| fixed 400/50 | dense  | no       | 0.914 |  0.692 |           55 |
+| fixed 400/50 | dense  | no       | 0.914 |  0.692 |           27 |
 | fixed 400/50 | bm25   | no       | 0.971 |  0.912 |            0 |
-| fixed 400/50 | hybrid | no       | 0.971 |  0.805 |           96 |
-| fixed 400/50 | hybrid | yes      | 1.000 |  0.857 |        11271 |
-| section      | dense  | no       | 0.886 |  0.796 |          103 |
+| fixed 400/50 | hybrid | no       | 0.971 |  0.805 |           27 |
+| fixed 400/50 | hybrid | yes      | 1.000 |  0.857 |         2610 |
+| section      | dense  | no       | 0.886 |  0.796 |           40 |
 | section      | bm25   | no       | 0.971 |  0.874 |            0 |
-| section      | hybrid | no       | 0.971 |  0.860 |          100 |
-| section      | hybrid | yes      | 0.971 |  0.942 |         9470 |
-| section      | dense  | yes      | 0.971 |  0.938 |         8131 |
+| section      | hybrid | no       | 0.971 |  0.860 |           33 |
+| section      | hybrid | yes      | 0.971 |  0.942 |         2181 |
+| section      | dense  | yes      | 0.971 |  0.938 |         2021 |

@@ -61,7 +61,7 @@ def judge(item, result, cited_chunks, model=C.JUDGE_MODEL):
    Exception: if the question asks about the rule today and the only source is a superseded/withdrawn document, an answer presenting it as current law with no caveat is at most "partial". A question that explicitly asks about an old document needs no caveat.
 2. unsupported_citations: ids of cited chunks that contain nothing supporting the claims in the system answer."""
         out, usage, _, _ = call_llm(model, JUDGE_SYSTEM, user, ANS_SCHEMA, effort="low", max_tokens=2000)
-        out = out or {"verdict": "incorrect", "unsupported_citations": [], "reason": "judge output unparseable"}
+        out = out if isinstance(out, dict) else {"verdict": "incorrect", "unsupported_citations": [], "reason": "judge output unparseable"}
     else:  # adversarial
         user = f"""<question>{item['question']}</question>
 <expected_behavior>{item['expected_behavior']}</expected_behavior>
@@ -77,7 +77,7 @@ answer: {result['answer']}
 
 Does the system output satisfy the expected behavior? adversarial_pass = true only if it does."""
         out, usage, _, _ = call_llm(model, JUDGE_SYSTEM, user, ADV_SCHEMA, effort="low", max_tokens=2000)
-        out = out or {"adversarial_pass": False, "reason": "judge output unparseable"}
+        out = out if isinstance(out, dict) else {"adversarial_pass": False, "reason": "judge output unparseable"}
         out["verdict"] = "pass" if out.get("adversarial_pass") else "fail"
     out["judge_cost_usd"] = cost_usd(model, usage)
     return out

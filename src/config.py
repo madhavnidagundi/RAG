@@ -1,4 +1,4 @@
-"""Shared paths, model names and prices. Keeps every cache on D: (C: is full)."""
+"""Shared paths, model names and prices. All model caches stay inside the project (.cache/)."""
 import os
 from pathlib import Path
 
@@ -26,7 +26,7 @@ RESULTS = ROOT / "results"
 for p in (CHUNKS, INDEX, RESULTS, CACHE / "tmp"):
     p.mkdir(parents=True, exist_ok=True)
 
-EMBED_MODEL = "BAAI/bge-base-en-v1.5"   # BGE-M3 (2.3 GB) would not download on this connection
+EMBED_MODEL = "BAAI/bge-base-en-v1.5"   # small enough for a laptop CPU; BGE-M3 (2.3 GB) was the alternative
 QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
 RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-12-v2"
 
@@ -43,8 +43,9 @@ RRF_K = 60
 RERANK_CANDIDATES = 30
 
 # Generation. Provider is picked from the model name: "claude-*" -> Anthropic, otherwise Groq.
-GEN_MODEL = os.environ.get("RAG_GEN_MODEL", "openai/gpt-oss-120b")  # set e.g. claude-haiku-5-5 to use the Anthropic API
-SMALL_GEN_MODEL = "openai/gpt-oss-20b"
+SMALL_GEN_MODEL = "openai/gpt-oss-20b"    # generator in the recommended configuration
+LARGE_GEN_MODEL = "openai/gpt-oss-120b"   # one evaluation row, to test whether a larger model helps
+GEN_MODEL = os.environ.get("RAG_GEN_MODEL", SMALL_GEN_MODEL)  # default for ask.py / the demo; e.g. claude-haiku-5-5 uses the Anthropic API
 JUDGE_MODEL = os.environ.get("RAG_JUDGE_MODEL", "qwen/qwen3.8-27b")  # different family from the generator
 # USD per million tokens (input, output). Groq prices from console.groq.com/docs/model/* (Nov 2026).
 PRICES = {

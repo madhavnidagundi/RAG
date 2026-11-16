@@ -269,9 +269,9 @@ def answer(question, retrieval, model=C.GEN_MODEL, gate_threshold=None):
     user = (f"<question>\n{question}\n</question>\n\n<sources>\n{format_sources(chunks)}\n</sources>\n\n"
             "Answer the question using only these sources, following the rules.")
     out, usage, latency, raw = call_llm(model, SYSTEM, user, SCHEMA)
-    if out is None:  # empty / non-JSON output: retry once before treating it as a refusal
+    if not isinstance(out, dict):  # empty / non-JSON / non-object output: retry once before treating it as a refusal
         out, usage, latency, raw = call_llm(model, SYSTEM, user, SCHEMA)
-    if out is None:
+    if not isinstance(out, dict):
         out = {"answer": "", "citations": [], "refused": True, "refusal_reason": f"unparseable output: {raw[:200]}",
                "uses_superseded_source": False, "injection_detected": False}
     cited = list(dict.fromkeys(out.get("citations", [])))

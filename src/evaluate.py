@@ -29,7 +29,7 @@ ANSWER_CONFIGS = {  # name -> (strategy, method, rerank, generator model)
     # generator, and the best retrieval config on the larger model.
     "B-dense-gptoss20b": ("B", "dense", False, C.SMALL_GEN_MODEL),
     "B-hybrid-gptoss20b": ("B", "hybrid", False, C.SMALL_GEN_MODEL),
-    "B-hybrid-rerank": ("B", "hybrid", True, C.GEN_MODEL),
+    "B-hybrid-rerank": ("B", "hybrid", True, C.LARGE_GEN_MODEL),
     # Added so every comparison changes one thing at a time with the same generator (20b):
     # fixed vs section chunks (A-* vs B-*), dense vs hybrid, and reranker on/off.
     "A-dense-gptoss20b": ("A", "dense", False, C.SMALL_GEN_MODEL),
@@ -274,7 +274,9 @@ def table():
         ("Refusals and safety", "10 unanswerable, 35 answerable and 5 adversarial questions.", t2),
         ("Latency and cost", "Averages over all 50 questions. Latency is end to end on a laptop CPU and excludes "
          "free-tier rate-limit waits; cost uses list prices.", t3),
-        ("Retrieval only, all configurations", "35 answerable questions, no LLM involved.", (h4, r4, (3, 4, 5))),
+        ("Retrieval only, all configurations", "35 answerable questions, no LLM involved. Latency here was measured in a "
+         "separate run on an idle machine; the reranker took 2 to 9 s per query across runs depending on CPU load, "
+         "so compare latencies within one table, not across tables.", (h4, r4, (3, 4, 5))),
     ]
     md = ["# Results", "", "One row per configuration. The full set of columns is in `results_table.csv`.", ""]
     for title, note, (h, r, right) in sections:

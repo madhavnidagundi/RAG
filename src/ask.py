@@ -92,7 +92,7 @@ def main():
     ap.add_argument("--strategy", default="B", choices=["A", "B"], help="A = fixed chunks, B = section chunks")
     ap.add_argument("--method", default="hybrid", choices=["dense", "bm25", "hybrid"])
     ap.add_argument("--rerank", action="store_true")
-    ap.add_argument("--model", default=C.SMALL_GEN_MODEL)
+    ap.add_argument("--model", default=C.GEN_MODEL)
     ap.add_argument("--no-llm", action="store_true", help="retrieval only")
     ap.add_argument("--compare", action="store_true", help="run each question through four setups side by side")
     a = ap.parse_args()

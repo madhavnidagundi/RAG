@@ -12,6 +12,7 @@ See `WRITEUP.md` for results and analysis, `RESEARCH.md` for the design research
 corpus/sources.json        document list (URLs, dates, status, superseded_by)
 corpus/metadata.csv        generated metadata + parsing notes for every document
 corpus/raw/                downloaded files (RBI notification pages as HTML, DPDP Gazette PDF)
+corpus/documents/          every document as a readable PDF, plus clean text and INDEX.csv
 corpus/adversarial/        synthetic prompt-injection test document (not part of the 15)
 corpus/parsed/             cleaned text + blocks with char offsets
 data/chunks/               chunks_A.jsonl (fixed 400/50), chunks_B.jsonl (section-aware)
@@ -27,9 +28,10 @@ src/
   tables.py                                      terminal and Markdown table helpers
   make_metadata.py
 results/                   retrieval_metrics.json, answers_*.jsonl, judgments_*.jsonl, results_table.md/.csv, superseded_demo.md
-results/old_run/           earlier and stopped runs (prompt v1, partial judge runs), kept for comparison
+results/old_run/           earlier and stopped runs, kept for comparison (see its README.md)
 eval/judge_audit.json      manual audit of judge verdicts
-scripts/                   document PDFs, Markdown table check/format helpers
+scripts/                   builds corpus/documents PDFs; Markdown table check/format; corpus-building helpers
+.env.example               the API keys the pipeline reads
 ```
 
 ## Run
@@ -43,15 +45,21 @@ python src/index.py               # BGE embeddings + FAISS, BM25
 python eval/build_eval_set.py     # 35 answerable + 10 unanswerable + 5 adversarial
 python src/evaluate.py retrieval  # hit@5 / MRR@10 for all retrieval configs (no API needed)
 
-# needs GROQ_API_KEY in .env (git-ignored): echo GROQ_API_KEY=... > .env
+# needs GROQ_API_KEY in .env (git-ignored): copy .env.example to .env and fill it in
 python src/evaluate.py answers    # all answer configs, resumable
 python src/evaluate.py judge --loop  # LLM judge (can run alongside `answers`)
 python src/evaluate.py table      # results/results_table.md
 python src/superseded_demo.py     # results/superseded_demo.md
 python src/ask.py "your question" # one question end to end: retrieved chunks, answer, citations, flags
+python src/ask.py --compare "your question"   # same question through four setups, side by side
+python src/ask.py --no-llm "your question"    # retrieval only, no API key needed
 ```
+**Quick start:** the parsed corpus, chunks, indexes and eval set are all in the repo. After installing the requirements,
+`ask.py` and `evaluate.py` work straight away (the embedding model downloads on first use); the ingestion steps
+above are only needed to rebuild from scratch.
+
 Models: embeddings `BAAI/bge-base-en-v1.5`, reranker `cross-encoder/ms-marco-MiniLM-L-12-v2`,
-generators `openai/gpt-oss-20b` and `openai/gpt-oss-120b` on Groq (`GROQ_API_KEY` in `.env`). Groq's free tier allows
+generators `openai/gpt-oss-20b` (default) and `openai/gpt-oss-120b` (one evaluation row) on Groq (`GROQ_API_KEY` in `.env`). Groq's free tier allows
 200k tokens/day per model per account, so when `OPENROUTER_API_KEY` is set `gpt-oss-120b` goes through OpenRouter,
 pinned to the Groq provider (same model and serving stack). Judge `qwen/qwen3.8-27b` on Groq (env `RAG_JUDGE_MODEL`),
 a different model family from the generators; manual audit overrides are in `eval/judge_audit.json`.

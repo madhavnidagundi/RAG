@@ -6,7 +6,7 @@
   "rerank": false,
   "hit@5": 0.9142857142857143,
   "MRR@10": 0.6921428571428572,
-  "retrieval_latency_ms": 54.77355142793385
+  "retrieval_latency_ms": 27.150485714316478
  },
  {
   "config": "A-bm25",
@@ -15,7 +15,7 @@
   "rerank": false,
   "hit@5": 0.9714285714285714,
   "MRR@10": 0.9119047619047619,
-  "retrieval_latency_ms": 0.3242914287381739
+  "retrieval_latency_ms": 0.30369142858554754
  },
  {
   "config": "A-hybrid",
@@ -24,7 +24,7 @@
   "rerank": false,
   "hit@5": 0.9714285714285714,
   "MRR@10": 0.8047619047619048,
-  "retrieval_latency_ms": 96.08383428598505
+  "retrieval_latency_ms": 26.984582857156575
  },
  {
   "config": "A-hybrid-rerank",
@@ -33,7 +33,7 @@
   "rerank": true,
   "hit@5": 1.0,
   "MRR@10": 0.8571428571428571,
-  "retrieval_latency_ms": 11271.090619999968
+  "retrieval_latency_ms": 2609.9412685713883
  },
  {
   "config": "B-dense",
@@ -42,7 +42,7 @@
   "rerank": false,
   "hit@5": 0.8857142857142857,
   "MRR@10": 0.7957142857142857,
-  "retrieval_latency_ms": 102.77845142835369
+  "retrieval_latency_ms": 40.45833142857061
  },
  {
   "config": "B-bm25",
@@ -51,7 +51,7 @@
   "rerank": false,
   "hit@5": 0.9714285714285714,
   "MRR@10": 0.8740816326530612,
-  "retrieval_latency_ms": 0.35630857143717415
+  "retrieval_latency_ms": 0.3111114285794818
  },
  {
   "config": "B-hybrid",
@@ -60,7 +60,7 @@
   "rerank": false,
   "hit@5": 0.9714285714285714,
   "MRR@10": 0.8604761904761905,
-  "retrieval_latency_ms": 99.70447714263824
+  "retrieval_latency_ms": 32.830519999996405
  },
  {
   "config": "B-hybrid-rerank",
@@ -69,7 +69,7 @@
   "rerank": true,
   "hit@5": 0.9714285714285714,
   "MRR@10": 0.9416666666666668,
-  "retrieval_latency_ms": 9469.722151428348
+  "retrieval_latency_ms": 2180.787594285656
  },
  {
   "config": "B-dense-rerank",
@@ -78,6 +78,6 @@
   "rerank": true,
   "hit@5": 0.9714285714285714,
   "MRR@10": 0.9380952380952382,
-  "retrieval_latency_ms": 8130.881174285605
+  "retrieval_latency_ms": 2021.164008571369
  }
 ]
