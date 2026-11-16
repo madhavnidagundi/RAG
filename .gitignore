@@ -3,5 +3,6 @@
 .cache/
 __pycache__/
 *.log
-.research.mdRESEARCH.md
+.research.md
+RESEARCH.md
 recommended_stack.png
